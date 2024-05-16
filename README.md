@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/username)
 
 <!--
 **wouwouwou/wouwouwou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
