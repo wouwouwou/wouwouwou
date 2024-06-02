@@ -1712,7 +1712,7 @@ Since I'm working on documentation right now anyways; is it possible to move thi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.09m out of 134m users</span>
+                                    <span class="gh">ranked 8.09m out of 137m users</span>
                                 </div>
                                 <div class="text">Published 8 public repositories</div>
                             </div>
@@ -1909,7 +1909,7 @@ Since I'm working on documentation right now anyways; is it possible to move thi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2m out of 134m users</span>
+                                    <span class="gh">ranked 2m out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 7 users</div>
                             </div>
@@ -1992,7 +1992,7 @@ Since I'm working on documentation right now anyways; is it possible to move thi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.27m out of 202m repositories</span>
+                                    <span class="gh">ranked 5.27m out of 200m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2074,7 +2074,7 @@ Since I'm working on documentation right now anyways; is it possible to move thi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jun 2024, 03:58:49 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jun 2024, 04:32:57 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
