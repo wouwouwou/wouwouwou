@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            33 Pull requests reviewed
+                            34 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -133,7 +133,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 181 repositories
+                            Watching 180 repositories
                         </div>
                     </section>
                 </div>
@@ -422,12 +422,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 44 commits)</small>
+                    <small class="h-details">(computed from last 43 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.9 characters per line of code written</li>
+                        <li>Has approximately 38.6 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1487,19 +1487,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">nedap/ons-spraak-whismur</span>
+                                        Merged
+                                        <span class="issue">#57 Adds linux/amd64 as supported platform.</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">add-linter</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bbe884c</div>
-                                        <div class="message">Run linter</div>
-                                    </div>
+                                    <div> in <span class="repo">nedap/architecture-diagrams</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1510,40 +1507,21 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">nedap/ons-spraak-whismur</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">nedap/architecture-diagrams</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">add-linter</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fd3c394</div>
-                                        <div class="message">Merge branch 'development' into add-linter
+                                        <div class="sha">#aa3f6b3</div>
+                                        <div class="message">Merge pull request #57 from nedap/add-linux-amd64-build
 
-# Conflicts:
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/api/SpeechToTextResource.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/entity/TellJamesConfiguration.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/presenter/TranscriptionPresenter.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/providers/attendi/AttendiApiClientConfiguration.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/providers/attendi/AttendiTranscriptionService.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/providers/telljames/TellJamesAuthenticationClient.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/providers/telljames/TellJamesStreamingService.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/providers/telljames/TellJamesWebSocketBulkClient.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/providers/telljames/TellJamesWebSocketClient.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/service/CareProviderSettingService.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/service/TranscriptionService.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/service/streaming/WebSocketInterceptor.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/service/validators/EmployeeTeamActiveValidator.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/service/validators/EmployeeTeamActiveValidatorImpl.kt
-#	app/src/main/kotlin/com/nedap/healthcare/whismur/service/validators/EmployeeTeamActiveValidatorStub.kt
-#	app/src/test/kotlin/com/nedap/healthcare/whismur/api/SpeechToTextSettingResourceTest.kt
-#	app/src/test/kotlin/com/nedap/healthcare/whismur/providers/MockApi.kt
-#	app/src/test/kotlin/com/nedap/healthcare/whismur/providers/attendi/AttendiTestData.kt
-#	app/src/test/kotlin/com/nedap/healthcare/whismur/providers/telljames/TellJamesAuthenticationServiceTest.kt
-#	app/src/test/kotlin/com/nedap/healthcare/whismur/providers/telljames/TellJamesE2EStreamingTest.kt
-#	app/src/test/kotlin/com/nedap/healthcare/whismur/providers/telljames/TellJamesE2ETest.kt
-#	app/src/test/kotlin/com/nedap/healthcare/whismur/service/CareProviderSettingServiceTest.kt
-#	app/src/test/kotlin/com/nedap/healthcare/whismur/validators/EmployeeTeamActiveValidatorTest.kt</div>
+Adds linux/amd64 as supported platform.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c70c72</div>
+                                        <div class="message">Adds linux/amd64 as supported platform.</div>
                                     </div>
                                 </div>
                             </section>
@@ -1552,408 +1530,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">nedap/chansey</span>
+                                        Closed
+                                        <span class="issue">#53 build-structurizr-local.yml only releases linux/arm64 versions</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#013bf2a</div>
-                                        <div class="message">build(deps): Bump @nedap/unify-components from 15.19.3 to 16.0.0 in /web (#1488)
-
-Bumps
-[@nedap/unify-components](https://github.com/nedap/unify-components/tree/HEAD/packages/lit)
-from 15.19.3 to 16.0.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/nedap/unify-components/releases"&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;'s
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
-href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.0.0&lt;/h2&gt;
-&lt;h3&gt;Major Changes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- &lt;code&gt;uc-popover&lt;/code&gt; doesn't have a &lt;code&gt;disablePadding&lt;/code&gt;
-attribute anymore. This has been removed because the
-&lt;code&gt;uc-card&lt;/code&gt; that forms the basis of the &lt;code&gt;uc-popover&lt;/code&gt;
-doesn't support this attribute anymore. The &lt;code&gt;disablePadding&lt;/code&gt;
-attribute should be removed from you implementation of the
-&lt;code&gt;uc-popover&lt;/code&gt; component.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- Major changes have been made to all form components. With the refactor
-to Lit it was possible to completely overhaul the way forms work. We
-took this opportunity to make forms behave more like native form
-components. This is also why the &lt;code&gt;uc-validate&lt;/code&gt; feature was
-removed because form components are now compatible with a validation
-library of your choosing.&lt;/p&gt;
-&lt;p&gt;A couple of noteworthy components that got breaking changes are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;uc-select-box&lt;/code&gt; got renamed to &lt;code&gt;uc-select&lt;/code&gt; and
-now requires a slotted &lt;code&gt;uc-select-list&lt;/code&gt; component for its
-data.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;uc-radio&lt;/code&gt; and &lt;code&gt;uc-checkbox&lt;/code&gt; don't need a
-&lt;code&gt;uc-radio-group&lt;/code&gt; or &lt;code&gt;uc-checkbox-group&lt;/code&gt; component
-anymore.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;uc-input-selector&lt;/code&gt; and
-&lt;code&gt;uc-linear-scale-input&lt;/code&gt; components have been removed and will
-probably return in the future as a combined component.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Reasoning&lt;/strong&gt;
-The way form components worked in the previous version of the library
-meant the consumer had to jump through a lot of hoops to make forms work
-properly. We tried to make life easier by supplying consumers with
-things like a &lt;code&gt;uc-form&lt;/code&gt; component to submit data and
-&lt;code&gt;uc-validate&lt;/code&gt; to help with validation. But in the end it was
-never a perfect solution. This new version written in Lit is a lot
-easier to use and should feel more close to how html form elements
-work.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How to update&lt;/strong&gt;
-When you already use form components it's best to run through the
-implementation completely and verify it based on the documentation in
-Storybook. Easiest is probably to have a look at the &lt;code&gt;Full
-form&lt;/code&gt; example page in Storybook which contains a pretty complete
-example of how to use the new form components.&lt;/p&gt;
-&lt;p&gt;Other than that since &lt;code&gt;uc-validate&lt;/code&gt; has been removed,
-validation should be implemented based on a solution of your
-choosing.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- &lt;code&gt;uc-text-input&lt;/code&gt; and &lt;code&gt;uc-text-input&lt;/code&gt; don't have
-an &lt;code&gt;event.detail&lt;/code&gt; anymore that contains the value of the
-field. Instead you should use &lt;code&gt;event.target.value&lt;/code&gt; to get the
-value of the field. This behaviour resembles native input fields
-more.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- &lt;code&gt;uc-card&lt;/code&gt; is now completely composable with slots instead
-of having to rely on prop drilling.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Reasoning&lt;/strong&gt;
-We used a lot of prop drilling to set attributes on nested components in
-the card component. As prop drilling is something that needs to be
-prevented as much as possible we decided to remove this out of the
-component and instead make the component composable with slots. This
-offers way more flexibility and is also way easier to maintain.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How to update&lt;/strong&gt;
-The &lt;code&gt;header&lt;/code&gt;, &lt;code&gt;maxHeight&lt;/code&gt;,
-&lt;code&gt;hideSeparator&lt;/code&gt;, &lt;code&gt;disablePadding&lt;/code&gt; and
-&lt;code&gt;semanticHeadingLevel&lt;/code&gt; attributes have been removed. Instead
-of setting those attributes you can simply slot in the correct
-components into the &lt;code&gt;header&lt;/code&gt; and &lt;code&gt;footer&lt;/code&gt; slots
-and set attributes directly on those components. Be aware that the
-&lt;code&gt;header-action&lt;/code&gt; slot has also been removed in favour of using
-the &lt;code&gt;header&lt;/code&gt; slot. The &lt;code&gt;header&lt;/code&gt; used to be the
-&lt;code&gt;title&lt;/code&gt; slot and needs to be renamed as well if you made use
-of it. For a complete example on how to update have a look at the
-Storybook page of the component.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- The redundant &lt;code&gt;alignment&lt;/code&gt; property of the
-&lt;code&gt;uc-pagination&lt;/code&gt; component is removed. The same effect can be
-achieved by applying CSS to the component.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- Remove event details according to guidelines for the
-&lt;code&gt;uc-date-input&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- &lt;code&gt;uc-tags&lt;/code&gt; is renamed to &lt;code&gt;uc-tag-list&lt;/code&gt; and
-refactored to use slots instead of properties.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Reasoning&lt;/strong&gt;
-The rename makes it easier to differentiate with &lt;code&gt;uc-tag&lt;/code&gt; and
-makes more sense with the new implementation.&lt;/p&gt;
-&lt;p&gt;This change makes &lt;code&gt;uc-tag-list&lt;/code&gt; more consistent with the
-rest of the components and allows for more flexibility in the data that
-can be passed to it.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;uc-tag-list&lt;/code&gt; component has been updated to improve
-flexibility and customization. Instead of using properties to define the
-tags, it now utilizes slots. This allows for more dynamic and
-customizable rendering of the tags component.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;max-width&lt;/code&gt; property is now obsolete. The
-&lt;code&gt;uc-tag-list&lt;/code&gt; will always fit the space available in the
-parent container.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;deletable&lt;/code&gt; property is now obsolete.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How to update&lt;/strong&gt;
-To update your code to use the new &lt;code&gt;uc-tag-list&lt;/code&gt; component,
-make the following changes:&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/nedap/unify-components/blob/main/packages/lit/CHANGELOG.md"&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;'s
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;16.0.0&lt;/h2&gt;
-&lt;h3&gt;Major Changes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- &lt;code&gt;uc-popover&lt;/code&gt; doesn't have a &lt;code&gt;disablePadding&lt;/code&gt;
-attribute anymore. This has been removed because the
-&lt;code&gt;uc-card&lt;/code&gt; that forms the basis of the &lt;code&gt;uc-popover&lt;/code&gt;
-doesn't support this attribute anymore. The &lt;code&gt;disablePadding&lt;/code&gt;
-attribute should be removed from you implementation of the
-&lt;code&gt;uc-popover&lt;/code&gt; component.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- Major changes have been made to all form components. With the refactor
-to Lit it was possible to completely overhaul the way forms work. We
-took this opportunity to make forms behave more like native form
-components. This is also why the &lt;code&gt;uc-validate&lt;/code&gt; feature was
-removed because form components are now compatible with a validation
-library of your choosing.&lt;/p&gt;
-&lt;p&gt;A couple of noteworthy components that got breaking changes are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;uc-select-box&lt;/code&gt; got renamed to &lt;code&gt;uc-select&lt;/code&gt; and
-now requires a slotted &lt;code&gt;uc-select-list&lt;/code&gt; component for its
-data.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;uc-radio&lt;/code&gt; and &lt;code&gt;uc-checkbox&lt;/code&gt; don't need a
-&lt;code&gt;uc-radio-group&lt;/code&gt; or &lt;code&gt;uc-checkbox-group&lt;/code&gt; component
-anymore.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;uc-input-selector&lt;/code&gt; and
-&lt;code&gt;uc-linear-scale-input&lt;/code&gt; components have been removed and will
-probably return in the future as a combined component.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Reasoning&lt;/strong&gt;
-The way form components worked in the previous version of the library
-meant the consumer had to jump through a lot of hoops to make forms work
-properly. We tried to make life easier by supplying consumers with
-things like a &lt;code&gt;uc-form&lt;/code&gt; component to submit data and
-&lt;code&gt;uc-validate&lt;/code&gt; to help with validation. But in the end it was
-never a perfect solution. This new version written in Lit is a lot
-easier to use and should feel more close to how html form elements
-work.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How to update&lt;/strong&gt;
-When you already use form components it's best to run through the
-implementation completely and verify it based on the documentation in
-Storybook. Easiest is probably to have a look at the &lt;code&gt;Full
-form&lt;/code&gt; example page in Storybook which contains a pretty complete
-example of how to use the new form components.&lt;/p&gt;
-&lt;p&gt;Other than that since &lt;code&gt;uc-validate&lt;/code&gt; has been removed,
-validation should be implemented based on a solution of your
-choosing.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- &lt;code&gt;uc-text-input&lt;/code&gt; and &lt;code&gt;uc-text-input&lt;/code&gt; don't have
-an &lt;code&gt;event.detail&lt;/code&gt; anymore that contains the value of the
-field. Instead you should use &lt;code&gt;event.target.value&lt;/code&gt; to get the
-value of the field. This behaviour resembles native input fields
-more.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- &lt;code&gt;uc-card&lt;/code&gt; is now completely composable with slots instead
-of having to rely on prop drilling.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Reasoning&lt;/strong&gt;
-We used a lot of prop drilling to set attributes on nested components in
-the card component. As prop drilling is something that needs to be
-prevented as much as possible we decided to remove this out of the
-component and instead make the component composable with slots. This
-offers way more flexibility and is also way easier to maintain.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How to update&lt;/strong&gt;
-The &lt;code&gt;header&lt;/code&gt;, &lt;code&gt;maxHeight&lt;/code&gt;,
-&lt;code&gt;hideSeparator&lt;/code&gt;, &lt;code&gt;disablePadding&lt;/code&gt; and
-&lt;code&gt;semanticHeadingLevel&lt;/code&gt; attributes have been removed. Instead
-of setting those attributes you can simply slot in the correct
-components into the &lt;code&gt;header&lt;/code&gt; and &lt;code&gt;footer&lt;/code&gt; slots
-and set attributes directly on those components. Be aware that the
-&lt;code&gt;header-action&lt;/code&gt; slot has also been removed in favour of using
-the &lt;code&gt;header&lt;/code&gt; slot. The &lt;code&gt;header&lt;/code&gt; used to be the
-&lt;code&gt;title&lt;/code&gt; slot and needs to be renamed as well if you made use
-of it. For a complete example on how to update have a look at the
-Storybook page of the component.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- The redundant &lt;code&gt;alignment&lt;/code&gt; property of the
-&lt;code&gt;uc-pagination&lt;/code&gt; component is removed. The same effect can be
-achieved by applying CSS to the component.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- Remove event details according to guidelines for the
-&lt;code&gt;uc-date-input&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-href="https://redirect.github.com/nedap/unify-components/pull/2080"&gt;#2080&lt;/a&gt;
-&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-Thanks &lt;a
-href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
-- &lt;code&gt;uc-tags&lt;/code&gt; is renamed to &lt;code&gt;uc-tag-list&lt;/code&gt; and
-refactored to use slots instead of properties.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Reasoning&lt;/strong&gt;
-The rename makes it easier to differentiate with &lt;code&gt;uc-tag&lt;/code&gt; and
-makes more sense with the new implementation.&lt;/p&gt;
-&lt;p&gt;This change makes &lt;code&gt;uc-tag-list&lt;/code&gt; more consistent with the
-rest of the components and allows for more flexibility in the data that
-can be passed to it.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;uc-tag-list&lt;/code&gt; component has been updated to improve
-flexibility and customization. Instead of using properties to define the
-tags, it now utilizes slots. This allows for more dynamic and
-customizable rendering of the tags component.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;max-width&lt;/code&gt; property is now obsolete. The
-&lt;code&gt;uc-tag-list&lt;/code&gt; will always fit the space available in the
-parent container.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;deletable&lt;/code&gt; property is now obsolete.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How to update&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/nedap/unify-components/commit/b745cdd5d935b0f8c074bb2159b0adaf7783bd61"&gt;&lt;code&gt;b745cdd&lt;/code&gt;&lt;/a&gt;
-chore(release): version packages 🦋 (&lt;a
-href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/3300"&gt;#3300&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/nedap/unify-components/commit/f2e2caee338efb8ebb7414b56e873d92653092f3"&gt;&lt;code&gt;f2e2cae&lt;/code&gt;&lt;/a&gt;
-chore: conversion to Lit (&lt;a
-href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/2080"&gt;#2080&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;See full diff in &lt;a
-href="https://github.com/nedap/unify-components/commits/@nedap/unify-components@16.0.0/packages/lit"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@nedap/unify-components&amp;package-manager=npm_and_yarn&amp;previous-version=15.19.3&amp;new-version=16.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
+                                    <div>opened  in <span class="repo">nedap/architecture-diagrams</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1966,9 +1552,9 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/npm_and_yarn/web/nedap/unify-components-16.0.0</span>
+                                        <span class="code">add-linux-amd64-build</span>
                                         in
-                                        <span class="repo">nedap/chansey</span>
+                                        <span class="repo">nedap/architecture-diagrams</span>
                                     </div>
                                 </div>
                             </section>
@@ -1980,15 +1566,15 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">nedap/rapidash</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">nedap/ons-spraak-whismur</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/gradle/com.graphql-java-graphql-java-22.1</span></div>
+                                    <div>on branch <span class="code">add-linter</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ce619fc</div>
-                                        <div class="message">Merge branch 'master' into dependabot/gradle/com.graphql-java-graphql-java-22.1</div>
+                                        <div class="sha">#bbe884c</div>
+                                        <div class="message">Run linter</div>
                                     </div>
                                 </div>
                             </section>
@@ -2197,7 +1783,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.92462311557789 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="25.703517587939697 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2225,7 +1811,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     <span class="prefix"></span>
                                     Reviewer
                                 </div>
-                                <div class="text">Reviewed 33 pull requests</div>
+                                <div class="text">Reviewed 34 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2421,7 +2007,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.28m out of 174m repositories</span>
+                                    <span class="gh">ranked 5.28m out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2503,7 +2089,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2024, 14:19:07 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jun 2024, 15:12:56 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
