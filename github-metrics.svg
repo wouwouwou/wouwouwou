@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2012" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2351" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .unlock{font-size:9px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    84.9 MB used
+                                    85 MB used
                                 </div>
                             </section>
                             <section>
@@ -422,7 +422,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 52 commits)</small>
+                    <small class="h-details">(computed from last 54 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1498,15 +1498,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/npm_and_yarn/web/nedap/unify-components-15.19.3</span>
-                                        in
-                                        <span class="repo">nedap/rapidash</span>
+                                        Opened
+                                        <span class="issue">#58 Fix yml syntax</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">nedap/architecture-diagrams</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1519,45 +1520,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">dependabot/npm_and_yarn/web/nedap/unify-components-15.19.3</span>
+                                        <span class="code">add-linux-amd64-build</span>
                                         in
-                                        <span class="repo">nedap/rapidash</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#4334 feat: supplier code in database</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by SimonVeldhuijzen in <span class="repo">nedap/rapidash</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">nedap/rapidash</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">CE-5170-RQ-Engineering-Rapidash</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2ac072a</div>
-                                        <div class="message">Revert back to MD. Should just render locally imo</div>
+                                        <span class="repo">nedap/architecture-diagrams</span>
                                     </div>
                                 </div>
                             </section>
@@ -1569,15 +1534,2516 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 28 commits in
                                         <span class="repo">nedap/rapidash</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">CE-5170-RQ-Engineering-Rapidash</span></div>
+                                    <div>on branch <span class="code">CE-5130-update-c4-documentation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#98b4865</div>
-                                        <div class="message">See whether html in details work</div>
+                                        <div class="sha">#dd70de5</div>
+                                        <div class="message">build(deps-dev): Bump vue-tsc from 2.0.19 to 2.0.21 in /web (#4325)
+
+Bumps
+[vue-tsc](https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc)
+from 2.0.19 to 2.0.21.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/vuejs/language-tools/releases"&gt;vue-tsc's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v2.0.21&lt;/h2&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(typescript-plugin): TS plugin cause type checking broken in .ts
+files (&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4453"&gt;#4453&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please refer to &lt;a
+href="https://github.com/vuejs/language-tools/blob/master/CHANGELOG.md"&gt;CHANGELOG.md&lt;/a&gt;
+for details.&lt;/p&gt;
+&lt;h2&gt;Insiders Program 🚀&lt;/h2&gt;
+&lt;p&gt;This project is community-driven. If you would like to support this
+project, consider joining the &lt;a
+href="https://github.com/vuejs/language-tools/wiki/Get-Insiders-Edition"&gt;Insiders
+Program&lt;/a&gt; to improve the sustainability of this project and unlock
+more features.&lt;/p&gt;
+&lt;h2&gt;Sponsors&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/vuejs/language-tools/blob/master/CHANGELOG.md"&gt;vue-tsc's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;2.0.21 (2024-06-08)&lt;/h2&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(typescript-plugin): TS plugin cause type checking broken in .ts
+files (&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4453"&gt;#4453&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2.1.0-insiders.12 (2024-06-08)&lt;/h2&gt;
+&lt;p&gt;Download Pages: &lt;a
+href="https://github.com/volarjs/insiders/releases/tag/v2.1.0-insiders.12"&gt;GitHub
+Releases&lt;/a&gt;, &lt;a
+href="https://afdian.net/p/596ab3c0256b11ef8a9c52540025c377"&gt;爱发电电圈&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a
+href="https://github.com/vuejs/language-tools/wiki/Get-Insiders-Edition"&gt;Join
+the Insiders Program&lt;/a&gt; for more exclusive features and updates.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;Other Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Merged &lt;a
+href="https://github.com/vuejs/language-tools/releases/tag/v2.0.20"&gt;v2.0.20&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2.0.20 (2024-06-08)&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;feat(language-service): add localization support for
+zh-hk/zh-tw&lt;/li&gt;
+&lt;li&gt;feat(vscode): enable syntax highlighting of cue code blocks in MDX
+(&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4425"&gt;#4425&lt;/a&gt;)
+- Thanks &lt;a
+href="https://github.com/remcohaszing"&gt;&lt;code&gt;@​remcohaszing&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(vscode): fix &amp;quot;as&amp;quot;/&amp;quot;instanceof&amp;quot; expressions
+syntax highlight (&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4412"&gt;#4412&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix(language-core): &lt;code&gt;ForIteratorExpression&lt;/code&gt;'s
+&lt;code&gt;returns&lt;/code&gt; property may be undefined (&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4418"&gt;#4418&lt;/a&gt;)
+- Thanks &lt;a
+href="https://github.com/so1ve"&gt;&lt;code&gt;@​so1ve&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(language-core): use defineEmits calls instead of type infer (&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4430"&gt;#4430&lt;/a&gt;)
+- Thanks &lt;a
+href="https://github.com/zhiyuanzmj"&gt;&lt;code&gt;@​zhiyuanzmj&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(tsc): log catched errors to console (&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4451"&gt;#4451&lt;/a&gt;)
+- Thanks &lt;a
+href="https://github.com/mik3ybark3r"&gt;&lt;code&gt;@​mik3ybark3r&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(typescript-plugin): TS not working in template when tsconfig
+missing (&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4452"&gt;#4452&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix(language-core): use type infer instead of await import (&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4436"&gt;#4436&lt;/a&gt;)
+- Thanks &lt;a
+href="https://github.com/zhiyuanzmj"&gt;&lt;code&gt;@​zhiyuanzmj&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;feat(language-core): ignore type error for new functional component
+(&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4445"&gt;#4445&lt;/a&gt;)
+- Thanks &lt;a
+href="https://github.com/zhiyuanzmj"&gt;&lt;code&gt;@​zhiyuanzmj&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(language-core): ignore type error for possible component name
+(&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4446"&gt;#4446&lt;/a&gt;)
+- Thanks &lt;a
+href="https://github.com/zhiyuanzmj"&gt;&lt;code&gt;@​zhiyuanzmj&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(language-service): filter internal props in template
+completion&lt;/li&gt;
+&lt;li&gt;fix(language-service): sort component props in template
+completion&lt;/li&gt;
+&lt;li&gt;fix(language-core): duplicate completion appears at the beginning of
+script setup block&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Upgrade Volar from &lt;code&gt;v2.2.4&lt;/code&gt; to
+&lt;code&gt;v2.3.0-alpha.14&lt;/code&gt;.
+&lt;ul&gt;
+&lt;li&gt;LSP server performance improved&lt;/li&gt;
+&lt;li&gt;Language server now responds with the exact server capabilities for
+initialization requests&lt;/li&gt;
+&lt;li&gt;Auto insertion requests can now exit early in the language
+client&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The following extensions have been added to Hybrid Mode’s
+compatibility whitelist:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;kimuson.ts-type-expand&lt;/code&gt; - Thanks &lt;a
+href="https://github.com/zcf0508"&gt;&lt;code&gt;@​zcf0508&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2.1.0-insiders.11 (2024-05-16)&lt;/h2&gt;
+&lt;p&gt;Download Pages: &lt;a
+href="https://github.com/volarjs/insiders/releases/tag/v2.1.0-insiders.11"&gt;GitHub
+Releases&lt;/a&gt;, &lt;a
+href="https://afdian.net/p/c69dc31e134211ef823d5254001e7c00"&gt;爱发电电圈&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/language-tools/commit/a5af80e3939a39694abd9dd09a5496bc5fbf6e06"&gt;&lt;code&gt;a5af80e&lt;/code&gt;&lt;/a&gt;
+v2.0.21&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/language-tools/commit/319df16622c564cba9c51e49596fd262fed7f210"&gt;&lt;code&gt;319df16&lt;/code&gt;&lt;/a&gt;
+chore: bump volar&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/language-tools/commit/e1a5d2f136bf60a772c9655f9f5474c7f71a2ff9"&gt;&lt;code&gt;e1a5d2f&lt;/code&gt;&lt;/a&gt;
+v2.0.20&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/language-tools/commit/fbe88a4e239a03eaeb69537bfde1577eda7ad953"&gt;&lt;code&gt;fbe88a4&lt;/code&gt;&lt;/a&gt;
+fix(tsc): log catched errors to console (&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4451"&gt;#4451&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/language-tools/commit/5d6f84a6240d858db2a697bd6eb8e42ba07c6082"&gt;&lt;code&gt;5d6f84a&lt;/code&gt;&lt;/a&gt;
+fix(typescript-plugin): TS not working in template when tsconfig missing
+(&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4452"&gt;#4452&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/language-tools/commit/a6cb6bf7b4bc13cad19c6c6a9c3fdb757cc64caa"&gt;&lt;code&gt;a6cb6bf&lt;/code&gt;&lt;/a&gt;
+chore: update Volar&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/language-tools/commit/7c71a8dd2a413a02adca1efa02dd1ce0b8da53d0"&gt;&lt;code&gt;7c71a8d&lt;/code&gt;&lt;/a&gt;
+ci(lint): auto-fix&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/language-tools/commit/109348efd16e2349832d3a302edabbd240b424a3"&gt;&lt;code&gt;109348e&lt;/code&gt;&lt;/a&gt;
+chore: bump deps&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/language-tools/commit/a94aed1e235cd2db6200281aa2046b7715d0e84a"&gt;&lt;code&gt;a94aed1&lt;/code&gt;&lt;/a&gt;
+feat: upgrade to Volar 2.3 alpha (&lt;a
+href="https://github.com/vuejs/language-tools/tree/HEAD/packages/tsc/issues/4422"&gt;#4422&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/vuejs/language-tools/commits/v2.0.21/packages/tsc"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=vue-tsc&amp;package-manager=npm_and_yarn&amp;previous-version=2.0.19&amp;new-version=2.0.21)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1dd7584</div>
+                                        <div class="message">build(deps): Bump com.nedap.healthcare:cupido-mappings from 6.36.0-jakarta to 6.50.0-jakarta (#4324)
+
+Bumps
+[com.nedap.healthcare:cupido-mappings](https://github.com/nedap/cupido)
+from 6.36.0-jakarta to 6.50.0-jakarta.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/nedap/cupido/releases"&gt;com.nedap.healthcare:cupido-mappings's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.50.0&lt;/h2&gt;
+&lt;p&gt;2024-06-07 - dependabot[bot], build(deps): bump ddtrace from 1.23.0
+to 1.23.1 in /ruby/cupido-api (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6730"&gt;#6730&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.49.0&lt;/h2&gt;
+&lt;p&gt;2024-06-07 - MeesN, Update mounts (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6729"&gt;#6729&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.48.0&lt;/h2&gt;
+&lt;p&gt;2024-06-05 - Martijn, Add Fhirstarter Observation POST to Cupido
+mappings (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6726"&gt;#6726&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.47.0&lt;/h2&gt;
+&lt;p&gt;2024-06-04 - Steyn Potze, CarenPairingAPI for Luna (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6720"&gt;#6720&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.46.0&lt;/h2&gt;
+&lt;p&gt;2024-06-04 - MeesN, Revert &amp;quot;Revert &amp;quot;build(deps): bump
+alpine from 3.19 to 3.20 (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6712"&gt;#6712&lt;/a&gt;)&amp;quot;&amp;quot;
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6722"&gt;#6722&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.45.0&lt;/h2&gt;
+&lt;p&gt;2024-06-04 - MeesN, Fix mapping release part 2 (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6721"&gt;#6721&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.44.0&lt;/h2&gt;
+&lt;p&gt;2024-06-04 - KouwertIlse, BO-3604 Add undoJournalization to Abilities
+model (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6718"&gt;#6718&lt;/a&gt;)
+2024-06-04 - dependabot[bot], build(deps-dev): bump prettier from 3.2.5
+to 3.3.0 in /cupido-code-generator (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6713"&gt;#6713&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.43.0&lt;/h2&gt;
+&lt;p&gt;2024-06-04 - MeesN, Mapping test (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6710"&gt;#6710&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.42.0&lt;/h2&gt;
+&lt;p&gt;2024-06-04 - MeesN, Fix mapping release (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6719"&gt;#6719&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.41.0&lt;/h2&gt;
+&lt;p&gt;2024-06-04 - Eline Brader, Create Cupido API for thumbnail endpoint
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6508"&gt;#6508&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.40.0&lt;/h2&gt;
+&lt;p&gt;2024-06-03 - Sebastiaan Brouwer, Revert &amp;quot;build(deps): bump
+alpine from 3.19 to 3.20 (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6712"&gt;#6712&lt;/a&gt;)&amp;quot;
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6717"&gt;#6717&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.39.0&lt;/h2&gt;
+&lt;p&gt;2024-06-03 - Sebastiaan Brouwer, Enable pipefail on upload github
+assets (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6716"&gt;#6716&lt;/a&gt;)
+2024-06-03 - Jelmer ter Wal, add seedot api (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6690"&gt;#6690&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.38.0&lt;/h2&gt;
+&lt;p&gt;2024-06-03 - MeesN, Remove outdated restrictions from documentation
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6709"&gt;#6709&lt;/a&gt;)
+2024-06-03 - dependabot[bot], build(deps): bump alpine from 3.19 to 3.20
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6712"&gt;#6712&lt;/a&gt;)
+2024-06-03 - dependabot[bot], build(deps-dev): bump
+&lt;code&gt;@​types/node&lt;/code&gt; from 20.12.12 to 20.13.0 in
+/cupido-code-generator (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6714"&gt;#6714&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.37.0&lt;/h2&gt;
+&lt;p&gt;2024-06-03 - dependabot[bot], build(deps-dev): bump timecop from
+0.9.8 to 0.9.9 in /ruby/cupido-api (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6715"&gt;#6715&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/nedap/cupido/commits"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.nedap.healthcare:cupido-mappings&amp;package-manager=gradle&amp;previous-version=6.36.0-jakarta&amp;new-version=6.50.0-jakarta)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcc6426</div>
+                                        <div class="message">build(deps): Bump com.amazonaws:aws-java-sdk-s3 from 1.12.734 to 1.12.739 (#4323)
+
+Bumps
+[com.amazonaws:aws-java-sdk-s3](https://github.com/aws/aws-sdk-java)
+from 1.12.734 to 1.12.739.
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/aws/aws-sdk-java/blob/master/CHANGELOG.md"&gt;com.amazonaws:aws-java-sdk-s3's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.739&lt;/strong&gt; &lt;strong&gt;2024-06-07&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;AWS Audit Manager&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;New feature: common controls. When creating custom controls, you can
+now use pre-grouped AWS data sources based on common compliance themes.
+Also, the awsServices parameter is deprecated because we now manage
+services in scope for you. If used, the input is ignored and an empty
+list is returned.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;AWS B2B Data Interchange&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added exceptions to B2Bi List operations and ConflictException to
+B2Bi StartTransformerJob operation. Also made capabilities field
+explicitly required when creating a Partnership.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;AWS CodePipeline&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CodePipeline now supports overriding S3 Source Object Key during
+StartPipelineExecution, as part of Source Overrides.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon SageMaker Service&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This release introduces a new optional parameter:
+InferenceAmiVersion, in ProductionVariant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon Verified Permissions&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This release adds OpenIdConnect (OIDC) configuration support for
+IdentitySources, allowing for external IDPs to be used in authorization
+requests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.738&lt;/strong&gt; &lt;strong&gt;2024-06-06&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;AWS Account&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This release adds 3 new APIs (AcceptPrimaryEmailUpdate,
+GetPrimaryEmail, and StartPrimaryEmailUpdate) used to centrally manage
+the root user email address of member accounts within an AWS
+organization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;AWS Glue&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This release adds support for creating and updating Glue Data
+Catalog Views.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;AWS IoT Wireless&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Adds support for wireless device to be in Conflict FUOTA Device
+Status due to a FUOTA Task, so it couldn't be attached to a new
+one.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;AWS Storage Gateway&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Adds SoftwareUpdatePreferences to DescribeMaintenanceStartTime and
+UpdateMaintenanceStartTime, a structure which contains
+AutomaticUpdatePolicy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon FSx&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This release adds support to increase metadata performance on FSx
+for Lustre file systems beyond the default level provisioned when a file
+system is created. This can be done by specifying MetadataConfiguration
+during the creation of Persistent_2 file systems or by updating it on
+demand.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon Kinesis Firehose&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Adds integration with Secrets Manager for Redshift, Splunk,
+HttpEndpoint, and Snowflake destinations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon Location Service&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added two new APIs, VerifyDevicePosition and ForecastGeofenceEvents.
+Added support for putting larger geofences up to 100,000 vertices with
+Geobuf fields.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/ec7ad5c936be49810711c4fe7e04bcd205deddbd"&gt;&lt;code&gt;ec7ad5c&lt;/code&gt;&lt;/a&gt;
+AWS SDK for Java 1.12.739&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/cddd7bca90cc78a203cf5c839f793809da79fab0"&gt;&lt;code&gt;cddd7bc&lt;/code&gt;&lt;/a&gt;
+Update GitHub version number to 1.12.739-SNAPSHOT&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/20de239f0ff05d8e0d438d7d06cd5b93574d0239"&gt;&lt;code&gt;20de239&lt;/code&gt;&lt;/a&gt;
+AWS SDK for Java 1.12.738&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/64e9a5ccd0b318d68294bce38a0432d8228700fc"&gt;&lt;code&gt;64e9a5c&lt;/code&gt;&lt;/a&gt;
+Update GitHub version number to 1.12.738-SNAPSHOT&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/63eef0f2866c8c749e3c53bc652f83bcbe365a5f"&gt;&lt;code&gt;63eef0f&lt;/code&gt;&lt;/a&gt;
+AWS SDK for Java 1.12.737&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/ef6d26896d4e7b1615036515ceb7b55cc1bfbf95"&gt;&lt;code&gt;ef6d268&lt;/code&gt;&lt;/a&gt;
+Update GitHub version number to 1.12.737-SNAPSHOT&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/f43a89258556ffa8a1c55b9c4f3ab76ad5f34385"&gt;&lt;code&gt;f43a892&lt;/code&gt;&lt;/a&gt;
+AWS SDK for Java 1.12.736&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/dfdae224dca27a1a3be54ad3af2d4ca4b059f4d8"&gt;&lt;code&gt;dfdae22&lt;/code&gt;&lt;/a&gt;
+Update GitHub version number to 1.12.736-SNAPSHOT&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/7d5427b7ed0f9fd1db41b69cea30465ec1791e58"&gt;&lt;code&gt;7d5427b&lt;/code&gt;&lt;/a&gt;
+AWS SDK for Java 1.12.735&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/3e6c435cea509ab42c9c5cecc63c17925390a958"&gt;&lt;code&gt;3e6c435&lt;/code&gt;&lt;/a&gt;
+Update GitHub version number to 1.12.735-SNAPSHOT&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/aws/aws-sdk-java/compare/1.12.734...1.12.739"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.amazonaws:aws-java-sdk-s3&amp;package-manager=gradle&amp;previous-version=1.12.734&amp;new-version=1.12.739)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea6cc2a</div>
+                                        <div class="message">ci: Revert "fix: Fix semver release" (#4320)
+
+Reverts nedap/rapidash#4257
+
+The new version of semantic-release depends on at least version 8.0.0 of
+conventional-changelog:
+https://github.com/semantic-release/semantic-release/releases/tag/v24.0.0
+
+So we can remove the pin on ^7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9ff5bb</div>
+                                        <div class="message">build(deps): Bump @playwright/test from 1.43.1 to 1.44.1 in /playwright (#4296)
+
+Bumps [@playwright/test](https://github.com/microsoft/playwright) from
+1.43.1 to 1.44.1.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/microsoft/playwright/releases"&gt;&lt;code&gt;@​playwright/test&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v1.44.1&lt;/h2&gt;
+&lt;h3&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30779"&gt;microsoft/playwright#30779&lt;/a&gt;
+- [REGRESSION]: When using &lt;code&gt;video: 'on'&lt;/code&gt; with VSCode
+extension the browser got closed
+&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30755"&gt;microsoft/playwright#30755&lt;/a&gt;
+- [REGRESSION]: Electron launch with spaces inside executablePath didn't
+work
+&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30770"&gt;microsoft/playwright#30770&lt;/a&gt;
+- [REGRESSION]: Mask elements outside of viewport when creating
+fullscreen screenshots didn't work
+&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30858"&gt;microsoft/playwright#30858&lt;/a&gt;
+- [REGRESSION]: ipv6 got shown instead of localhost in
+show-trace/show-report&lt;/p&gt;
+&lt;h2&gt;Browser Versions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chromium 125.0.6422.14&lt;/li&gt;
+&lt;li&gt;Mozilla Firefox 125.0.1&lt;/li&gt;
+&lt;li&gt;WebKit 17.4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This version was also tested against the following stable
+channels:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Chrome 124&lt;/li&gt;
+&lt;li&gt;Microsoft Edge 124&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.44.0&lt;/h2&gt;
+&lt;h2&gt;New APIs&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Accessibility assertions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://playwright.dev/docs/api/class-locatorassertions#locator-assertions-to-have-accessible-name"&gt;expect(locator).toHaveAccessibleName()&lt;/a&gt;
+checks if the element has the specified accessible name:&lt;/p&gt;
+&lt;pre lang="js"&gt;&lt;code&gt;const locator = page.getByRole('button');
+await expect(locator).toHaveAccessibleName('Submit');
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://playwright.dev/docs/api/class-locatorassertions#locator-assertions-to-have-accessible-description"&gt;expect(locator).toHaveAccessibleDescription()&lt;/a&gt;
+checks if the element has the specified accessible description:&lt;/p&gt;
+&lt;pre lang="js"&gt;&lt;code&gt;const locator = page.getByRole('button');
+await expect(locator).toHaveAccessibleDescription('Upload a photo');
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://playwright.dev/docs/api/class-locatorassertions#locator-assertions-to-have-role"&gt;expect(locator).toHaveRole()&lt;/a&gt;
+checks if the element has the specified ARIA role:&lt;/p&gt;
+&lt;pre lang="js"&gt;&lt;code&gt;const locator = page.getByTestId('save-button');
+await expect(locator).toHaveRole('button');
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Locator handler&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After executing the handler added with &lt;a
+href="https://playwright.dev/docs/api/class-page#page-add-locator-handler"&gt;page.addLocatorHandler()&lt;/a&gt;,
+Playwright will now wait until the overlay that triggered the handler is
+not visible anymore. You can opt-out of this behavior with the new
+&lt;code&gt;noWaitAfter&lt;/code&gt; option.&lt;/li&gt;
+&lt;li&gt;You can use new &lt;code&gt;times&lt;/code&gt; option in &lt;a
+href="https://playwright.dev/docs/api/class-page#page-add-locator-handler"&gt;page.addLocatorHandler()&lt;/a&gt;
+to specify maximum number of times the handler should be run.&lt;/li&gt;
+&lt;li&gt;The handler in &lt;a
+href="https://playwright.dev/docs/api/class-page#page-add-locator-handler"&gt;page.addLocatorHandler()&lt;/a&gt;
+now accepts the locator as argument.&lt;/li&gt;
+&lt;li&gt;New &lt;a
+href="https://playwright.dev/docs/api/class-page#page-remove-locator-handler"&gt;page.removeLocatorHandler()&lt;/a&gt;
+method for removing previously added locator handlers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/afacb84a52cb1428becd071252243fc5c264caca"&gt;&lt;code&gt;afacb84&lt;/code&gt;&lt;/a&gt;
+chore: mark v1.44.1 (&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30942"&gt;#30942&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/be133650f6583633db5b998aaf43a3813819cc7b"&gt;&lt;code&gt;be13365&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30853"&gt;#30853&lt;/a&gt;):
+chore: print friendly localhost address from http server...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/67b85e6acec5e1c4c57a2b9ef28defe152e179f5"&gt;&lt;code&gt;67b85e6&lt;/code&gt;&lt;/a&gt;
+docs: cherry-pick dotnet docs enhancements + release-notes (&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30927"&gt;#30927&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/32bde52512afecf4e6366fcd2ece7f91f0e56410"&gt;&lt;code&gt;32bde52&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30832"&gt;#30832&lt;/a&gt;):
+chore(testServer): accept video parameter when running t...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/5d2623030da5c5b744944b8b665f022afafca54b"&gt;&lt;code&gt;5d26230&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30807"&gt;#30807&lt;/a&gt;):
+chore: do not close the reused context when video is on&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/3867d5581b6b12fde0108f55af78ad443dfb3876"&gt;&lt;code&gt;3867d55&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30820"&gt;#30820&lt;/a&gt;):
+fix(electron): allow launching with spaces in path (&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30830"&gt;#30830&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/01bf93cda4ca64b1343e8a26d03436c4aedbea6b"&gt;&lt;code&gt;01bf93c&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30800"&gt;#30800&lt;/a&gt;):
+Revert &amp;quot;fix(highlight): highlight Top Layer elements (&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/3"&gt;#3&lt;/a&gt;...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/1b2de3f7a7c106d4b907f8a839f88218fc74fbfe"&gt;&lt;code&gt;1b2de3f&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30708"&gt;#30708&lt;/a&gt;):
+docs(python): roll fixes (&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30709"&gt;#30709&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/a6aa50b0c79c375eeb43a10086b249bc725ca81e"&gt;&lt;code&gt;a6aa50b&lt;/code&gt;&lt;/a&gt;
+chore: set version to 1.44.0 (&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30680"&gt;#30680&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/54c157dec53c5b8718c066aa18da0a2183501e04"&gt;&lt;code&gt;54c157d&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30677"&gt;#30677&lt;/a&gt;):
+chore: print resolved host in the http server te… (&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/30679"&gt;#30679&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/microsoft/playwright/compare/v1.43.1...v1.44.1"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@playwright/test&amp;package-manager=npm_and_yarn&amp;previous-version=1.43.1&amp;new-version=1.44.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+---------
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Wouter Bos &lt;wouter.bos@nedap.com&gt;
+Co-authored-by: Ruben Hofsink &lt;ruben.hofsink@nedap.com&gt;
+Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b513c3</div>
+                                        <div class="message">build(deps-dev): Bump @vitejs/plugin-vue from 5.0.4 to 5.0.5 in /web (#4317)
+
+Bumps
+[@vitejs/plugin-vue](https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue)
+from 5.0.4 to 5.0.5.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/vitejs/vite-plugin-vue/releases"&gt;&lt;code&gt;@​vitejs/plugin-vue&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;plugin-vue@5.0.5&lt;/h2&gt;
+&lt;p&gt;Please refer to &lt;a
+href="https://github.com/vitejs/vite-plugin-vue/blob/plugin-vue@5.0.5/packages/plugin-vue/CHANGELOG.md"&gt;CHANGELOG.md&lt;/a&gt;
+for details.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/vitejs/vite-plugin-vue/blob/main/packages/plugin-vue/CHANGELOG.md"&gt;&lt;code&gt;@​vitejs/plugin-vue&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;&lt;!-- raw HTML omitted --&gt;5.0.5 (2024-05-30)&lt;!-- raw HTML omitted
+--&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/360"&gt;#360&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/ed4970a"&gt;ed4970a&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite-plugin-vue/issues/360"&gt;#360&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/371"&gt;#371&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/0a484c7"&gt;0a484c7&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite-plugin-vue/issues/371"&gt;#371&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(plugin-vue): don't inline template when
+&lt;code&gt;__VUE_PROD_DEVTOOLS__&lt;/code&gt; (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/81"&gt;#81&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/277a3ab"&gt;277a3ab&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite-plugin-vue/issues/81"&gt;#81&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;refactor(plugin-vue): use normalizePath from vite (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/395"&gt;#395&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/2848174"&gt;2848174&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite-plugin-vue/issues/395"&gt;#395&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(deps): replace dependency eslint-plugin-node with
+eslint-plugin-n ^14.0.0 (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/378"&gt;#378&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/997f9bb"&gt;997f9bb&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite-plugin-vue/issues/378"&gt;#378&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/355"&gt;#355&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/4faec3d"&gt;4faec3d&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite-plugin-vue/issues/355"&gt;#355&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(deps): update upstream (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/356"&gt;#356&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/cf7d91e"&gt;cf7d91e&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite-plugin-vue/issues/356"&gt;#356&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(deps): update upstream (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/361"&gt;#361&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/a28c46e"&gt;a28c46e&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite-plugin-vue/issues/361"&gt;#361&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(deps): update upstream (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/367"&gt;#367&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/2050ad3"&gt;2050ad3&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite-plugin-vue/issues/367"&gt;#367&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(deps): update upstream (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/379"&gt;#379&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/96c82e9"&gt;96c82e9&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite-plugin-vue/issues/379"&gt;#379&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(plugin-vue): update options on docs (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/3f8b472"&gt;3f8b472&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/e74816a739d00807eb91902d539beab50d956658"&gt;&lt;code&gt;e74816a&lt;/code&gt;&lt;/a&gt;
+release: plugin-vue@5.0.5&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/277a3abde086d8e12f5097c47913fa5f1fbf3c23"&gt;&lt;code&gt;277a3ab&lt;/code&gt;&lt;/a&gt;
+fix(plugin-vue): don't inline template when
+&lt;code&gt;__VUE_PROD_DEVTOOLS__&lt;/code&gt; (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/81"&gt;#81&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/28481748a63cc229ebb4442979198cad43d2670e"&gt;&lt;code&gt;2848174&lt;/code&gt;&lt;/a&gt;
+refactor(plugin-vue): use normalizePath from vite (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/395"&gt;#395&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/96c82e9d2f689ef4c13d2ffeafc124fcb3e186ea"&gt;&lt;code&gt;96c82e9&lt;/code&gt;&lt;/a&gt;
+chore(deps): update upstream (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/379"&gt;#379&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/0a484c7b415c1eb611c3f7fa63b96d4bb8ef0263"&gt;&lt;code&gt;0a484c7&lt;/code&gt;&lt;/a&gt;
+fix(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/371"&gt;#371&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/997f9bba952fb3cc8752d77ddd84413032d31fb0"&gt;&lt;code&gt;997f9bb&lt;/code&gt;&lt;/a&gt;
+chore(deps): replace dependency eslint-plugin-node with eslint-plugin-n
+^14.0...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/2050ad3dc568b4d051d19611aad34693e9a917ec"&gt;&lt;code&gt;2050ad3&lt;/code&gt;&lt;/a&gt;
+chore(deps): update upstream (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/367"&gt;#367&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/ed4970ab031a67213c782239e4cbe2c385192d1a"&gt;&lt;code&gt;ed4970a&lt;/code&gt;&lt;/a&gt;
+fix(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/360"&gt;#360&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/a28c46efe62003053752643fe3e8ee835a0f9044"&gt;&lt;code&gt;a28c46e&lt;/code&gt;&lt;/a&gt;
+chore(deps): update upstream (&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/tree/HEAD/packages/plugin-vue/issues/361"&gt;#361&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commit/3f8b472d165ef9a0f7084d4110d92f6f77a2e423"&gt;&lt;code&gt;3f8b472&lt;/code&gt;&lt;/a&gt;
+chore(plugin-vue): update options on docs&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/vitejs/vite-plugin-vue/commits/plugin-vue@5.0.5/packages/plugin-vue"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@vitejs/plugin-vue&amp;package-manager=npm_and_yarn&amp;previous-version=5.0.4&amp;new-version=5.0.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8358580</div>
+                                        <div class="message">build(deps): Bump @nedap/unify-vite-plugin from 0.1.40 to 0.1.41 in /web (#4318)
+
+Bumps [@nedap/unify-vite-plugin](https://github.com/nedap/unify-suite)
+from 0.1.40 to 0.1.41.
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/nedap/unify-suite/commits"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@nedap/unify-vite-plugin&amp;package-manager=npm_and_yarn&amp;previous-version=0.1.40&amp;new-version=0.1.41)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45f2173</div>
+                                        <div class="message">build(deps-dev): Bump sass from 1.77.2 to 1.77.4 in /web (#4316)
+
+Bumps [sass](https://github.com/sass/dart-sass) from 1.77.2 to 1.77.4.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sass/dart-sass/releases"&gt;sass's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;Dart Sass 1.77.4&lt;/h2&gt;
+&lt;p&gt;To install Sass 1.77.4, download one of the packages below and &lt;a
+href="https://katiek2.github.io/path-doc/"&gt;add it to your PATH&lt;/a&gt;, or
+see &lt;a href="https://sass-lang.com/install"&gt;the Sass website&lt;/a&gt; for
+full installation instructions.&lt;/p&gt;
+&lt;h1&gt;Changes&lt;/h1&gt;
+&lt;h3&gt;Embedded Sass&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Support passing &lt;code&gt;Version&lt;/code&gt; input for
+&lt;code&gt;fatalDeprecations&lt;/code&gt; as string over embedded protocol.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fix a bug in the JS Embedded Host where &lt;code&gt;Version&lt;/code&gt; could be
+incorrectly accepted as input for &lt;code&gt;silenceDeprecations&lt;/code&gt; and
+&lt;code&gt;futureDeprecations&lt;/code&gt; in pure JS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See the &lt;a
+href="https://github.com/sass/dart-sass/blob/master/CHANGELOG.md#1774"&gt;full
+changelog&lt;/a&gt; for changes in earlier releases.&lt;/p&gt;
+&lt;h2&gt;Dart Sass 1.77.3&lt;/h2&gt;
+&lt;p&gt;To install Sass 1.77.3, download one of the packages below and &lt;a
+href="https://katiek2.github.io/path-doc/"&gt;add it to your PATH&lt;/a&gt;, or
+see &lt;a href="https://sass-lang.com/install"&gt;the Sass website&lt;/a&gt; for
+full installation instructions.&lt;/p&gt;
+&lt;h1&gt;Changes&lt;/h1&gt;
+&lt;h3&gt;Dart API&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Deprecation.duplicateVariableFlags&lt;/code&gt; has been deprecated
+and replaced with &lt;code&gt;Deprecation.duplicateVarFlags&lt;/code&gt; to make it
+consistent with the &lt;code&gt;duplicate-var-flags&lt;/code&gt; name used on the
+command line and in the JS API.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See the &lt;a
+href="https://github.com/sass/dart-sass/blob/master/CHANGELOG.md#1773"&gt;full
+changelog&lt;/a&gt; for changes in earlier releases.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sass/dart-sass/blob/main/CHANGELOG.md"&gt;sass's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;1.77.4&lt;/h2&gt;
+&lt;h3&gt;Embedded Sass&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Support passing &lt;code&gt;Version&lt;/code&gt; input for
+&lt;code&gt;fatalDeprecations&lt;/code&gt; as string over
+embedded protocol.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fix a bug in the JS Embedded Host where &lt;code&gt;Version&lt;/code&gt; could be
+incorrectly accepted
+as input for &lt;code&gt;silenceDeprecations&lt;/code&gt; and
+&lt;code&gt;futureDeprecations&lt;/code&gt; in pure JS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;1.77.3&lt;/h2&gt;
+&lt;h3&gt;Dart API&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Deprecation.duplicateVariableFlags&lt;/code&gt; has been deprecated
+and replaced with
+&lt;code&gt;Deprecation.duplicateVarFlags&lt;/code&gt; to make it consistent with
+the
+&lt;code&gt;duplicate-var-flags&lt;/code&gt; name used on the command line and in
+the JS API.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/21eeb4d9428d1808487223a379c036a019f98487"&gt;&lt;code&gt;21eeb4d&lt;/code&gt;&lt;/a&gt;
+Parse Deprecation.forVersion on compiler side (&lt;a
+href="https://redirect.github.com/sass/dart-sass/issues/2248"&gt;#2248&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/1073c7b4121dc292887a3be60fbbdde3af0413f5"&gt;&lt;code&gt;1073c7b&lt;/code&gt;&lt;/a&gt;
+Generate deprecations list from the language repo (&lt;a
+href="https://redirect.github.com/sass/dart-sass/issues/2253"&gt;#2253&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/fc24fec7e97148780180f5d8030c3f827240ca83"&gt;&lt;code&gt;fc24fec&lt;/code&gt;&lt;/a&gt;
+Use &lt;code&gt;pubspec_parse&lt;/code&gt; dependency equality (&lt;a
+href="https://redirect.github.com/sass/dart-sass/issues/2254"&gt;#2254&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/sass/dart-sass/compare/1.77.2...1.77.4"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=sass&amp;package-manager=npm_and_yarn&amp;previous-version=1.77.2&amp;new-version=1.77.4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d410b9b</div>
+                                        <div class="message">build(deps-dev): Bump @types/node from 20.12.12 to 20.13.0 in /playwright (#4315)
+
+Bumps
+[@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node)
+from 20.12.12 to 20.13.0.
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@types/node&amp;package-manager=npm_and_yarn&amp;previous-version=20.12.12&amp;new-version=20.13.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#390947d</div>
+                                        <div class="message">build(deps): Bump org.freemarker:freemarker from 2.3.32 to 2.3.33 (#4314)
+
+Bumps org.freemarker:freemarker from 2.3.32 to 2.3.33.
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.freemarker:freemarker&amp;package-manager=gradle&amp;previous-version=2.3.32&amp;new-version=2.3.33)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a681c10</div>
+                                        <div class="message">build(deps): Bump com.nedap.healthcare:cupido-mappings from 6.28.0-jakarta to 6.36.0-jakarta (#4313)
+
+Bumps
+[com.nedap.healthcare:cupido-mappings](https://github.com/nedap/cupido)
+from 6.28.0-jakarta to 6.36.0-jakarta.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/nedap/cupido/releases"&gt;com.nedap.healthcare:cupido-mappings's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.36.0&lt;/h2&gt;
+&lt;p&gt;2024-05-30 - MeesN, Revert &amp;quot;build(deps): bump alpine from 3.19
+to 3.20&amp;quot; (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6707"&gt;#6707&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.35.0&lt;/h2&gt;
+&lt;p&gt;2024-05-30 - Martijn Lafeber, Adds ons client Organization setting
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6706"&gt;#6706&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.34.0&lt;/h2&gt;
+&lt;p&gt;2024-05-30 - Joeri Landman, Wingull Addressbook (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6689"&gt;#6689&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.33.0&lt;/h2&gt;
+&lt;p&gt;2024-05-30 - MeesN, Update documentation for openapi requirements (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6701"&gt;#6701&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.32.0&lt;/h2&gt;
+&lt;p&gt;2024-05-30 - dependabot[bot], build(deps): bump concurrent-ruby from
+1.2.3 to 1.3.1 in /ruby/cupido-api (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6704"&gt;#6704&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.31.0&lt;/h2&gt;
+&lt;p&gt;2024-05-29 - rionoredjonedap, BO-2859 -- Event sturen als SKN update
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6702"&gt;#6702&lt;/a&gt;)
+2024-05-28 - MeesN, update mounts for wingull (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6700"&gt;#6700&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.30.0&lt;/h2&gt;
+&lt;p&gt;2024-05-28 - dependabot[bot], build(deps): bump
+jakarta.validation:jakarta.validation-api from 3.0.2 to 3.1.0 in
+/cupido-api-domain (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6691"&gt;#6691&lt;/a&gt;)
+2024-05-28 - dependabot[bot], build(deps): bump
+jakarta.validation:jakarta.validation-api from 3.0.2 to 3.1.0 in
+/cupido-api-core (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6692"&gt;#6692&lt;/a&gt;)
+2024-05-28 - dependabot[bot], build(deps): bump wiremock/wiremock from
+3.5.4 to 3.6.0 (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6693"&gt;#6693&lt;/a&gt;)
+2024-05-28 - dependabot[bot], build(deps): bump alpine from 3.19 to 3.20
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6694"&gt;#6694&lt;/a&gt;)
+2024-05-28 - dependabot[bot], build(deps): bump
+jakarta.validation:jakarta.validation-api from 3.0.2 to 3.1.0 in
+/cupido-api (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6696"&gt;#6696&lt;/a&gt;)
+2024-05-28 - dependabot[bot], build(deps): bump ajv from 8.13.0 to
+8.14.0 in /cupido-code-generator (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6697"&gt;#6697&lt;/a&gt;)
+2024-05-28 - dependabot[bot], build(deps-dev): bump esbuild from 0.21.3
+to 0.21.4 in /cupido-code-generator (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6698"&gt;#6698&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.29.0&lt;/h2&gt;
+&lt;p&gt;2024-05-28 - dependabot[bot], build(deps-dev): bump webmock from
+3.23.0 to 3.23.1 in /ruby/cupido-api (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6699"&gt;#6699&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/nedap/cupido/commits"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.nedap.healthcare:cupido-mappings&amp;package-manager=gradle&amp;previous-version=6.28.0-jakarta&amp;new-version=6.36.0-jakarta)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ff519d</div>
+                                        <div class="message">build(deps): Bump com.amazonaws:aws-java-sdk-s3 from 1.12.730 to 1.12.734 (#4312)
+
+Bumps
+[com.amazonaws:aws-java-sdk-s3](https://github.com/aws/aws-sdk-java)
+from 1.12.730 to 1.12.734.
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/aws/aws-sdk-java/blob/master/CHANGELOG.md"&gt;com.amazonaws:aws-java-sdk-s3's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.734&lt;/strong&gt; &lt;strong&gt;2024-05-31&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;AWS CodeBuild&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS CodeBuild now supports Self-hosted GitHub Actions runners for
+Github Enterprise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;AWS Launch Wizard&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This release adds support for describing workload deployment
+specifications, deploying additional workload types, and managing tags
+for Launch Wizard resources with API operations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon CodeGuru Security&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This release includes minor model updates and documentation
+updates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon ElastiCache&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update to attributes of TestFailover and minor revisions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.733&lt;/strong&gt; &lt;strong&gt;2024-05-30&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;AWS Certificate Manager&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;add v2 smoke tests and smithy smokeTests trait for SDK testing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;AWS CloudTrail&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CloudTrail Lake returns PartitionKeys in the GetEventDataStore API
+response. Events are grouped into partitions based on these keys for
+better query performance. For example, the calendarday key groups events
+by day, while combining the calendarday key with the hour key groups
+them by day and hour.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Agents for Amazon Bedrock&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;With this release, Knowledge bases for Bedrock adds support for
+Titan Text Embedding v2.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon Bedrock Runtime&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This release adds Converse and ConverseStream APIs to Bedrock
+Runtime&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon Connect Service&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Adding associatedQueueIds as a SearchCriteria and response field to
+the SearchRoutingProfiles API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon Relational Database Service&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updates Amazon RDS documentation for Aurora Postgres DBname.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon SageMaker Service&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Adds Model Card information as a new component to Model Package.
+Autopilot launches algorithm selection for TimeSeries modality to
+generate AutoML candidates per algorithm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;EMR Serverless&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The release adds support for spark structured streaming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/9bc59794a8cfdfefb56ce901bf47e3b3a8968639"&gt;&lt;code&gt;9bc5979&lt;/code&gt;&lt;/a&gt;
+AWS SDK for Java 1.12.734&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/435868319e191f89ac9b10259a5ef93c96750aa8"&gt;&lt;code&gt;4358683&lt;/code&gt;&lt;/a&gt;
+Update GitHub version number to 1.12.734-SNAPSHOT&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/90eaba7b4041506f37d2d80e11c23209e9a16754"&gt;&lt;code&gt;90eaba7&lt;/code&gt;&lt;/a&gt;
+AWS SDK for Java 1.12.733&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/5dca163096496ad7104b697d2b8cb9f24fe0ffc6"&gt;&lt;code&gt;5dca163&lt;/code&gt;&lt;/a&gt;
+Update GitHub version number to 1.12.733-SNAPSHOT&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/b271ab7c790c18aea5f1f16662794fc5eff4c52a"&gt;&lt;code&gt;b271ab7&lt;/code&gt;&lt;/a&gt;
+AWS SDK for Java 1.12.732&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/f60f2ae398fef2bb8d4268b3899b667655deb576"&gt;&lt;code&gt;f60f2ae&lt;/code&gt;&lt;/a&gt;
+Update GitHub version number to 1.12.732-SNAPSHOT&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/ecaa4a9a8436fe47cf55c2927fb1be9ea226efd6"&gt;&lt;code&gt;ecaa4a9&lt;/code&gt;&lt;/a&gt;
+AWS SDK for Java 1.12.731&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/ee76f4c844b219e8c42e835bcc6bfbd5c0f2ba4d"&gt;&lt;code&gt;ee76f4c&lt;/code&gt;&lt;/a&gt;
+Update GitHub version number to 1.12.731-SNAPSHOT&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/aws/aws-sdk-java/compare/1.12.730...1.12.734"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.amazonaws:aws-java-sdk-s3&amp;package-manager=gradle&amp;previous-version=1.12.730&amp;new-version=1.12.734)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42a6297</div>
+                                        <div class="message">docs: README -&gt; different command to run integration tests (#4299)
+
+&lt;!--
+Thank you for your pull request. This repository uses semantic-release.
+Please provide a PR title conforming to
+the Angular Commit Message Format. Some examples:
+build: Bump aws-java-sdk-s3 from 1.12.314 to 1.12.319 -&gt; This will
+trigger a patch release on next build
+    ci: Update deploy secrets
+    docs: Update deploy commands
+feat: Add new nuts auth APIs to consuming spec -&gt; This will trigger a
+minor release on next build
+fix: A bug fix -&gt; This will trigger a patch release on next build
+    perf: A code change that improves performance
+    refactor: A code change that neither fixes a bug nor adds a feature
+    test: Adding missing tests or correcting existing tests
+--&gt;
+
+&lt;!-- _Add a short description of what it does:_ --&gt;
+Integration tests must be run with a different command</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a451c5c</div>
+                                        <div class="message">fix: Set pagenumber to 1 when updating the CertificateTable filter (#4306)
+
+Feedback from external party:
+
+&gt; If I go to the Certificate overview and check the 'Expired
+certificates' checkbox, I only see the expired certificates. Although I
+would expect to see a list of both valid and expired certificates, it is
+acceptable. However, I only have one page of valid certificates and two
+pages of expired certificates and this exposes a bug:
+If I remove the checkmark with the first page of expired certificates
+open, my valid certificates are shown again.
+If I remove the checkmark with the second page of expired certificates
+open, no certificates are shown.
+
+This is because the pagenumber is not set to 1 when updating the filter.
+We already do this for all our other filterable tables, and I applied
+the same logic here.
+
+e.g.
+https://github.com/nedap/rapidash/blob/1ba437fb3bd00ca5a2ccf07cd456ea4f58ca5489/web/src/views/onsdb/OnsdbCertificatesView.vue#L99-L103</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0118767</div>
+                                        <div class="message">build(deps-dev): Bump eslint-plugin-promise from 6.1.1 to 6.2.0 in /web (#4304)
+
+Bumps
+[eslint-plugin-promise](https://github.com/eslint-community/eslint-plugin-promise)
+from 6.1.1 to 6.2.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/releases"&gt;eslint-plugin-promise's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.2.0&lt;/h2&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/compare/v6.1.1...v6.2.0"&gt;6.2.0&lt;/a&gt;
+(2024-05-27)&lt;/h1&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;no-callback-in-promise:&lt;/strong&gt; false positives when the
+exception is an argument (&lt;a
+href="https://redirect.github.com/eslint-community/eslint-plugin-promise/issues/446"&gt;#446&lt;/a&gt;)
+(&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/5e4546d83b45eae41637f0c13b1c9748421098aa"&gt;5e4546d&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Resolve &lt;code&gt;getAncestors&lt;/code&gt; and &lt;code&gt;getScope&lt;/code&gt; calls in
+eslint v9 (&lt;a
+href="https://redirect.github.com/eslint-community/eslint-plugin-promise/issues/466"&gt;#466&lt;/a&gt;)
+(&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/c0c716b1c5e513ece52443c0f0848e5aee5e2ef7"&gt;c0c716b&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/5e4546d83b45eae41637f0c13b1c9748421098aa"&gt;&lt;code&gt;5e4546d&lt;/code&gt;&lt;/a&gt;
+fix(no-callback-in-promise): false positives when the exception is an
+argumen...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/c0c716b1c5e513ece52443c0f0848e5aee5e2ef7"&gt;&lt;code&gt;c0c716b&lt;/code&gt;&lt;/a&gt;
+feat: Resolve &lt;code&gt;getAncestors&lt;/code&gt; and &lt;code&gt;getScope&lt;/code&gt; calls
+in eslint v9 (&lt;a
+href="https://redirect.github.com/eslint-community/eslint-plugin-promise/issues/466"&gt;#466&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/7d33c30db828a484447651bf12ab3f077cd82c80"&gt;&lt;code&gt;7d33c30&lt;/code&gt;&lt;/a&gt;
+chore: add pkg.funding (&lt;a
+href="https://redirect.github.com/eslint-community/eslint-plugin-promise/issues/468"&gt;#468&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/ce9ae7f4ff43859fd7fb895644ed4f16a8ef27dc"&gt;&lt;code&gt;ce9ae7f&lt;/code&gt;&lt;/a&gt;
+chore(deps-dev): bump &lt;code&gt;@​babel/traverse&lt;/code&gt; from 7.19.1 to
+7.24.1 (&lt;a
+href="https://redirect.github.com/eslint-community/eslint-plugin-promise/issues/453"&gt;#453&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/62af4905947b46d19167f0e5e53937db2e7565d2"&gt;&lt;code&gt;62af490&lt;/code&gt;&lt;/a&gt;
+chore(deps): bump actions/checkout from 3 to 4 (&lt;a
+href="https://redirect.github.com/eslint-community/eslint-plugin-promise/issues/461"&gt;#461&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/19b21b413b4a6c5fa52b8a0b5882f96c1519ae3f"&gt;&lt;code&gt;19b21b4&lt;/code&gt;&lt;/a&gt;
+chore(deps): bump codecov/codecov-action from 3 to 4 (&lt;a
+href="https://redirect.github.com/eslint-community/eslint-plugin-promise/issues/459"&gt;#459&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/8c74b9bda97bbb13b744d40f6f8b78174f5792b2"&gt;&lt;code&gt;8c74b9b&lt;/code&gt;&lt;/a&gt;
+chore(deps): bump actions/setup-node from 3 to 4 (&lt;a
+href="https://redirect.github.com/eslint-community/eslint-plugin-promise/issues/460"&gt;#460&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/bf75e4d9b5cdbb07018480c291473fde9b33aedc"&gt;&lt;code&gt;bf75e4d&lt;/code&gt;&lt;/a&gt;
+chore(deps): bump cycjimmy/semantic-release-action from 3 to 4 (&lt;a
+href="https://redirect.github.com/eslint-community/eslint-plugin-promise/issues/462"&gt;#462&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/bbcfcbf85ef97cba58f4fe4b9f46c907e04bc5a6"&gt;&lt;code&gt;bbcfcbf&lt;/code&gt;&lt;/a&gt;
+chore: add tests for Node 20 (&lt;a
+href="https://redirect.github.com/eslint-community/eslint-plugin-promise/issues/440"&gt;#440&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/commit/0b50079d21a31739fb5254841c7e3ec1c9bcfd4c"&gt;&lt;code&gt;0b50079&lt;/code&gt;&lt;/a&gt;
+chore: remove &lt;code&gt;styfle/cancel-workflow-action&lt;/code&gt; usage (&lt;a
+href="https://redirect.github.com/eslint-community/eslint-plugin-promise/issues/439"&gt;#439&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/eslint-community/eslint-plugin-promise/compare/v6.1.1...v6.2.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=eslint-plugin-promise&amp;package-manager=npm_and_yarn&amp;previous-version=6.1.1&amp;new-version=6.2.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#016ac51</div>
+                                        <div class="message">build(deps-dev): Bump vite from 5.2.11 to 5.2.12 in /web (#4302)
+
+Bumps [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite)
+from 5.2.11 to 5.2.12.
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md"&gt;vite's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;&lt;!-- raw HTML omitted --&gt;5.2.12 (2024-05-28)&lt;!-- raw HTML omitted
+--&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;chore: move to eslint flat config (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16743"&gt;#16743&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/8f16765"&gt;8f16765&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16743"&gt;#16743&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(deps): remove unused deps (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/17329"&gt;#17329&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/5a45745"&gt;5a45745&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/17329"&gt;#17329&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16722"&gt;#16722&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/b45922a"&gt;b45922a&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16722"&gt;#16722&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix: mention &lt;code&gt;build.rollupOptions.output.manualChunks&lt;/code&gt;
+instead of &lt;code&gt;build.rollupOutput.manualChunks&lt;/code&gt; (&lt;a
+href="https://github.com/vitejs/vite/commit/89378c0"&gt;89378c0&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16721"&gt;#16721&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(build): make SystemJSWrapRE match lazy (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16633"&gt;#16633&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/6583ad2"&gt;6583ad2&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16633"&gt;#16633&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(css): avoid generating empty JS files when JS files becomes
+empty but has CSS files imported (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/1"&gt;#1&lt;/a&gt;
+(&lt;a href="https://github.com/vitejs/vite/commit/95fe5a7"&gt;95fe5a7&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16078"&gt;#16078&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(css): handle lightningcss compiled css in Deno (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/17301"&gt;#17301&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/8e4e932"&gt;8e4e932&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/17301"&gt;#17301&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(css): only use files the current bundle contains (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16684"&gt;#16684&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/15a6ebb"&gt;15a6ebb&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16684"&gt;#16684&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(css): page reload was not happening with .css?raw (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16455"&gt;#16455&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/8041846"&gt;8041846&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16455"&gt;#16455&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16603"&gt;#16603&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/6711553"&gt;6711553&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16603"&gt;#16603&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16660"&gt;#16660&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/bf2f014"&gt;bf2f014&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16660"&gt;#16660&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/17321"&gt;#17321&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/4a89766"&gt;4a89766&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/17321"&gt;#17321&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(error-logging): rollup errors weren't displaying id and
+codeframe (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16540"&gt;#16540&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/22dc196"&gt;22dc196&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16540"&gt;#16540&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(hmr): normalize the path info (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/14255"&gt;#14255&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/6a085d0"&gt;6a085d0&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/14255"&gt;#14255&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(hmr): trigger page reload when calling invalidate on root module
+(&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16636"&gt;#16636&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/2b61cc3"&gt;2b61cc3&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16636"&gt;#16636&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(logger): truncate log over 5000 characters long (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16581"&gt;#16581&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/b0b839a"&gt;b0b839a&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16581"&gt;#16581&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(optimizer): log dependencies added by plugins (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16729"&gt;#16729&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/f0fb987"&gt;f0fb987&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16729"&gt;#16729&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(sourcemap): improve sourcemap compatibility for vue2 (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16594"&gt;#16594&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/913c040"&gt;913c040&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16594"&gt;#16594&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;docs: correct proxy shorthand example (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15938"&gt;#15938&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/abf766e"&gt;abf766e&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15938"&gt;#15938&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;docs: deprecate server.hot (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16741"&gt;#16741&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/e7d38ab"&gt;e7d38ab&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/16741"&gt;#16741&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/bed3faa0cb464a4abe8ee92746feff8f7299e347"&gt;&lt;code&gt;bed3faa&lt;/code&gt;&lt;/a&gt;
+release: v5.2.12&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/5a457454bfee1892b0d58c4b1c401cfb15986097"&gt;&lt;code&gt;5a45745&lt;/code&gt;&lt;/a&gt;
+chore(deps): remove unused deps (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/17329"&gt;#17329&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/15a6ebb414e3155583e3e9ad970afbdb598b0609"&gt;&lt;code&gt;15a6ebb&lt;/code&gt;&lt;/a&gt;
+fix(css): only use files the current bundle contains (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16684"&gt;#16684&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/f0fb9876deef3c66c60a2d0588a140f11a977011"&gt;&lt;code&gt;f0fb987&lt;/code&gt;&lt;/a&gt;
+fix(optimizer): log dependencies added by plugins (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16729"&gt;#16729&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/8f167653ede5d61f9d08ffa86c91e218557199ae"&gt;&lt;code&gt;8f16765&lt;/code&gt;&lt;/a&gt;
+chore: move to eslint flat config (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16743"&gt;#16743&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/8e4e932b4979bc40a03b0ffb65b960df62226def"&gt;&lt;code&gt;8e4e932&lt;/code&gt;&lt;/a&gt;
+fix(css): handle lightningcss compiled css in Deno (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/17301"&gt;#17301&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/4a89766d838527c144f14e842211100b16792018"&gt;&lt;code&gt;4a89766&lt;/code&gt;&lt;/a&gt;
+fix(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/17321"&gt;#17321&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/6a085d0467ca3b044b4f2108a323af3305a0eae7"&gt;&lt;code&gt;6a085d0&lt;/code&gt;&lt;/a&gt;
+fix(hmr): normalize the path info (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/14255"&gt;#14255&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/e7d38ab1c45b9d17f182f89d0c129932e2f994eb"&gt;&lt;code&gt;e7d38ab&lt;/code&gt;&lt;/a&gt;
+docs: deprecate server.hot (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16741"&gt;#16741&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/b45922a91d4a73c27f78f26e369b7b1fd8d800e3"&gt;&lt;code&gt;b45922a&lt;/code&gt;&lt;/a&gt;
+chore(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/16722"&gt;#16722&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/vitejs/vite/commits/v5.2.12/packages/vite"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=vite&amp;package-manager=npm_and_yarn&amp;previous-version=5.2.11&amp;new-version=5.2.12)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b0c66f</div>
+                                        <div class="message">build(deps-dev): Bump @typescript-eslint/eslint-plugin from 7.10.0 to 7.11.0 in /web (#4303)
+
+Bumps
+[@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin)
+from 7.10.0 to 7.11.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/releases"&gt;&lt;code&gt;@​typescript-eslint/eslint-plugin&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v7.11.0&lt;/h2&gt;
+&lt;h2&gt;7.11.0 (2024-05-27)&lt;/h2&gt;
+&lt;h3&gt;🚀 Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; deprecate prefer-ts-expect-error in
+favor of ban-ts-comment (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/9081"&gt;#9081&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🩹 Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ast-spec:&lt;/strong&gt; add &lt;code&gt;EmptyStatement&lt;/code&gt; to
+&lt;code&gt;Statement&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8892"&gt;#8892&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [consistent-type-assertions] prevent
+syntax errors on arrow functions (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8826"&gt;#8826&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;typescript-estree:&lt;/strong&gt; truncate number of files printed
+by the maximum file error (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/9127"&gt;#9127&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❤️  Thank You&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Abraham Guo&lt;/li&gt;
+&lt;li&gt;auvred &lt;a
+href="https://github.com/auvred"&gt;&lt;code&gt;@​auvred&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dom Armstrong &lt;a
+href="https://github.com/domarmstrong"&gt;&lt;code&gt;@​domarmstrong&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kirk Waiblinger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md"&gt;&lt;code&gt;@​typescript-eslint/eslint-plugin&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;7.11.0 (2024-05-27)&lt;/h2&gt;
+&lt;h3&gt;🚀 Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; deprecate prefer-ts-expect-error in
+favor of ban-ts-comment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🩹 Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [consistent-type-assertions] prevent
+syntax errors on arrow functions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❤️  Thank You&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Abraham Guo&lt;/li&gt;
+&lt;li&gt;auvred&lt;/li&gt;
+&lt;li&gt;Dom Armstrong&lt;/li&gt;
+&lt;li&gt;Kirk Waiblinger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/e36054187fb31113ba64c33c257d2a86cb3afc54"&gt;&lt;code&gt;e360541&lt;/code&gt;&lt;/a&gt;
+chore(release): publish 7.11.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/b230385a3daf5562fb147572b59d44ec460332d5"&gt;&lt;code&gt;b230385&lt;/code&gt;&lt;/a&gt;
+feat(eslint-plugin): deprecate prefer-ts-expect-error in favor of
+ban-ts-comm...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/3461f45479cf2483c0b26346229d251d7d0b08b2"&gt;&lt;code&gt;3461f45&lt;/code&gt;&lt;/a&gt;
+test(eslint-plugin): [consistent-type-assertions] add missing
+&lt;code&gt;output: null&lt;/code&gt; ...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/342b873f9f7ff9936d21ed527386f19ab094e729"&gt;&lt;code&gt;342b873&lt;/code&gt;&lt;/a&gt;
+fix(eslint-plugin): [consistent-type-assertions] prevent syntax errors
+on arr...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/b5ce43b1fc76322eb65b709f63490ce49e622706"&gt;&lt;code&gt;b5ce43b&lt;/code&gt;&lt;/a&gt;
+chore(eslint-plugin): replaced map/reduce with flatMap in
+normalizedOptions i...&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commits/v7.11.0/packages/eslint-plugin"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@typescript-eslint/eslint-plugin&amp;package-manager=npm_and_yarn&amp;previous-version=7.10.0&amp;new-version=7.11.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f076988</div>
+                                        <div class="message">build(deps-dev): Bump @typescript-eslint/parser from 7.10.0 to 7.11.0 in /web (#4301)
+
+Bumps
+[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser)
+from 7.10.0 to 7.11.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/releases"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v7.11.0&lt;/h2&gt;
+&lt;h2&gt;7.11.0 (2024-05-27)&lt;/h2&gt;
+&lt;h3&gt;🚀 Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; deprecate prefer-ts-expect-error in
+favor of ban-ts-comment (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/9081"&gt;#9081&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🩹 Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ast-spec:&lt;/strong&gt; add &lt;code&gt;EmptyStatement&lt;/code&gt; to
+&lt;code&gt;Statement&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8892"&gt;#8892&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [consistent-type-assertions] prevent
+syntax errors on arrow functions (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8826"&gt;#8826&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;typescript-estree:&lt;/strong&gt; truncate number of files printed
+by the maximum file error (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/9127"&gt;#9127&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❤️  Thank You&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Abraham Guo&lt;/li&gt;
+&lt;li&gt;auvred &lt;a
+href="https://github.com/auvred"&gt;&lt;code&gt;@​auvred&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dom Armstrong &lt;a
+href="https://github.com/domarmstrong"&gt;&lt;code&gt;@​domarmstrong&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kirk Waiblinger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;7.11.0 (2024-05-27)&lt;/h2&gt;
+&lt;p&gt;This was a version bump only for parser to align it with other
+projects, there were no code changes.&lt;/p&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/e36054187fb31113ba64c33c257d2a86cb3afc54"&gt;&lt;code&gt;e360541&lt;/code&gt;&lt;/a&gt;
+chore(release): publish 7.11.0&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commits/v7.11.0/packages/parser"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@typescript-eslint/parser&amp;package-manager=npm_and_yarn&amp;previous-version=7.10.0&amp;new-version=7.11.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ba437f</div>
+                                        <div class="message">ci: Use Slicebot PAT to trigger Dependabot auto-merge (#4300)
+
+Fixes https://hc-nedap.atlassian.net/browse/CE-5210
+
+Dependabot commits don't always trigger the automated workflows from
+`build-deploy.yml`. This is because the `auto-merge` requires a Personal
+Access Token (PAT) to trigger them
+(https://github.com/dependabot/fetch-metadata/issues/111)
+
+Some examples:
+* This Dependabot commit (https://github.com/nedap/rapidash/pull/4275)
+is merged by github-actions and doesn't trigger all of the workflows
+* This Dependabot commit (https://github.com/nedap/rapidash/pull/4286)
+is merged by Ramon and it _does_ trigger the workflows
+* This Dependabot commit from the Ysis repository
+(https://github.com/nedap/ysis/pull/1347) is merged by SliceBot and it
+_does_ trigger the workflows
+
+This PR applies the same config as in Ysis
+(https://github.com/nedap/ysis/blob/master/.github/workflows/dependabot-automerge.yml)
+by using the SliceBot PAT</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d011bb9</div>
+                                        <div class="message">build(deps): Bump com.nedap.healthcare.glue:glue-platform from 4.8.4 to 4.10.0 (#4298)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/test-cafe/chromedriver-126.0.0</span>
+                                        in
+                                        <span class="repo">nedap/chansey</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">nedap/chansey</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3d1c045</div>
+                                        <div class="message">build(deps-dev): Bump chromedriver from 125.0.3 to 126.0.0 in /test-cafe (#1501)
+
+Bumps [chromedriver](https://github.com/giggio/node-chromedriver) from
+125.0.3 to 126.0.0.
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/giggio/node-chromedriver/commit/50b15511808719976d12a5b7c0fd4972dd6379f7"&gt;&lt;code&gt;50b1551&lt;/code&gt;&lt;/a&gt;
+Update package-lock.json to fix dep&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/giggio/node-chromedriver/commit/5e11bd400e16f5cea2f9cbdaf27df105ee820a09"&gt;&lt;code&gt;5e11bd4&lt;/code&gt;&lt;/a&gt;
+Bump version to 126.0.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/giggio/node-chromedriver/commit/6043aaf8ab5d8db19065dcc2370b2b261afbef6f"&gt;&lt;code&gt;6043aaf&lt;/code&gt;&lt;/a&gt;
+Remove node.js from build and scripts&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/giggio/node-chromedriver/compare/125.0.3...126.0.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=chromedriver&amp;package-manager=npm_and_yarn&amp;previous-version=125.0.3&amp;new-version=126.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -2010,7 +4476,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.28m out of 202m repositories</span>
+                                    <span class="gh">ranked 5.28m out of 197m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2092,7 +4558,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2024, 17:10:57 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2024, 18:14:25 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
