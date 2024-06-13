@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2029" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2062" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -422,7 +422,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 46 commits)</small>
+                    <small class="h-details">(computed from last 49 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1501,26 +1501,6 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">nedap/ons-spraak-whismur</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/github_actions/gradle/gradle-build-action-3</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#63c1f17</div>
-                                        <div class="message">Merge branch 'development' into dependabot/github_actions/gradle/gradle-build-action-3</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">nedap/ons-spraak-whismur</span>
                                     </div>
@@ -1528,108 +1508,113 @@
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3299338</div>
-                                        <div class="message">build(deps): bump actions/setup-java from 2 to 4 (#304)
+                                        <div class="sha">#0d42ad4</div>
+                                        <div class="message">build(deps): bump gradle/gradle-build-action from 2 to 3 (#305)
 
-Bumps [actions/setup-java](https://github.com/actions/setup-java) from 2
-to 4.
+Bumps
+[gradle/gradle-build-action](https://github.com/gradle/gradle-build-action)
+from 2 to 3.
 &lt;details&gt;
 &lt;summary&gt;Release notes&lt;/summary&gt;
 &lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/actions/setup-java/releases"&gt;actions/setup-java's
+href="https://github.com/gradle/gradle-build-action/releases"&gt;gradle/gradle-build-action's
 releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;h2&gt;v4.0.0&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;p&gt;In the scope of this release, the version of the Node.js runtime was
-updated to 20. The majority of dependencies were updated to the latest
-versions. From now on, the code for the setup-java will run on Node.js
-20 instead of Node.js 16.&lt;/p&gt;
-&lt;h2&gt;Breaking changes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Update Node.js runtime to version 20 by &lt;a
-href="https://github.com/aparnajyothi-y"&gt;&lt;code&gt;@​aparnajyothi-y&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/558"&gt;actions/setup-java#558&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Non-breaking changes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Adding support for microsoft openjdk 21.0.0 by &lt;a
-href="https://github.com/ralfstuckert"&gt;&lt;code&gt;@​ralfstuckert&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/546"&gt;actions/setup-java#546&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update &lt;code&gt;@​actions/cache&lt;/code&gt; dependency and documentation by
-&lt;a href="https://github.com/IvanZosimov"&gt;&lt;code&gt;@​IvanZosimov&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/549"&gt;actions/setup-java#549&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Implementation of the cache-dependency-path option to control
-caching dependency by &lt;a
-href="https://github.com/itchyny"&gt;&lt;code&gt;@​itchyny&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/499"&gt;actions/setup-java#499&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/ralfstuckert"&gt;&lt;code&gt;@​ralfstuckert&lt;/code&gt;&lt;/a&gt;
-made their first contribution in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/546"&gt;actions/setup-java#546&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/itchyny"&gt;&lt;code&gt;@​itchyny&lt;/code&gt;&lt;/a&gt; made
-their first contribution in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/499"&gt;actions/setup-java#499&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
-href="https://github.com/actions/setup-java/compare/v3...v4.0.0"&gt;https://github.com/actions/setup-java/compare/v3...v4.0.0&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;v3.13.0&lt;/h2&gt;
-&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;p&gt;In the scope of this release, support for Dragonwell JDK was added by
-&lt;a
-href="https://github.com/Accelerator1996"&gt;&lt;code&gt;@​Accelerator1996&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/532"&gt;actions/setup-java#532&lt;/a&gt;&lt;/p&gt;
-&lt;pre lang="yaml"&gt;&lt;code&gt;steps:
- - name: Checkout
-   uses: actions/checkout@v3
- - name: Setup-java
-   uses: actions/setup-java@v3
-   with:
-     distribution: 'dragonwell'
-     java-version: '17'
+&lt;h2&gt;v3.0.0&lt;/h2&gt;
+&lt;p&gt;This is the first release of &lt;code&gt;gradle/gradle-build-action&lt;/code&gt;
+available with the &lt;code&gt;v3&lt;/code&gt; version tag.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!IMPORTANT]
+As of &lt;code&gt;v3&lt;/code&gt; this action has been superceded by
+&lt;code&gt;gradle/actions/setup-gradle&lt;/code&gt;.
+Any workflow that uses &lt;code&gt;gradle/gradle-build-action@v3&lt;/code&gt; will
+transparently delegate to
+&lt;code&gt;gradle/actions/setup-gradle@v3&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Users are encouraged to update their workflows, replacing:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;uses: gradle/gradle-build-action@v3
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Several inaccuracies were also fixed:&lt;/p&gt;
+&lt;p&gt;with&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;uses: gradle/actions/setup-gradle@v3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;See the &lt;a
+href="https://github.com/gradle/actions/tree/main/setup-gradle"&gt;setup-gradle
+documentation&lt;/a&gt; for up-to-date documentation for
+&lt;code&gt;gradle/actions/setup-gradle&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Changes from &lt;code&gt;gradle-build-action@v2&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;This release brings some useful and much requested features,
+including:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Fix XML namespaces wrongly using https by &lt;a
-href="https://github.com/gnodet"&gt;&lt;code&gt;@​gnodet&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/503"&gt;actions/setup-java#503&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix typo and remove unintentional(?) word by &lt;a
-href="https://github.com/CyberFlameGO"&gt;&lt;code&gt;@​CyberFlameGO&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/518"&gt;actions/setup-java#518&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix usage link within the README.md file by &lt;a
-href="https://github.com/dassiorleando"&gt;&lt;code&gt;@​dassiorleando&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/525"&gt;actions/setup-java#525&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;save and restore the Gradle configuration-cache data&lt;/li&gt;
+&lt;li&gt;add the Job summary content as a PR comment&lt;/li&gt;
+&lt;li&gt;easily publish Build Scans® to the free &lt;a
+href="https://scans.gradle.com"&gt;Gradle Build Scan service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;compatibility with Node 20&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;p&gt;The only major breaking change from
+&lt;code&gt;gradle-build-action@v2.12.0&lt;/code&gt; is the update to require a Node
+20 runtime environment.
+Aside from that change, this release should generally serve as a drop-in
+replacement for &lt;code&gt;gradle-build-action@v2&lt;/code&gt;.&lt;/p&gt;
+&lt;h3&gt;Changelog&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/CyberFlameGO"&gt;&lt;code&gt;@​CyberFlameGO&lt;/code&gt;&lt;/a&gt;
-made their first contribution in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/518"&gt;actions/setup-java#518&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/dassiorleando"&gt;&lt;code&gt;@​dassiorleando&lt;/code&gt;&lt;/a&gt;
-made their first contribution in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/525"&gt;actions/setup-java#525&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/gnodet"&gt;&lt;code&gt;@​gnodet&lt;/code&gt;&lt;/a&gt; made
-their first contribution in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/503"&gt;actions/setup-java#503&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/Accelerator1996"&gt;&lt;code&gt;@​Accelerator1996&lt;/code&gt;&lt;/a&gt;
-made their first contribution in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/532"&gt;actions/setup-java#532&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[NEW] - Run with NodeJs 20.x (&lt;a
+href="https://redirect.github.com/gradle/gradle-build-action/issues/946"&gt;gradle/gradle-build-action#946&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[NEW] - Support for save &amp;amp; restore of configuration-cache data
+(&lt;a
+href="https://redirect.github.com/gradle/gradle-build-action/issues/966"&gt;gradle/gradle-build-action#966&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[NEW] - Support for automatic adding PR comment with Job Summary
+content (&lt;a
+href="https://redirect.github.com/gradle/gradle-build-action/issues/1020"&gt;gradle/gradle-build-action#1020&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[NEW] - Make it easy to publish a Build Scan® to &lt;a
+href="https://scans.gradle.com"&gt;https://scans.gradle.com&lt;/a&gt; (&lt;a
+href="https://redirect.github.com/gradle/gradle-build-action/issues/1044"&gt;gradle/gradle-build-action#1044&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[NEW] - Added &lt;code&gt;dependency-graph-continue-on-failure&lt;/code&gt;
+input, which can be set to &lt;code&gt;false&lt;/code&gt; to force the Job to fail
+when dependency graph submission fails (&lt;a
+href="https://redirect.github.com/gradle/gradle-build-action/issues/1036"&gt;gradle/gradle-build-action#1036&lt;/a&gt;).
+Failure modes include:
+&lt;ul&gt;
+&lt;li&gt;Fail build step if version of Gradle being executed is not supported
+for dependency-graph generation (&lt;a
+href="https://redirect.github.com/gradle/gradle-build-action/issues/1034"&gt;gradle/gradle-build-action#1034&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fail job if permissions are insufficient to submit dependency graph
+via Dependency Submission API (&lt;a
+href="https://redirect.github.com/gradle/gradle-build-action/issues/997"&gt;gradle/gradle-build-action#997&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
-href="https://github.com/actions/setup-java/compare/v3...v3.13.0"&gt;https://github.com/actions/setup-java/compare/v3...v3.13.0&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;v3.12.0&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;[NEW] - Add &lt;code&gt;dependency-graph: clear&lt;/code&gt; option to clear any
+dependency-graph previously submitted by the job&lt;/li&gt;
+&lt;li&gt;[FIX] Allow cache entries to be reused by jobs with the same ID in
+different workflows (&lt;a
+href="https://redirect.github.com/gradle/gradle-build-action/issues/1017"&gt;gradle/gradle-build-action#1017&lt;/a&gt;)
+&lt;ul&gt;
+&lt;li&gt;Workflow name remains part of the cache key, but cache entries
+generated by the same job id in a different workflow may be
+restored&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[FIX] Register pre-installed JDKs in Maven toolchains.xml file (&lt;a
+href="https://redirect.github.com/gradle/gradle-build-action/issues/1024"&gt;gradle/gradle-build-action#1024&lt;/a&gt;)
+&lt;ul&gt;
+&lt;li&gt;This allows pre-installed JDKs to be auto-detected by Gradle
+Toolchain support on Windows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[FIX] - Update the Gradle Enterprise injection configuration for
+product rename to Develocity (&lt;a
+href="https://redirect.github.com/gradle/gradle-build-action/issues/995"&gt;gradle/gradle-build-action#995&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[FIX] - Avoid submitting an empty dependency graph when state is
+loaded from configuration-cache&lt;/li&gt;
+&lt;li&gt;[FIX] - Update to &lt;code&gt;GitHub Dependency Graph Gradle Plugin&lt;/code&gt;
+&lt;a
+href="https://github.com/gradle/github-dependency-graph-gradle-plugin/releases/tag/v1.2.0"&gt;v1.2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[DEPRECATION] - Deprecation of the arguments parameter (&lt;a
+href="https://redirect.github.com/gradle/gradle-build-action/issues/996"&gt;gradle/gradle-build-action#996&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[BREAKING CHANGE] - Remove the &lt;code&gt;gradle-executable&lt;/code&gt; input
+parameter. Use a separate workflow Step to execute a Gradle from a
+custom location.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;... (truncated)&lt;/p&gt;
@@ -1638,47 +1623,37 @@ href="https://github.com/actions/setup-java/compare/v3...v3.13.0"&gt;https://git
 &lt;summary&gt;Commits&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/99b8673ff64fbf99d8d325f52d9a5bdedb8483e9"&gt;&lt;code&gt;99b8673&lt;/code&gt;&lt;/a&gt;
-Patch for java version file (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/610"&gt;#610&lt;/a&gt;)&lt;/li&gt;
+href="https://github.com/gradle/gradle-build-action/commit/e2097ccd7e8ed48671dc068ac4efa86d25745b39"&gt;&lt;code&gt;e2097cc&lt;/code&gt;&lt;/a&gt;
+Bump to use v3.3.1&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/5896cecc08fd8a1fbdfaf517e29b571164b031f7"&gt;&lt;code&gt;5896cec&lt;/code&gt;&lt;/a&gt;
-Added .tool-versions file support (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/606"&gt;#606&lt;/a&gt;)&lt;/li&gt;
+href="https://github.com/gradle/gradle-build-action/commit/8baac4c8ef753599f92eeb509c246d09d6250fa6"&gt;&lt;code&gt;8baac4c&lt;/code&gt;&lt;/a&gt;
+Map setup-gradle outputs back to gradle-build-action&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/80ae3c2885b277a440ee4931b74570716d9a0e27"&gt;&lt;code&gt;80ae3c2&lt;/code&gt;&lt;/a&gt;
-Update httpclient version and other dependencies (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/607"&gt;#607&lt;/a&gt;)&lt;/li&gt;
+href="https://github.com/gradle/gradle-build-action/commit/595fa85721f407447040bb9c9976254d88ad793d"&gt;&lt;code&gt;595fa85&lt;/code&gt;&lt;/a&gt;
+Run quick-check on main&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/9704b39bf258b59bc04b50fa2dd55e9ed76b47a8"&gt;&lt;code&gt;9704b39&lt;/code&gt;&lt;/a&gt;
-Added Windows Arm64 Support for Windows Arm64 Runners (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/595"&gt;#595&lt;/a&gt;)&lt;/li&gt;
+href="https://github.com/gradle/gradle-build-action/commit/f02f491d0d40a7ae88c67d3eaf2f3aa55c60a27b"&gt;&lt;code&gt;f02f491&lt;/code&gt;&lt;/a&gt;
+Update action.yml for setup-gradle@v3.3.0&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/7a445ee88d4e23b52c33fdc7601e40278616c7f8"&gt;&lt;code&gt;7a445ee&lt;/code&gt;&lt;/a&gt;
-Fix typo in configuration example (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/572"&gt;#572&lt;/a&gt;)&lt;/li&gt;
+href="https://github.com/gradle/gradle-build-action/commit/cb6e43f18001186272630908bb44a8246d3df780"&gt;&lt;code&gt;cb6e43f&lt;/code&gt;&lt;/a&gt;
+Emit correct deprecation warnings in setup-gradle&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/3232623d9c428cc5f228a01a2ae8d2d70f79775e"&gt;&lt;code&gt;3232623&lt;/code&gt;&lt;/a&gt;
-Oracle JDK 21 support (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/538"&gt;#538&lt;/a&gt;)&lt;/li&gt;
+href="https://github.com/gradle/gradle-build-action/commit/bdf99f9dada2506e990bac6de8ec5e3de34a04f1"&gt;&lt;code&gt;bdf99f9&lt;/code&gt;&lt;/a&gt;
+Update action.yml for v3.2.1&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/c0660d8edc6bc867c9d061fe281338039e3e0092"&gt;&lt;code&gt;c0660d8&lt;/code&gt;&lt;/a&gt;
-docs: add note about maven-gpg-plugin version (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/570"&gt;#570&lt;/a&gt;)&lt;/li&gt;
+href="https://github.com/gradle/gradle-build-action/commit/fe59895742b4f984530980e4f693943577526b61"&gt;&lt;code&gt;fe59895&lt;/code&gt;&lt;/a&gt;
+Disable dependabot for this repo&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/2f7af1b9c5646dcf9105b2004b0c5d8f68026bad"&gt;&lt;code&gt;2f7af1b&lt;/code&gt;&lt;/a&gt;
-make it clear that Java 21 is supported (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/566"&gt;#566&lt;/a&gt;)&lt;/li&gt;
+href="https://github.com/gradle/gradle-build-action/commit/928891f9d83ac8e366d29011d0d8406343d1e19b"&gt;&lt;code&gt;928891f&lt;/code&gt;&lt;/a&gt;
+Update action.yml for v3.2.0&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/16ef37f8dd292a31055a9ee0d26fa0a4efab58de"&gt;&lt;code&gt;16ef37f&lt;/code&gt;&lt;/a&gt;
-HTTP errors when the token is undefined (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/556"&gt;#556&lt;/a&gt;)&lt;/li&gt;
+href="https://github.com/gradle/gradle-build-action/commit/942d5e1456472d289f4b112fd3b62244067bac9c"&gt;&lt;code&gt;942d5e1&lt;/code&gt;&lt;/a&gt;
+Bump Gradle Wrapper from 8.6 to 8.7 in /.github/workflow-samples&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/a2374547dfdd276b7bd9e4ba2c6ba50647d9c8a7"&gt;&lt;code&gt;a237454&lt;/code&gt;&lt;/a&gt;
-feat: bump actions/checkout and actions/setup-java to v4 (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/533"&gt;#533&lt;/a&gt;)&lt;/li&gt;
+href="https://github.com/gradle/gradle-build-action/commit/2bd30acc50398ddb4c24deba4f10013f9672b8ef"&gt;&lt;code&gt;2bd30ac&lt;/code&gt;&lt;/a&gt;
+Bump org.junit.jupiter:junit-jupiter&lt;/li&gt;
 &lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/actions/setup-java/compare/v2...v4"&gt;compare
+href="https://github.com/gradle/gradle-build-action/compare/v2...v3"&gt;compare
 view&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
@@ -1686,7 +1661,7 @@ view&lt;/a&gt;&lt;/li&gt;
 
 
 [![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/setup-java&amp;package-manager=github_actions&amp;previous-version=2&amp;new-version=4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=gradle/gradle-build-action&amp;package-manager=github_actions&amp;previous-version=2&amp;new-version=3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
 
 You can trigger a rebase of this PR by commenting `@dependabot rebase`.
 
@@ -1746,7 +1721,7 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/github_actions/actions/setup-java-4</span>
+                                        <span class="code">dependabot/github_actions/gradle/gradle-build-action-3</span>
                                         in
                                         <span class="repo">nedap/ons-spraak-whismur</span>
                                     </div>
@@ -1765,10 +1740,10 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/github_actions/actions/setup-java-4</span></div>
+                                    <div>on branch <span class="code">dependabot/gradle/development/kotlin-2.0.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9da97ba</div>
-                                        <div class="message">Merge branch 'development' into dependabot/github_actions/actions/setup-java-4</div>
+                                        <div class="sha">#cfdc0ab</div>
+                                        <div class="message">Merge branch 'development' into dependabot/gradle/development/kotlin-2.0.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -1777,14 +1752,38 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/github_actions/actions/checkout-4</span>
-                                        in
+                                        Pushed 3 commits in
                                         <span class="repo">nedap/ons-spraak-whismur</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/gradle/development/kotlin-2.0.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8fb05fd</div>
+                                        <div class="message">Merge branch 'development' into dependabot/gradle/development/kotlin-2.0.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">nedap/ons-spraak-whismur</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/github_actions/gradle/gradle-build-action-3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#63c1f17</div>
+                                        <div class="message">Merge branch 'development' into dependabot/github_actions/gradle/gradle-build-action-3</div>
                                     </div>
                                 </div>
                             </section>
@@ -1937,7 +1936,7 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.13m out of 138m users</span>
+                                    <span class="gh">ranked 8.13m out of 136m users</span>
                                 </div>
                                 <div class="text">Published 8 public repositories</div>
                             </div>
@@ -2134,7 +2133,7 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.01m out of 138m users</span>
+                                    <span class="gh">ranked 2.01m out of 136m users</span>
                                 </div>
                                 <div class="text">Followed by 7 users</div>
                             </div>
@@ -2217,7 +2216,7 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.28m out of 207m repositories</span>
+                                    <span class="gh">ranked 5.28m out of 176m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2299,7 +2298,7 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2024, 08:14:38 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2024, 09:10:25 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
