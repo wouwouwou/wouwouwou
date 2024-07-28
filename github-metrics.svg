@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -427,7 +427,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 77.7 characters per line of code written</li>
+                        <li>Has approximately 55.9 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1475,57 +1475,9 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/npm_and_yarn/web/eslint-plugin-promise-7.0.0</span>
+                                        <span class="code">dependabot/npm_and_yarn/test-cafe/chromedriver-127.0.0</span>
                                         in
-                                        <span class="repo">nedap/rapidash</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/npm_and_yarn/web/sass-loader-16.0.0</span>
-                                        in
-                                        <span class="repo">nedap/rapidash</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/gradle/net.logstash.logback-logstash-logback-encoder-8.0</span>
-                                        in
-                                        <span class="repo">nedap/ysis</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/gradle/net.logstash.logback-logstash-logback-encoder-8.0</span>
-                                        in
-                                        <span class="repo">nedap/chansey</span>
+                                        <span class="repo">nedap/springboard</span>
                                     </div>
                                 </div>
                             </section>
@@ -1538,149 +1490,25 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">nedap/chansey</span>
+                                        <span class="repo">nedap/springboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a04bc5e</div>
-                                        <div class="message">
-                                            build(deps): Bump net.logstash.logback:logstash-logback-encoder from 7.4 to 8.0 (#1580)
+                                        <div class="sha">#b37533b</div>
+                                        <div class="message">build(deps-dev): Bump chromedriver from 126.0.5 to 127.0.0 in /test-cafe (#2217)
 
-Bumps
-[net.logstash.logback:logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder)
-from 7.4 to 8.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/releases"&gt;net.logstash.logback:logstash-logback-encoder's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;logstash-logback-encoder-8.0&lt;/h2&gt;
-&lt;p&gt;This release supports the new &lt;a
-href="https://github.com/qos-ch/logback-access"&gt;logback-access&lt;/a&gt; 2.x
-artifacts at group id &lt;a
-href="https://mvnrepository.com/artifact/ch.qos.logback.access"&gt;&lt;code&gt;ch.qos.logback.access&lt;/code&gt;&lt;/a&gt;.
-This release does not support the old logback-access artifact at &lt;a
-href="https://mvnrepository.com/artifact/ch.qos.logback/logback-access"&gt;&lt;code&gt;ch.qos.logback:logback-access&lt;/code&gt;&lt;/a&gt;.
-Special thanks to &lt;a
-href="https://github.com/sondemar"&gt;&lt;code&gt;@​sondemar&lt;/code&gt;&lt;/a&gt; for this
-contribution!&lt;/p&gt;
-&lt;p&gt;This release requires Java 11 or newer.&lt;/p&gt;
-&lt;p&gt;Recommended versions of dependencies are as follows (Earlier versions
-might work, but have not been tested):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;logback-core/classic 1.5.x.&lt;/li&gt;
-&lt;li&gt;logback-access 2.0.x&lt;/li&gt;
-&lt;li&gt;jackson-* 2.17.x&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;h3&gt;
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            New features and improvements&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Set AbstractThrowableClassNameJsonProvider.getThrowable as protected
-by &lt;a
-href="https://github.com/EvaristeGalois11"&gt;&lt;code&gt;@​EvaristeGalois11&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/pull/988"&gt;logfellow/logstash-logback-encoder#988&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add composite MdcEntryWriter to filter MDC keys with regex by &lt;a
-href="https://github.com/jug"&gt;&lt;code&gt;@​jug&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/pull/974"&gt;logfellow/logstash-logback-encoder#974&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            Bug fixes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix typo in IllegalArgumentException message by &lt;a
-href="https://github.com/rooday-doordash"&gt;&lt;code&gt;@​rooday-doordash&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/pull/1024"&gt;logfellow/logstash-logback-encoder#1024&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;
-                                            <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAOaUlEQVR4nO2ZaUxcV5bH7/QoypdWqzvSzHzpVrfU0yP1hx6NZGWkjNItdwNVUEUtUBRrYZbaWKuKqsJAsRps9sVgm9WAF2yzOnZwdscxjgFTLjsJjk1sTOwEt1qtnnxLfxjNxGf0P/BIuVxgcKio1eJJ/1vmvXfPOb9z7zv3vmchdo6dY+fYOXaOnWPn2Dl2js0di4uLL969e/fVGzduWLxeb7XX6+2dm5s7Nzs7Ozk3Nwed8nq9PdevX3fcunUrYnl5+aXl5WXxPFpcXPynhYUF+c2bN53w4/V6z8DPYo7tzrIi5tGXusRPlw2ZFx+asgce2d3Wr6qqfvRVVZXYisSzbiCiH8zPz2u9Xm/nzMzMjenp6f+5fPkybVbT09PfXLt27WOfz1e/tLT0b0tLS2Ij3bt379c+n695Zmbm1tWrV78JZvNBTDx99dN/fUq36pv+FzEiVsSM2IlIbCTxrBvm5uaGJMcffvgheb1e+vjjj+n27dt09+5dWlpaos8//5wePnzIv9Di4iItLCzQJ598wvdfuXJF6v+Nz+e7tLCwsHthYUH4a35+Ptzr9U5duXLlsb+v+fl5tgWbsP3gwQP6c0p60ATcaW7jflK8s7OzQ7Ozs2IjiY0uTk1N/dfU1NTjubk5unfvHkM+jxA0IGAHgSEh09PTF6enp38JTU1NvS8l6dq1a3wv+qxnb70E/LFvgK8jVvhC7JcuXVL7fL4XfD6fCCaxzoUXxsbGLo6MjHBQGOnnhQ+UFNy7775LExMTX589e/avb7/9No/2ZpP8rARIfqampmh4eJhGRkYeTU5O/mpyclIESvj/MdhW9eOuak/88a72yaGhITp//vy2wvvrxo0bND4+zgL8VvpuJgFSEi5cuEBgGRrsv91V5UkE42BblZAkpH90VBSpDpYV/rXV46Ke1iYaHR3lDGIqhkJ37tyhDz74gHXr1q0t9V0vAY96+5+6F4/Wa6+9RoN93QQ2MIK1o6IIzIIbqM3j/qLN46LufSU00t9D77//Pnf+e0gAWF4fH2U2MLZ5nA/aPE4BcQM1FzkeHy4vpMEDZTQx2EcXL178u5gBYADLG69NMNuRir3UUlTwuKWoQEDcQE1FdjpUXkj9+0tpfLB3wwRgGcSzdfbsWS4yeMbOnDnDQuE8d+4cvfXWW5x9LIVYKreaACx5OH/16lVCkYRN2IaPO5Gq50jAOLMdKncTWJuK7GAW3ECNhTbqKHXR0eoSGhvo2TABgOvp6dm0BgYG6P79+1tKAJK6nr358CgGvqnU0nB1DX357y8/MwEXzo4zGxjB2lhoA7PgBmpw51OHx0l9+4pprH/jBNy8eZPefPNNvgejjLUbmp2d5b/fe+89mpycpNOnT1Nvby8LFXkrCTh27Bj3O3XqFL3++utsE/HAzxe6RPpjWBTNXL7Mz/cHA8foL7/6zTMTALZ2j5PA2uDOB7PgBqp35VJ7SQH1Vu6l0aPd21YDMPLYNW71EZB2f8Fs/infSQ+91584t3xiiB4dHVg/ARNjzHaw2EFgrXflgllwA9U5c6it2E7dFW4aOdr1N10EH96+s+nzUgImJ8aYrbXIRmCtc+aAWXAD1TqyqXWvjbrKXDTS1/k3nYCtyD8BYGspzCew1jqywSy4gQ7YrdRSmEedpQU03HtkLQHSC46/MKWxRX7nnXf4WUeFloS/8byiFmC3J73EBLMB+EuXLvELT7B78Ph89NFHbIun8YULT/hCbUBBRh3AahPMBuLkBIyPMluLO4/AesBuBbPgBqqxWanJlUuHSxx0pufwhgnAsrTZFQCFDEtlYCKelQAssei7WT8TExMbJgAbIbCBEaw1NmYW3LDyzdTozKZDxTY63d3Bo4jOwYyi2mOrjHcFjABebCRhdcDWE9BHjx5dC/Czzz7bUgKwdKJfX18fr/2wCdv+vjAQmAV4n4CtYLHiPFjOjw0zGxjBWpNvBrPgBqrONVJjQRZ17M2jU13tGyZgs8IGCFMTb39bfQSw1GL6S98bnldrCRgdZrYGh5XAWp1rBLPgBqrKMVK93UoH3bk01Lk9CdhIm6kB2yEpAedGh5mtzmYhsFblMLPgBqrMzqA6m5naXNk0dOTgWgIwAqHQp59+yvAoYEhAqPx8m4AzzFabbyKwVmZngFlww7KmU22eiVoLsujk4TZ+xhAgKnGg8DxjWuPzEwCwGkhCH+zffT4fb2aC9Yew9KGvVMHXuw++YGt6eppt+/uSVhvsDrGsBuuPPmA5N3KG2Q7kmQisldZ0MAtuoHJrGu3PzaRmh4VOHGplBwgO1TtQW3kXOH78OBcqbIX9bWDUYR8VGi9XwXycPHlyS6tAsFilpJ0dPsVsYARruTUNzIIbqMycSjXZ6dRkM9Gx9mausAgOgQcKRgcHB/mFZWxsjCu0JKwOCLy/v/+JADHl/W1g1GEfo4hiF+jDvz9WAtiEbX9fqP5438B7wxtvvBE0ViQZLBOnh5gNjGAtM6eCWXADlZoMVJ2VTo35Rk4ARgDB4ZPY8wojK70cBbuG8xAqfuB17EEgJOe7xIAkg2X81Elmq85KI7CWmgxgFtxAHmMK7bPuofrcDBpoa1xbc/EMhkJIgLSeY8cYKj9IMFjGho4zW5UllcDqMaaAWXADlWQm88W6nHTqb23gKYXgUFxCIYy6VMyuX78eMj+wD5bRk8eZrdJsILCWZCaDWXADFWckUqU5hWqz99DRljred+PZQbUOFAoYKjN2hJim/v9rI1VljGqwvpIAjamJ0cGKstG9SJa06vj7gm+sDrCFmIL1BQNYRk4MMluFKYXAWpyRCGbBDVSUlkAVxmQ6YE2l3qZa3uYicyhWgcL5zVRmFDJsiQEZaANAOA9bSGTgdUxdFFhpS/wsoSAGixU+wHLmWD+zlRuTCaxFaQlgFtysisozk2i/xUA9Dfu5yuLNDkUoUDgvvehIqwGWOwh/B3uJwbd/fxuAxshAGMVAH/7vEf6f1iQ/WBVQ/bFC4BqStV6sYDnV38dsYAyagMJUPZWmJ1C1KZk6a/dxRvHKiakeKEw5jGCwa9J1APLn6NWXFZzzvwfQuAbhsQm0gVGDUMVnZmae6u8vxLLedTDA/4m+HmYDI1gLU/VgFtxAbkMcedITaJ8xiQ4fqOQ1F6+k0ve+7RaeX2k9x3Y1VH7AAJZjPZ3M5kmLJ7C6DXFgFtxArhQdlaTpqSozgTqqy3iDgY7Y1oZCmB3Sf43heQ+VHzCApf/IIWYr2RNHYHWl6MAsuGElx1JJahxVpsdTW6WHnzN8kZU+W223sDzhOz+E1SBUfsAAlu72NmYrNsQRWF3JsWAW3EDOpBgqNuioIk1PLeVFXIRQZKTd2nYL1R8jA0mf0UIhwIPlSGsTsxUZdARWZ1IMmAU3kCNRQ3tTYqhsj44aPW7q7u7mCitV6u0Wnn2pouNFJlR+AA+WjsZ6ZitMiSGwOhI1YBbcQPYEDRUmaanUEEsHCh3U3t5Ohw8f5uBCIemTGYRPXqHyc+TIEWZp2l/NbO4kLYHVnsDMghtWvIrciRrypGipuiCPGhoaqLm5eW2abrdOnDhBXV1dLDxqofIDBrAcqChlNneimsBqj1eBWXAD2fTR5EpQU0myhsrzrVRdXc3CpgY7uvWE65hinZ2d/AugZ/WR+mFkIPTbzP1SwiRfOIcZtF4fPMISR1XJXmZzJagIrDZ9NJgFN1C+TknOeBUVJ6qp2JpJxcXFrMrKSjp48CAHimzW1tbSvn37yOPxrN0TTCUlJVRRUUH79++nlpYWfpz81dHRQY2NjdTU1MT2A6/DF/rCBmxt5AuxICbEhn6IFTYR+9p9DhuzOfXRBNZ8nRLMghsoT6egAr2SihKiyZ2WSDabbVvlcDiorKyM6uvrGRzTsqamhiHr6ur4HH5LS0v53u3277RkMltBnJLAmqdTgFlwA+XGRpEjTkGF8UpyxyspO2MPmUymFRmNZM1Io5w9yZRv0JMjWUcFSVpyJarJjYQlqHhquZI0VJCso/zUBMpON5DZZPzWxqosFgu5XC4eHSQEwig7nU4ym81P3Q/f2WkGyjPEkyNFR87ElWkMn+wbo5qkJUdyLNlS4ihvTzJlZewhs/Fb3xZjJscGNnucgsCaGxsFZsENlKOVP7bHRpI7LmpNq88KuVb/xq9TF0UFuihyxEauaeXcyq9/f1ecgrL1GkpJ0FNCQsITysjIILvdzqONfwdeN8THUY5eTU5/e+wjkn1JMXz7u+LfPwY7prte9YQNW2wkgTVHKwez4IYVI1vK1cpXHMTK2agtRk55WjnhfLZm88L9eTEr/Qs4QZGUrokipUJBCoWCYqIVlKZVklmnIrNOTQa1glTKlWv4NWkiyckxyAmDAls5zxODVs4xrAzUChuzaOX3s7VyAXEDWVVyjVUt+zpLLaNV/V+WWr6YpY44n6WWN2RpZDaTQq4xqyJfTtdG/iJDJvuZXq//oV4uf8kYq/h5umL3fxjV8kiLJiLXopa1WdWyS1aV7CvYylbLKE8jI6tKRqnKCHLGyJ+SXSuj5KhwytWs3Is+6GtVRfw3bJlVslZLdESuWRMpZ1+xip8nK5U/QQyIBTEZo+X/iRgRq1Ud2bga+/0VllV7atnXzKpiZsGNpKSwsH8xRYfFGaMjwpKVr/5ECPEP4jscu3btesGqlv0uSx3RbFVFfG5VhVOuOpwKtBFBhWu4Z+VeWZNJGfZb2Ni1a5d4XoFBL3/lpUxNeDjYUmWyf06VyYQk4f9HKKXX6//REh3WYIkOo1xVGNk14U8oTx1OFlU4mZXhHbhXr9eL70Pi+3IE5UdFvWhU/P6cWfmHb8zKPxBkWf1d1ZxR/spLRvkr4vuS+D6dSUqNCf+1URmWY1TsrslU7K5LV/zemRm5+1UhxA++yyO3c+wcO8fOsXPsHGJLx/8DHXFv0E5cyXsAAAAASUVORK5CYII=" height="16" width="16" alt="" />
-                                            Documentation, Tests and Build&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Add jdk21 to build matrix by &lt;a
-href="https://github.com/philsttr"&gt;&lt;code&gt;@​philsttr&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/pull/1027"&gt;logfellow/logstash-logback-encoder#1027&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update readme for 8.0 by &lt;a
-href="https://github.com/philsttr"&gt;&lt;code&gt;@​philsttr&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/pull/1029"&gt;logfellow/logstash-logback-encoder#1029&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            Dependency Upgrades&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Support for logback-access 2.0.0 by &lt;a
-href="https://github.com/sondemar"&gt;&lt;code&gt;@​sondemar&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/pull/1015"&gt;logfellow/logstash-logback-encoder#1015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Upgrade dependencies and maven plugins by &lt;a
-href="https://github.com/philsttr"&gt;&lt;code&gt;@​philsttr&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/pull/1028"&gt;logfellow/logstash-logback-encoder#1028&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rooday-doordash"&gt;&lt;code&gt;@​rooday-doordash&lt;/code&gt;&lt;/a&gt;
-made their first contribution in &lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/pull/1024"&gt;logfellow/logstash-logback-encoder#1024&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/sondemar"&gt;&lt;code&gt;@​sondemar&lt;/code&gt;&lt;/a&gt;
-made their first contribution in &lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/pull/1015"&gt;logfellow/logstash-logback-encoder#1015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/EvaristeGalois11"&gt;&lt;code&gt;@​EvaristeGalois11&lt;/code&gt;&lt;/a&gt;
-made their first contribution in &lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/pull/988"&gt;logfellow/logstash-logback-encoder#988&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/compare/logstash-logback-encoder-7.4...logstash-logback-encoder-8.0"&gt;https://github.com/logfellow/logstash-logback-encoder/compare/logstash-logback-encoder-7.4...logstash-logback-encoder-8.0&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
+Bumps [chromedriver](https://github.com/giggio/node-chromedriver) from
+126.0.5 to 127.0.0.
 &lt;details&gt;
 &lt;summary&gt;Commits&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/commit/f2fc346f618c226213ea42d883a7dd9d9a3a2f63"&gt;&lt;code&gt;f2fc346&lt;/code&gt;&lt;/a&gt;
-[maven-release-plugin] prepare release logstash-logback-encoder-8.0&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/commit/a2e1063e18c4afb85bcd3d1cf0fb1ec9877575d3"&gt;&lt;code&gt;a2e1063&lt;/code&gt;&lt;/a&gt;
-[release]&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/commit/8d4c1f61c2d782f17fef324a4df79711072e9d0e"&gt;&lt;code&gt;8d4c1f6&lt;/code&gt;&lt;/a&gt;
-Update readme for 8.0 (&lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/issues/1029"&gt;#1029&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/commit/94ccc40345d5c2c7a573e8b39bb75689f9c931ae"&gt;&lt;code&gt;94ccc40&lt;/code&gt;&lt;/a&gt;
-Add composite MdcEntryWriter to filter MDC keys with regex (&lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/issues/974"&gt;#974&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/commit/05c40f7116827d7d96f4851d8e00e3cb7df953ab"&gt;&lt;code&gt;05c40f7&lt;/code&gt;&lt;/a&gt;
-Set AbstractThrowableClassNameJsonProvider.getThrowable as protected (&lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/issues/988"&gt;#988&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/commit/d39941da8fb11bf211756015621ae7a73f03e0cd"&gt;&lt;code&gt;d39941d&lt;/code&gt;&lt;/a&gt;
-Upgrade dependencies and maven plugins (&lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/issues/1028"&gt;#1028&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/commit/b4ab2e6598e4ea304b4edaf3852c84df9fa34411"&gt;&lt;code&gt;b4ab2e6&lt;/code&gt;&lt;/a&gt;
-Support for logback-access 2.0.0 (&lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/issues/1015"&gt;#1015&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/commit/78cf15cef5dd94868c6617dd64f35eff27912e2f"&gt;&lt;code&gt;78cf15c&lt;/code&gt;&lt;/a&gt;
-Release with JDK 21&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/commit/f74bbfc60d98e3ec9743dde7c5f2109426ba69bd"&gt;&lt;code&gt;f74bbfc&lt;/code&gt;&lt;/a&gt;
-Add jdk21 to build matrix (&lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/issues/1027"&gt;#1027&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/commit/2ca9688c21ea9f0a8e8c11ac9474ba410244f810"&gt;&lt;code&gt;2ca9688&lt;/code&gt;&lt;/a&gt;
-Fix typo in IllegalArgumentException message (&lt;a
-href="https://redirect.github.com/logfellow/logstash-logback-encoder/issues/1024"&gt;#1024&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/logfellow/logstash-logback-encoder/compare/logstash-logback-encoder-7.4...logstash-logback-encoder-8.0"&gt;compare
+href="https://github.com/giggio/node-chromedriver/commit/13b710d3042a358225839b5f78e60a6895af65fa"&gt;&lt;code&gt;13b710d&lt;/code&gt;&lt;/a&gt;
+Bump version to 127.0.0&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/giggio/node-chromedriver/compare/126.0.5...127.0.0"&gt;compare
 view&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
@@ -1688,7 +1516,7 @@ view&lt;/a&gt;&lt;/li&gt;
 
 
 [![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=net.logstash.logback:logstash-logback-encoder&amp;package-manager=gradle&amp;previous-version=7.4&amp;new-version=8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=chromedriver&amp;package-manager=npm_and_yarn&amp;previous-version=126.0.5&amp;new-version=127.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
 
 Dependabot will resolve any conflicts with this PR as long as you don't
 alter it yourself. You can also trigger a rebase manually by commenting
@@ -1732,7 +1560,55 @@ PR or upgrade to it yourself)
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-                                        </div>
+Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/web/eslint-plugin-promise-7.0.0</span>
+                                        in
+                                        <span class="repo">nedap/rapidash</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/web/sass-loader-16.0.0</span>
+                                        in
+                                        <span class="repo">nedap/rapidash</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/gradle/net.logstash.logback-logstash-logback-encoder-8.0</span>
+                                        in
+                                        <span class="repo">nedap/ysis</span>
                                     </div>
                                 </div>
                             </section>
@@ -2165,7 +2041,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.32m out of 212m repositories</span>
+                                    <span class="gh">ranked 5.32m out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2247,7 +2123,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2024, 23:11:27 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2024, 00:11:07 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
