@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2062" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2029" class="">
     <defs>
         <style/>
     </defs>
@@ -422,12 +422,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 49 commits)</small>
+                    <small class="h-details">(computed from last 50 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 70.5 characters per line of code written</li>
+                        <li>Has approximately 70.4 characters per line of code written</li>
                         <li>Mostly pushes code around 09:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -1498,6 +1498,193 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/admin/vue-3.4.35</span>
+                                        in
+                                        <span class="repo">nedap/ons-spraak-whismur</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">nedap/ons-spraak-whismur</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">development</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4ac6ca5</div>
+                                        <div class="message">build(deps): bump vue from 3.4.34 to 3.4.35 in /admin (#404)
+
+Bumps [vue](https://github.com/vuejs/core) from 3.4.34 to 3.4.35.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/vuejs/core/releases"&gt;vue's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v3.4.35&lt;/h2&gt;
+&lt;p&gt;For stable releases, please refer to &lt;a
+href="https://github.com/vuejs/core/blob/main/CHANGELOG.md"&gt;CHANGELOG.md&lt;/a&gt;
+for details.
+For pre-releases, please refer to &lt;a
+href="https://github.com/vuejs/core/blob/minor/CHANGELOG.md"&gt;CHANGELOG.md&lt;/a&gt;
+of the &lt;code&gt;minor&lt;/code&gt; branch.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/vuejs/core/blob/main/CHANGELOG.md"&gt;vue's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;&lt;a
+href="https://github.com/vuejs/core/compare/v3.4.34...v3.4.35"&gt;3.4.35&lt;/a&gt;
+(2024-07-31)&lt;/h2&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;teleport/ssr:&lt;/strong&gt; fix Teleport hydration regression due
+to targetStart anchor addition (&lt;a
+href="https://github.com/vuejs/core/commit/7b18cdb0b53a94007ca6a3675bf41b5d3153fec6"&gt;7b18cdb&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;teleport/ssr:&lt;/strong&gt; ensure targetAnchor and targetStart
+not null during hydration (&lt;a
+href="https://redirect.github.com/vuejs/core/issues/11456"&gt;#11456&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vuejs/core/commit/12667da4879f980dcf2c50e36f3642d085a87d71"&gt;12667da&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vuejs/core/issues/11400"&gt;#11400&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;types/ref:&lt;/strong&gt; allow getter and setter types to be
+unrelated (&lt;a
+href="https://redirect.github.com/vuejs/core/issues/11442"&gt;#11442&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vuejs/core/commit/e0b2975ef65ae6a0be0aa0a0df43fb887c665251"&gt;e0b2975&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Performance Improvements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;runtime-core:&lt;/strong&gt; improve efficiency of
+normalizePropsOptions (&lt;a
+href="https://redirect.github.com/vuejs/core/issues/11409"&gt;#11409&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vuejs/core/commit/5680142e68096c42e66da9f4c6220d040d7c56ba"&gt;5680142&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vuejs/core/issues/9739"&gt;#9739&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/core/commit/0b8ba6320eaf8b08e83d7c1e1309254dd0b021da"&gt;&lt;code&gt;0b8ba63&lt;/code&gt;&lt;/a&gt;
+release: v3.4.35&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/core/commit/7b18cdb0b53a94007ca6a3675bf41b5d3153fec6"&gt;&lt;code&gt;7b18cdb&lt;/code&gt;&lt;/a&gt;
+fix(teleport/ssr): fix Teleport hydration regression due to targetStart
+ancho...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/core/commit/12667da4879f980dcf2c50e36f3642d085a87d71"&gt;&lt;code&gt;12667da&lt;/code&gt;&lt;/a&gt;
+fix(Teleport): ensure targetAnchor and targetStart not null during
+hydration ...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/core/commit/af60e3560c84e44136f950fc3d0e39b576098c6c"&gt;&lt;code&gt;af60e35&lt;/code&gt;&lt;/a&gt;
+test: make transition tests more stable locally&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/core/commit/5680142e68096c42e66da9f4c6220d040d7c56ba"&gt;&lt;code&gt;5680142&lt;/code&gt;&lt;/a&gt;
+perf(runtime-core): improve efficiency of normalizePropsOptions (&lt;a
+href="https://redirect.github.com/vuejs/core/issues/11409"&gt;#11409&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/core/commit/87923f6af12f8ede677a3830c269d9486d9d95de"&gt;&lt;code&gt;87923f6&lt;/code&gt;&lt;/a&gt;
+chore(types): reuse built-in Iterator type (&lt;a
+href="https://redirect.github.com/vuejs/core/issues/11435"&gt;#11435&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/core/commit/208f5c04e7fb066ac23e2dc2c5c0b7043fcb4464"&gt;&lt;code&gt;208f5c0&lt;/code&gt;&lt;/a&gt;
+chore(deps): update dependency conventional-changelog-cli to v5 (&lt;a
+href="https://redirect.github.com/vuejs/core/issues/11449"&gt;#11449&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/core/commit/5bca503d1ee9842819bf8033492849976e4d2c1c"&gt;&lt;code&gt;5bca503&lt;/code&gt;&lt;/a&gt;
+chore(deps): update dependency eslint-plugin-import-x to v3 (&lt;a
+href="https://redirect.github.com/vuejs/core/issues/11450"&gt;#11450&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/core/commit/e0b2975ef65ae6a0be0aa0a0df43fb887c665251"&gt;&lt;code&gt;e0b2975&lt;/code&gt;&lt;/a&gt;
+fix(types/ref): allow getter and setter types to be unrelated (&lt;a
+href="https://redirect.github.com/vuejs/core/issues/11442"&gt;#11442&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vuejs/core/commit/8e052eecf3258a12af6ef6f54d2b94714f44782d"&gt;&lt;code&gt;8e052ee&lt;/code&gt;&lt;/a&gt;
+chore(sfc-playgroud): highlight the commit and latest version when
+active in ...&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/vuejs/core/compare/v3.4.34...v3.4.35"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=vue&amp;package-manager=npm_and_yarn&amp;previous-version=3.4.34&amp;new-version=3.4.35)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1653,46 +1840,6 @@ PR or upgrade to it yourself)
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
 Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">nedap/ons-spraak-whismur</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/admin/vue-router-4.4.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#af92673</div>
-                                        <div class="message">Merge branch 'development' into dependabot/npm_and_yarn/admin/vue-router-4.4.2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">nedap/ons-spraak-whismur</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/admin/types/node-22.0.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#64d70a8</div>
-                                        <div class="message">Merge branch 'development' into dependabot/npm_and_yarn/admin/types/node-22.0.2</div>
                                     </div>
                                 </div>
                             </section>
@@ -2125,7 +2272,7 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.33m out of 201m repositories</span>
+                                    <span class="gh">ranked 5.33m out of 197m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2207,7 +2354,7 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2024, 20:14:26 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Aug 2024, 21:08:43 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
