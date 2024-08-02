@@ -427,7 +427,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 70.4 characters per line of code written</li>
+                        <li>Has approximately 70.5 characters per line of code written</li>
                         <li>Mostly pushes code around 09:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -2001,7 +2001,7 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.32m out of 141m users</span>
+                                    <span class="gh">ranked 8.32m out of 137m users</span>
                                 </div>
                                 <div class="text">Published 8 public repositories</div>
                             </div>
@@ -2157,7 +2157,7 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.06m out of 141m users</span>
+                                    <span class="gh">ranked 2.06m out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 7 users</div>
                             </div>
@@ -2240,7 +2240,7 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.33m out of 208m repositories</span>
+                                    <span class="gh">ranked 5.33m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2322,7 +2322,7 @@ Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2024, 17:11:29 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Aug 2024, 18:13:41 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
