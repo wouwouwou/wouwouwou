@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2042" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2009" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -422,7 +422,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 57 commits)</small>
+                    <small class="h-details">(computed from last 60 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1480,15 +1480,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">nedap/ons-spraak-whismur</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">nedap/rapidash</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/admin/types/node-22.1.0</span></div>
+                                    <div>on branch <span class="code">wouter-patch2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#be9928b</div>
-                                        <div class="message">Merge branch 'refs/heads/development' into dependabot/npm_and_yarn/admin/types/node-22.1.0</div>
+                                        <div class="sha">#34186f8</div>
+                                        <div class="message">Add Nedap Healthcare as stakeholder</div>
                                     </div>
                                 </div>
                             </section>
@@ -1500,15 +1500,28 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">nedap/ons-spraak-whismur</span>
+                                        Pushed 14 commits in
+                                        <span class="repo">nedap/rapidash</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/npm_and_yarn/admin/typescript-5.5.4</span></div>
+                                    <div>on branch <span class="code">wouter-patch2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#75998f5</div>
-                                        <div class="message">Merge branch 'refs/heads/development' into dependabot/npm_and_yarn/admin/typescript-5.5.4</div>
+                                        <div class="sha">#8cf49bb</div>
+                                        <div class="message">Merge branch 'refs/heads/master' into wouter-patch2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">nedap/ons-podium</span>
                                     </div>
                                 </div>
                             </section>
@@ -1522,7 +1535,7 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">wouter-patch1</span>
+                                        <span class="code">dependabot/github_actions/gradle/actions-4</span>
                                         in
                                         <span class="repo">nedap/ons-spraak-whismur</span>
                                     </div>
@@ -1543,43 +1556,207 @@
                                 <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2d631e6</div>
-                                        <div class="message">ci: Use docker compose instead of docker-compose in docker test pipeline (#412)
+                                        <div class="sha">#56b0cc6</div>
+                                        <div class="message">build(deps): bump gradle/actions from 3 to 4 (#411)
 
-## Description
+Bumps [gradle/actions](https://github.com/gradle/actions) from 3 to 4.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/gradle/actions/releases"&gt;gradle/actions's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v4.0.0-rc.1&lt;/h2&gt;
+&lt;p&gt;First release candidate for &lt;code&gt;v4&lt;/code&gt; of the
+&lt;code&gt;setup-gradle&lt;/code&gt;, &lt;code&gt;dependency-submission&lt;/code&gt; and
+&lt;code&gt;wrapper-validation&lt;/code&gt; actions provided under
+&lt;code&gt;gradle/actions&lt;/code&gt;.
+This is the first release available under the &lt;code&gt;v4&lt;/code&gt; tag.&lt;/p&gt;
+&lt;h2&gt;Major changes from the &lt;code&gt;v3&lt;/code&gt; release&lt;/h2&gt;
+&lt;h3&gt;Cache cleanup enabled by default&lt;/h3&gt;
+&lt;p&gt;After a number of fixes and improvements, this release enables &lt;a
+href="https://github.com/gradle/actions/blob/v4.0.0-rc.1/docs/setup-gradle.md#configuring-cache-cleanup"&gt;cache-cleanup&lt;/a&gt;
+by default for all Jobs using the &lt;code&gt;setup-gradle&lt;/code&gt; and
+&lt;code&gt;dependency-submission&lt;/code&gt; actions.&lt;/p&gt;
+&lt;p&gt;Improvements and bugfixes related cache cleanup:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;By default, cache cleanup is not run if any Gradle build fails (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/71"&gt;#71&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Cache cleanup is not run after configuration-cache reuse (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/19"&gt;#19&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This feature should help to minimize the size of entries written to
+the GitHub Actions cache, speeding up builds and reducing cache
+usage.&lt;/p&gt;
+&lt;h3&gt;Wrapper validation enabled by default&lt;/h3&gt;
+&lt;p&gt;In &lt;code&gt;v3&lt;/code&gt;, the &lt;code&gt;setup-gradle&lt;/code&gt; action was enhanced
+to support Gradle wrapper validation, removing the need to use a
+separate workflow
+file with the &lt;code&gt;gradle/actions/wrapper-validation&lt;/code&gt; action.&lt;/p&gt;
+&lt;p&gt;With this release, wrapper validation has been significantly
+improved, and is now enabled by default (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/12"&gt;#12&lt;/a&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;allow-snapshot-wrappers&lt;/code&gt; makes it possible to
+validate snapshot wrapper jars using &lt;code&gt;setup-gradle&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Checksums for &lt;a
+href="https://services.gradle.org/distributions-snapshots/"&gt;nightly and
+snapshot Gradle versions&lt;/a&gt; are now validated (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/281"&gt;#281&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Valid wrapper checksums are cached in Gradle User Home, reducing the
+need to retrieve checksum values remotely (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/172"&gt;#172&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Reduce network calls in &lt;code&gt;wrapper-validation&lt;/code&gt; for new
+Gradle versions: By only fetching wrapper checksums for Gradle versions
+that were not known when this action was released, this release reduces
+the likelihood that a network failure could cause failure in wrapper
+validation (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/171"&gt;#171&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Improved error message when &lt;code&gt;wrapper-validation&lt;/code&gt; finds no
+wrapper jars (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/284"&gt;#284&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wrapper validation is important for supply-chain integrity. Enabling
+this feature by default will increase the coverage of wrapper
+validation on projects using GitHub Actions.&lt;/p&gt;
+&lt;h3&gt;New input parameters for Dependency Graph generation&lt;/h3&gt;
+&lt;p&gt;Some dependency-graph inputs that could previously only be configured
+via environment variables now have dedicated action inputs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;dependency-graph-report-dir&lt;/code&gt;: sets the location where
+dependency-graph reports will be generated&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;dependency-graph-exclude-projects&lt;/code&gt; and
+&lt;code&gt;dependency-graph-include-projects&lt;/code&gt;: &lt;a
+href="https://github.com/gradle/actions/blob/v4.0.0-rc.1/docs/dependency-submission.md#selecting-gradle-projects-that-will-contribute-to-the-dependency-graph"&gt;select
+which Gradle projects will contribute to the generated dependency
+graph&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;dependency-graph-exclude-configurations&lt;/code&gt; and
+&lt;code&gt;dependency-graph-include-configurations&lt;/code&gt;: &lt;a
+href="https://github.com/gradle/actions/blob/v4.0.0-rc.1/docs/dependency-submission.md#selecting-gradle-configurations-that-will-contribute-to-the-dependency-graph"&gt;select
+which Gradle configurations will contribute to the generated dependency
+graph&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other improvements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;In Job summary, the action now provides an explanation when cache is
+set to &lt;code&gt;read-only&lt;/code&gt; or &lt;code&gt;disabled&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/255"&gt;#255&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;When &lt;code&gt;setup-gradle&lt;/code&gt; requests a specific Gradle version,
+the action will no longer download and install that version if it is
+already available on the &lt;code&gt;PATH&lt;/code&gt; of the runner (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/270"&gt;#270&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;To attempt to speed up builds, the &lt;code&gt;setup-gradle&lt;/code&gt; and
+&lt;code&gt;dependency-submission&lt;/code&gt; actions now attempt to use the
+&lt;code&gt;D:&lt;/code&gt; drive for Gradle User Home if it is available (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/290"&gt;#290&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Deprecations and breaking changes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;gradle-home-cache-cleanup&lt;/code&gt; input parameter has been
+deprecated and replaced by &lt;code&gt;cache-cleanup&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The undocumented &lt;code&gt;dependency-graph: clear&lt;/code&gt; parameter has
+been removed without replacement&lt;/li&gt;
+&lt;li&gt;The following parameters deprecated in &lt;code&gt;v3&lt;/code&gt; have been
+removed:
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/gradle/actions/blob/v4.0.0-rc.1/docs/deprecation-upgrade-guide.md#using-the-action-to-execute-gradle-via-the-arguments-parameter-is-deprecated"&gt;arguments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/gradle/actions/commit/af1da67850ed9a4cedd57bfd976089dd991e2582"&gt;&lt;code&gt;af1da67&lt;/code&gt;&lt;/a&gt;
+Prevent concurrent jobs in integ-test-full&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/gradle/actions/commit/f8ba43cf0a1c6e996f549846c276d916fd1abed7"&gt;&lt;code&gt;f8ba43c&lt;/code&gt;&lt;/a&gt;
+Better names for suite workflows&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/gradle/actions/commit/bcd07e664348acd3e5608b76ae50fafdafb132a8"&gt;&lt;code&gt;bcd07e6&lt;/code&gt;&lt;/a&gt;
+Refactor integ-tests into suites&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/gradle/actions/commit/d74ee73e9fde0bd01790c57663226b6c0bd00b71"&gt;&lt;code&gt;d74ee73&lt;/code&gt;&lt;/a&gt;
+Refactor integ-tests&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/gradle/actions/commit/fb2e6938b6b7880b717c600941adc095478e1c0b"&gt;&lt;code&gt;fb2e693&lt;/code&gt;&lt;/a&gt;
+[bot] Update dist directory&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/gradle/actions/commit/07190022f89d9c990a8538df18bdc064521a3c2e"&gt;&lt;code&gt;0719002&lt;/code&gt;&lt;/a&gt;
+Improve error messages for min-wrapper-count (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/321"&gt;#321&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/gradle/actions/commit/ac3aebda9366152f36e8b32e05ecf218b697ccc2"&gt;&lt;code&gt;ac3aebd&lt;/code&gt;&lt;/a&gt;
+Improve error messages for min-wrapper-count&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/gradle/actions/commit/d473db0899e318d4c0009c675a9297d84d212848"&gt;&lt;code&gt;d473db0&lt;/code&gt;&lt;/a&gt;
+Add tests for wrapper-validation with insufficient wrappers&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/gradle/actions/commit/833b05f3e67d2b356ca3c711ce1e889efdb8d28b"&gt;&lt;code&gt;833b05f&lt;/code&gt;&lt;/a&gt;
+[bot] Update dist directory&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/gradle/actions/commit/06905c7a0f6f95237e50bd516e8558144c1dff83"&gt;&lt;code&gt;06905c7&lt;/code&gt;&lt;/a&gt;
+Enable wrapper-validation by default in setup-gradle (&lt;a
+href="https://redirect.github.com/gradle/actions/issues/318"&gt;#318&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/gradle/actions/compare/v3...v4"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
 
-Fixes the failing build on docker-image-test. Docker-compose has
-migrated to docker compose. See also
-https://docs.docker.com/compose/migrate/
 
-## Checklist
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=gradle/actions&amp;package-manager=github_actions&amp;previous-version=3&amp;new-version=4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
 
-- [x] I have notified #ons-api-aanspreekpunt or #ons-api-private of this
-PR
-- [x] I have made corresponding changes to the documentation (PlantUML /
-support_documentation)
-- [x] I have added tests that prove my fix is effective or that my
-feature works
-- [x] I have run  `./gradlew generateOpenApiDocs` in case of API changes
-- [x] I have set this PR from draft to reviewable</div>
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#412 ci: Use docker compose instead of docker-compose in docker test pipeline</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">nedap/ons-spraak-whismur</span></div>
-                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2011,7 +2188,7 @@ feature works
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.33m out of 203m repositories</span>
+                                    <span class="gh">ranked 5.33m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2093,7 +2270,7 @@ feature works
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2024, 10:14:48 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Aug 2024, 11:11:34 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
