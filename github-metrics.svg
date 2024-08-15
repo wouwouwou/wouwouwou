@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2079" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2162" class="">
     <defs>
         <style/>
     </defs>
@@ -427,7 +427,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 50.0 characters per line of code written</li>
+                        <li>Has approximately 49.6 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -1508,6 +1508,62 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refactor-ci-cd</span></div>
                                     <div class="commit">
+                                        <div class="sha">#644742d</div>
+                                        <div class="message">build-deploy needs test and linting first</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">nedap/ons-podium</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor-ci-cd</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f54dafb</div>
+                                        <div class="message">Ensure weekly semantic release runs with proper notes generation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8382519</div>
+                                        <div class="message">Add PR title linting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ef035b</div>
+                                        <div class="message">Small changes in outcommented file for when we eventually want to deploy to staging/production.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8523013</div>
+                                        <div class="message">Tracking the dependencies only has to happen when pushing on the main branch.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87f93ca</div>
+                                        <div class="message">Alter deployment.yaml to contain two separate containers for the backend and the frontend.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">nedap/ons-podium</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor-ci-cd</span></div>
+                                    <div class="commit">
                                         <div class="sha">#f27b53a</div>
                                         <div class="message">Alter working directory context to test the docker image ci</div>
                                     </div>
@@ -1551,43 +1607,6 @@
                                         <div class="sha">#1f30b6b</div>
                                         <div class="message">Alter working directory context to test the docker image</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">nedap/ons-podium</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor-ci-cd</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#86db045</div>
-                                        <div class="message">Add working directory context to test the docker image</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#282 Two GHA workflows/actions use gradle/actions/setup-gradle@v3 instead of v4</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">nedap/gha-workflows</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2019,7 +2038,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.34m out of 213m repositories</span>
+                                    <span class="gh">ranked 5.34m out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2101,7 +2120,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2024, 17:10:59 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Aug 2024, 18:13:59 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
