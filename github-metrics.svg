@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1925" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2177" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text,.gauge text.secondary{fill:currentColor;font-family:monospace;text-anchor:middle}.gauge text{font-size:40px;font-weight:600}.gauge text.secondary{font-size:25px}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.licenses{display:flex}.licenses .column{align-items:flex-start;font-size:12px;color:#666;flex-shrink:0}.field.license.details{display:flex;justify-content:space-between}.licenses .column:nth-child(1){margin-left:13px;width:25%}.licenses .column:nth-child(2){width:25%}.licenses .column:nth-child(3){width:50%}.licenses .column svg{height:12px;width:12px}.licenses .column .title{font-weight:600;margin-left:15px}.licenses .column .condition svg{fill:#58a6ff}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -422,7 +422,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 13 commits)</small>
+                    <small class="h-details">(computed from last 14 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1477,6 +1477,2138 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/keycloak/theme/nanoid-3.3.8</span>
+                                        in
+                                        <span class="repo">nedap/ons-api-idp</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 14 commits in
+                                        <span class="repo">nedap/rapidash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/add-refresh-after-technical-design-changes</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e1a55f9</div>
+                                        <div class="message">Adds a full refresh after technical design changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffcbff8</div>
+                                        <div class="message">build(deps): Bump nanoid from 3.3.7 to 3.3.8 in /web in the npm_and_yarn group (#4862)
+
+Bumps the npm_and_yarn group in /web with 1 update:
+[nanoid](https://github.com/ai/nanoid).
+
+Updates `nanoid` from 3.3.7 to 3.3.8
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/ai/nanoid/blob/main/CHANGELOG.md"&gt;nanoid's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;3.3.8&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a way to break Nano ID by passing non-integer size (by &lt;a
+href="https://github.com/myndzi"&gt;&lt;code&gt;@​myndzi&lt;/code&gt;&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/ai/nanoid/commit/3044cd5e73f4cf31795f61f6e6b961c8c0a5c744"&gt;&lt;code&gt;3044cd5&lt;/code&gt;&lt;/a&gt;
+Release 3.3.8 version&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/ai/nanoid/commit/4fe34959c34e5b3573889ed4f24fe91d1d3e7231"&gt;&lt;code&gt;4fe3495&lt;/code&gt;&lt;/a&gt;
+Update size limit&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/ai/nanoid/commit/d643045f40d6dc8afa000a644d857da1436ed08c"&gt;&lt;code&gt;d643045&lt;/code&gt;&lt;/a&gt;
+Fix pool pollution, infinite loop (&lt;a
+href="https://redirect.github.com/ai/nanoid/issues/510"&gt;#510&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/ai/nanoid/compare/3.3.7...3.3.8"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=nanoid&amp;package-manager=npm_and_yarn&amp;previous-version=3.3.7&amp;new-version=3.3.8)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+You can disable automated security fix PRs for this repo from the
+[Security Alerts
+page](https://github.com/nedap/rapidash/network/alerts).
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85fb6b3</div>
+                                        <div class="message">
+                                            build(deps): Bump com.datadoghq:dd-java-agent from 1.43.0 to 1.44.1 (#4866)
+
+Bumps
+[com.datadoghq:dd-java-agent](https://github.com/datadog/dd-trace-java)
+from 1.43.0 to 1.44.1.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/datadog/dd-trace-java/releases"&gt;com.datadoghq:dd-java-agent's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;1.44.1&lt;/h2&gt;
+&lt;h1&gt;Components&lt;/h1&gt;
+&lt;h2&gt;Continuous Integration Visibility&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Fix tracing JUnit5 tests in Maven projects with multiple forks
+(&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8089"&gt;#8089&lt;/a&gt;
+- &lt;a
+href="https://github.com/nikita-tkachenko-datadog"&gt;&lt;code&gt;@​nikita-tkachenko-datadog&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;1.44.0&lt;/h2&gt;
+&lt;h1&gt;Known Issues&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!WARNING]&lt;br /&gt;
+This release contains a known issue that causes failures when using Test
+Optimization to trace JUnit 5 tests in a Maven project where Maven
+Surefire is configured with &lt;code&gt;forkCount&lt;/code&gt; &amp;gt; 1.
+The issue is fixed in v1.44.1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;Breaking Changes&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!WARNING]&lt;br /&gt;
+Support for &lt;code&gt;X-Forwarded&lt;/code&gt; header is dropped from default
+client IP resolution.
+It can still be re-activated using the
+&lt;code&gt;dd.trace.client-ip-header=x-forwarded&lt;/code&gt; system property, or
+the &lt;code&gt;DD_TRACE_CLIENT_IP_HEADER=x-forwarded&lt;/code&gt; environment
+variable. See &lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/7946"&gt;#7946&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;Components&lt;/h1&gt;
+&lt;h2&gt;Application Security Management (IAST)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Set unexpected IAST exceptions to debug log level (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8044"&gt;#8044&lt;/a&gt;
+- &lt;a href="https://github.com/smola"&gt;&lt;code&gt;@​smola&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Increase IAST propagation to StringBuffer subSequence (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8038"&gt;#8038&lt;/a&gt;
+- &lt;a
+href="https://github.com/Mariovido"&gt;&lt;code&gt;@​Mariovido&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Increase IAST propagation to StringBuilder subSequence
+(&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8026"&gt;#8026&lt;/a&gt;
+- &lt;a
+href="https://github.com/Mariovido"&gt;&lt;code&gt;@​Mariovido&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAImklEQVR4nO1afWwbZxl/26Ztkrs33cbadWMwqQINqCgTXXKXFqZKSFRoEhLSRIU2YCBAkyZWhhASFMr6B9omn9MPVrauH9KGYGggkCY00djOrV3V+s5nJ/442/e+92EnqbMmzdKPpE2bpi96znWaBreLXbu5KP1Jzz8n33N+vj/eF6G7uIu6oj+DP6XraBlaqHAi/CZL476MFiocjX/OifJb6sU/HvdxyMuwIrjD0vjt9eJv69JTyMuwIvg9M4rfrhd/mpAOIi+DqjhFVXy8XvxJwmfL8ksNyKswwvg8UXGhHrwp3bOcJHyTfdYbn0dehKk2fcYIY2aE8dVBfSVfa/520rfOiPuYre/6NvIibI375jUFMCvW/Hit+Ttp/xZQgJmWfo28CEvjtpYUYEa4H9Sav5mQXgUFWLr/L8iLsDR+L1FKCuD/WGv+JCnFQQE06Rtg7KXFyGugEb7TiXHM0nhGI/w/a8nbyUibQfh+uou5eSDj/ynyGqiCBwqpRtafaGJUwUat+A4P72mB8men/Wzy/AGWNzoYSfqGaPzVh5FXYKcbHwHXHzGXsWGynJEwvuJ033PP7fIdoHtW0pSkkISPXTi9j7Gxg+zSyJsQBowkfFk7/dojyAuwVH4HKODSycXsYt8SNw/YGv/zavkNDR3Eju5/AeKdJiV27tTrrvAlGjv9RlEJcd+InfZvKxjS/WiuIMuogSjY6u1pZmwQuZSLcYwofE8lQ46V9D1pZzqkaxYfh1gHdx//+M0bhC/R5TP7p3KCEfdN0IQvZqWk12BecLp33rb3zRpWlHsRLH7eaZhSwFl7aUXlsDf7p4fMTMcPLb3jEE1IhhH3TZaSHrh8OQVMnN3PCtbukgIYSUiOmfK94+gdz+XJn9egOxb7Ch6ebv0S5bs5RiL4pBnnV1XK1+jp+LSl+/8ALg6uDi4/XXjwCkv3QwiMWSm/v8/c+zl0p+HIqJGqfIyqvBv7MxUw3r+EURUzGsFHIEyq+Yalv/JZmvAlIQ9cHN43ZXkzJYHVc1bmlblZvgzqK3lTxUdnuv5MmgoFlQ/1HUdN1XzLjPtWkbjU72Q62NXRA6yP7IIKcGZOrA5wurnHqIp16PrO2UtvKnyJRsyiEmgEa3YEP4qqQC69+zsQ56WYt9LSVnSnYYe5ByyN30VUPA7d3lj+5pafSefsBmiPGVFbRqnKvZxPrLi30u+ThC/jJrukb0jTfrYU3Qk4KrfajHLP0gj/b6K0jIElodu7MrBo1sKXaKKwiJ1MNrneAHsDGuHftVXumYKBZ1XDIdm502DK905dhJVl1GCGV6w3wvzzJMz/jSjYhNn+2nDDTqUbyya7Smm8fzEb0BtdnqXpkap8n6ny/7Kjzdv6443foBQt/z8F6NLTxX2A9NuaCp7v4deaEfwWuGfpD5UIhhtIZLcrdDm6eqqYH+zodUVMo3NU4ff3RVumEl0us7Pdjf+U9D1UD1javSuo0rI5G+Z/b4Tx+1DfS3/IjnJsMLOcTRRu3wMuFxazwUzjDYJTBZ+3NP6YrXFSvqfpu2f7Wu6b+f9y6Z0PggJymd0b0J1Cvodfa8W4X1KF7zLC+DJkfgiFyY8qzwGQN8D1gQckUqry/zU1/oXZVgbG2CJokaFrRHOBfGLFGiuKD8GkB9a70Ltk1sJDxYDKQRR8yYzwr9NwU1WjLElKFBSB5hJ2jH+CKNgGS96qCbpeApe6VqcRnKZa81dn843hsNBS7rmpS39HXjkEpSofA8Fu1Q9A/XeriIZPDNP7ygpVDtaR9h+XfZ6SXkRewVD2fgxWhXJWLjlCuXNnARVHYG6ohDcNCW87cuvqmc/NjLQeeQl2BD9qhPHZ/kS5abAZXH8Izgsq5UtCouIcbds887knT4UsFf8G3Hw013BD3BfLJ65qeZnpFD82Q8Kv0HyArqNlROF7++I3boRgYGIMVZyxe49tfCjTKTAaEg+h+QJL5V4Gi0OTA3uA4gjMVWVB8/Dj3wIFkIBQt0PWmgNa1tJW+LSxDGJ/EipFNbxoUNgOCsh2CiNoPoEoeBA6PZj4qIpJ1XwCYhAUAGTJbTU/Y6wbqMKHIPahS4TxuRoe+Q+/tibTKU4MnBCYERCZ1TWP8gBVuINQ96E5siLYXw0PMyj8BwS/nG5lH50QWDYgXnbkDY+h+QBL47dPTY9VHIrYsrgN3P50pI1NZltdJZhdIijBtIPCA8jrsCPc96fuB2jNT872PW3f+qU0JHZkO4Wr/ccEV/gSjSXa3FAwAiK1u9q+gryMXDfeMLVI0fAXPun38cPrOBISnzUCYgYsDy5/JXNd+OlKoCGoCuI4CQr7ckfELyIvwozzq0B4KIHlbovmjq5/0AyKW8yQsAtqfDYgXgDBbVlgZ2NFt78ZXdJbGSTGbEB0q4MRFBwSFP4B3aJ9tL1Nljd5o0UmsPVV8MDM5zQgiGC9bFCMgiVLZY4ERTYSbStr+Zk0nmpjvR8W3ytRNiCepCHxPRIUtg4d24jnRuppgPoP0x+6BfR31y6zQxueoEFhhxEQEsV6L7CLyZsLfyrcVrL+KA2Jf6Wy8Ix5uLXiIavugNUZbHcreicoPGUE2gtGQGDne24MhYl0q2t1SJBmUHirIG+au2Pw2QC2y3B4gioEzP4kKKRACeDqJQUUjgsse1iYpMH259F8gKXxO6wo94tq3qXvCw9nO8VB54NiKTwTa3XjnAbFml+4qhvgFMmO4aovMpKQ8CMQ+lx3GwNFGEEhyxjy3o2wWy1M8zH+S+g2kOkUclD3XevL4k/QfIKjcqsr3f/NhNUl7C2WOXFiUN5U8yu3ngd0h8VmR6zZVbt5hXzX1zcWmyShEy1EOHLratcDOsUDaKHCCIijpiz+Di1UkKBIqCw+jRYqSECQcx9saEcLFTQwD/r+eoIEWufHqVC9YAeFdWghg1VxpHYX6JPxP+sTXMiRJor4AAAAAElFTkSuQmCC" height="16" width="16" alt="" />
+                                            Add IAST propagation to String valueOf (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8013"&gt;#8013&lt;/a&gt;
+- &lt;a
+href="https://github.com/Mariovido"&gt;&lt;code&gt;@​Mariovido&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Increase IAST propagation to StringBuilder append (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8010"&gt;#8010&lt;/a&gt;
+- &lt;a
+href="https://github.com/Mariovido"&gt;&lt;code&gt;@​Mariovido&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Expand SSRF support in IAST to apache-httpclient-5 and
+apache-httpasyncclient-4 (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/7920"&gt;#7920&lt;/a&gt;
+- &lt;a
+href="https://github.com/Mariovido"&gt;&lt;code&gt;@​Mariovido&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Build &amp;amp; Tooling&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Generate Muzzle classes for Groovy instrumentations (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8004"&gt;#8004&lt;/a&gt;
+- &lt;a
+href="https://github.com/nikita-tkachenko-datadog"&gt;&lt;code&gt;@​nikita-tkachenko-datadog&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Continuous Integration Visibility&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Support distributed traces in tests (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8078"&gt;#8078&lt;/a&gt;
+- &lt;a
+href="https://github.com/nikita-tkachenko-datadog"&gt;&lt;code&gt;@​nikita-tkachenko-datadog&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Implement fail-fast tests ordering for JUnit 5 (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8055"&gt;#8055&lt;/a&gt;
+- &lt;a
+href="https://github.com/nikita-tkachenko-datadog"&gt;&lt;code&gt;@​nikita-tkachenko-datadog&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Mark JUnit 5 setup and teardown action spans as failed if
+there is an error (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8033"&gt;#8033&lt;/a&gt;
+- &lt;a
+href="https://github.com/nikita-tkachenko-datadog"&gt;&lt;code&gt;@​nikita-tkachenko-datadog&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Add tracing of setup and teardown actions in JUnit 4 (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8030"&gt;#8030&lt;/a&gt;
+- &lt;a
+href="https://github.com/daniel-mohedano"&gt;&lt;code&gt;@​daniel-mohedano&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Crash tracking&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Improve crash tracking install logging (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8045"&gt;#8045&lt;/a&gt;
+- &lt;a
+href="https://github.com/PerfectSlayer"&gt;&lt;code&gt;@​PerfectSlayer&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Data Streams Monitoring&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Add Data Streams support in AWS SQS without raw message
+delivery (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8071"&gt;#8071&lt;/a&gt;
+- &lt;a
+href="https://github.com/piochelepiotr"&gt;&lt;code&gt;@​piochelepiotr&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DataDog/dd-trace-java/commit/13a9a2d0119e096fcbaa68ee07433f6c59490b6e"&gt;&lt;code&gt;13a9a2d&lt;/code&gt;&lt;/a&gt;
+Fix tracing JUnit5 tests in Maven projects with multiple forks (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8089"&gt;#8089&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DataDog/dd-trace-java/commit/4573a38b9ede2b369dfd0598d049be2e498702e7"&gt;&lt;code&gt;4573a38&lt;/code&gt;&lt;/a&gt;
+feat(ci): Update PR checks (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8056"&gt;#8056&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DataDog/dd-trace-java/commit/11a429ce2e876971c22bb8d7fa066a4705aebfc6"&gt;&lt;code&gt;11a429c&lt;/code&gt;&lt;/a&gt;
+Add trace injection for prepared statements in Postgres (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/7940"&gt;#7940&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DataDog/dd-trace-java/commit/5dd63de320cc6b7c266193831d48d4307fbbc790"&gt;&lt;code&gt;5dd63de&lt;/code&gt;&lt;/a&gt;
+Service naming: split by jee deployment (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8064"&gt;#8064&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DataDog/dd-trace-java/commit/9918d219cfe02467db976b169292da56679c44b4"&gt;&lt;code&gt;9918d21&lt;/code&gt;&lt;/a&gt;
+Increase IAST propagation to StringBuffer subSequence (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8038"&gt;#8038&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DataDog/dd-trace-java/commit/3d8130d928cf1a2b37a442be0bd58ee7d46730fa"&gt;&lt;code&gt;3d8130d&lt;/code&gt;&lt;/a&gt;
+Support distributed traces in tests (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8078"&gt;#8078&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DataDog/dd-trace-java/commit/bdbc1451dc9b1b5f39499b84272a0c24128a8589"&gt;&lt;code&gt;bdbc145&lt;/code&gt;&lt;/a&gt;
+Increase IAST propagation to StringBuilder append (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8010"&gt;#8010&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DataDog/dd-trace-java/commit/aa7092b92b934dd6cde082623676778f4af35ba7"&gt;&lt;code&gt;aa7092b&lt;/code&gt;&lt;/a&gt;
+Instrument self hosted Kafka connectors (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/7959"&gt;#7959&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DataDog/dd-trace-java/commit/7afe313007507cb69d6a703e642cee0b0f714841"&gt;&lt;code&gt;7afe313&lt;/code&gt;&lt;/a&gt;
+revert back to putting the whole span for now (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8074"&gt;#8074&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DataDog/dd-trace-java/commit/063dd0b9a5068de00020c8055e9ef343bd035889"&gt;&lt;code&gt;063dd0b&lt;/code&gt;&lt;/a&gt;
+Data streams support in sqs without raw message delivery (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8071"&gt;#8071&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/datadog/dd-trace-java/compare/v1.43.0...v1.44.1"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.datadoghq:dd-java-agent&amp;package-manager=gradle&amp;previous-version=1.43.0&amp;new-version=1.44.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a2d3d5</div>
+                                        <div class="message">build(deps): Bump @nedap/unify-components from 16.16.0 to 16.17.2 in /web (#4873)
+
+Bumps
+[@nedap/unify-components](https://github.com/nedap/unify-components/tree/HEAD/packages/lit)
+from 16.16.0 to 16.17.2.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/nedap/unify-components/releases"&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components-eslint&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.2&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated dependencies [&lt;a
+href="https://github.com/nedap/unify-components/commit/71e807157990475e8daad5d956b65dad708082ba"&gt;&lt;code&gt;71e8071&lt;/code&gt;&lt;/a&gt;]:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components-react&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.2&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated dependencies [&lt;a
+href="https://github.com/nedap/unify-components/commit/71e807157990475e8daad5d956b65dad708082ba"&gt;&lt;code&gt;71e8071&lt;/code&gt;&lt;/a&gt;]:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components-vue-types&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.2&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated dependencies [&lt;a
+href="https://github.com/nedap/unify-components/commit/71e807157990475e8daad5d956b65dad708082ba"&gt;&lt;code&gt;71e8071&lt;/code&gt;&lt;/a&gt;]:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.2&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4118"&gt;#4118&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/71e807157990475e8daad5d956b65dad708082ba"&gt;&lt;code&gt;71e8071&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
+- Fix fonts for multiple components&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components-eslint&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.1&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated dependencies [&lt;a
+href="https://github.com/nedap/unify-components/commit/38054bea858341d937600f948e6c489460e0e30e"&gt;&lt;code&gt;38054be&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/b82363bfc9032da16b4fcfbb9469efc641a1a464"&gt;&lt;code&gt;b82363b&lt;/code&gt;&lt;/a&gt;]:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components-react&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.1&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated dependencies [&lt;a
+href="https://github.com/nedap/unify-components/commit/38054bea858341d937600f948e6c489460e0e30e"&gt;&lt;code&gt;38054be&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/b82363bfc9032da16b4fcfbb9469efc641a1a464"&gt;&lt;code&gt;b82363b&lt;/code&gt;&lt;/a&gt;]:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components-vue-types&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.1&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4105"&gt;#4105&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/38054bea858341d937600f948e6c489460e0e30e"&gt;&lt;code&gt;38054be&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
+- Make sure &lt;code&gt;selectedValue&lt;/code&gt; and &lt;code&gt;selectedValues&lt;/code&gt;
+types are available on &lt;code&gt;UcSelectListProps&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Updated dependencies [&lt;a
+href="https://github.com/nedap/unify-components/commit/38054bea858341d937600f948e6c489460e0e30e"&gt;&lt;code&gt;38054be&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/b82363bfc9032da16b4fcfbb9469efc641a1a464"&gt;&lt;code&gt;b82363b&lt;/code&gt;&lt;/a&gt;]:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.17.1&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4105"&gt;#4105&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/38054bea858341d937600f948e6c489460e0e30e"&gt;&lt;code&gt;38054be&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
+- Make sure &lt;code&gt;selectedValue&lt;/code&gt; and &lt;code&gt;selectedValues&lt;/code&gt;
+types are available on &lt;code&gt;UcSelectListProps&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4110"&gt;#4110&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/b82363bfc9032da16b4fcfbb9469efc641a1a464"&gt;&lt;code&gt;b82363b&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stefanonepanedap"&gt;&lt;code&gt;@​stefanonepanedap&lt;/code&gt;&lt;/a&gt;!
+- fix: loadDefaultDesignTokens in test environments&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/nedap/unify-components/blob/main/packages/lit/CHANGELOG.md"&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;16.17.2&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4118"&gt;#4118&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/71e807157990475e8daad5d956b65dad708082ba"&gt;&lt;code&gt;71e8071&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
+- Fix fonts for multiple components&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;16.17.1&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4105"&gt;#4105&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/38054bea858341d937600f948e6c489460e0e30e"&gt;&lt;code&gt;38054be&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stevenkuster"&gt;&lt;code&gt;@​stevenkuster&lt;/code&gt;&lt;/a&gt;!
+- Make sure &lt;code&gt;selectedValue&lt;/code&gt; and &lt;code&gt;selectedValues&lt;/code&gt;
+types are available on &lt;code&gt;UcSelectListProps&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4110"&gt;#4110&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/b82363bfc9032da16b4fcfbb9469efc641a1a464"&gt;&lt;code&gt;b82363b&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stefanonepanedap"&gt;&lt;code&gt;@​stefanonepanedap&lt;/code&gt;&lt;/a&gt;!
+- fix: loadDefaultDesignTokens in test environments&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;16.17.0&lt;/h2&gt;
+&lt;h3&gt;Minor Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4004"&gt;#4004&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/5a1c251ee01514504e5470cb6178b62c0154cbee"&gt;&lt;code&gt;5a1c251&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+Allow &lt;code&gt;uc-select&lt;/code&gt;, &lt;code&gt;uc-select-list&lt;/code&gt;,
+&lt;code&gt;uc-tree&lt;/code&gt;, &lt;code&gt;uc-combobox&lt;/code&gt; item render
+customization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4082"&gt;#4082&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/e460552a585a51863f717d011c97b2c219eaecac"&gt;&lt;code&gt;e460552&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stefanonepanedap"&gt;&lt;code&gt;@​stefanonepanedap&lt;/code&gt;&lt;/a&gt;!
+- fix(uc-dropdown): improve escape key handling in dropdown
+component&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4084"&gt;#4084&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/aba1d0f10e04f6df64eb1171ca5bb171da0c589d"&gt;&lt;code&gt;aba1d0f&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stefanonepanedap"&gt;&lt;code&gt;@​stefanonepanedap&lt;/code&gt;&lt;/a&gt;!
+- corrected &lt;code&gt;import.meta.env&lt;/code&gt; usage so it gets replaced
+correctly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4096"&gt;#4096&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/b3e452a202097e8ffb05c2332090d85f8b3cc22c"&gt;&lt;code&gt;b3e452a&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/BartJanvanAssen"&gt;&lt;code&gt;@​BartJanvanAssen&lt;/code&gt;&lt;/a&gt;!
+- update &lt;code&gt;uc-button&lt;/code&gt; so only the &lt;code&gt;secondary&lt;/code&gt;
+variant has an active state. Also change the colors to have the correct
+tokens.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4090"&gt;#4090&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/246cd1a04f5217359a97c4b3b1c5d2b48ce6dae1"&gt;&lt;code&gt;246cd1a&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stefanonepanedap"&gt;&lt;code&gt;@​stefanonepanedap&lt;/code&gt;&lt;/a&gt;!
+- Remove unnecessary console.log from production code&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/252fd90a7664cbb32a09b3ba0002414c0264d75e"&gt;&lt;code&gt;252fd90&lt;/code&gt;&lt;/a&gt;
+chore(release): version packages 🦋 (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4120"&gt;#4120&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/71e807157990475e8daad5d956b65dad708082ba"&gt;&lt;code&gt;71e8071&lt;/code&gt;&lt;/a&gt;
+update &lt;code&gt;@​nedap/unify-design-tokens-web&lt;/code&gt; to v1.2.0 (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4118"&gt;#4118&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/f3a85ae40c457eb8a09ee08b198b2bbb5c98a6d7"&gt;&lt;code&gt;f3a85ae&lt;/code&gt;&lt;/a&gt;
+chore(deps): update dependency
+&lt;code&gt;@​custom-elements-manifest/analyzer&lt;/code&gt; to v0.10.4&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/ecd22976458130fa3d2c2e889e6c72a0328aab42"&gt;&lt;code&gt;ecd2297&lt;/code&gt;&lt;/a&gt;
+chore(deps): update typescript-eslint monorepo to v8.18.0 (minor) (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4107"&gt;#4107&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/0e18564e8a9fb0511d28016272a1b6a23e1b37e0"&gt;&lt;code&gt;0e18564&lt;/code&gt;&lt;/a&gt;
+chore(deps): update playwright monorepo to v1.49.1 (patch) (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4114"&gt;#4114&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/e557918af803bc7b3be9d42c1766c26cbe6075ef"&gt;&lt;code&gt;e557918&lt;/code&gt;&lt;/a&gt;
+chore(release): version packages 🦋 (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4106"&gt;#4106&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/b82363bfc9032da16b4fcfbb9469efc641a1a464"&gt;&lt;code&gt;b82363b&lt;/code&gt;&lt;/a&gt;
+fix: loadDefaultDesignTokens in test environments (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4110"&gt;#4110&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/38054bea858341d937600f948e6c489460e0e30e"&gt;&lt;code&gt;38054be&lt;/code&gt;&lt;/a&gt;
+Make sure selectedValue and selectedValues types are available (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4105"&gt;#4105&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/a109f5dcbd9fb95ca2aaf0a7a9a1cc452ac53dee"&gt;&lt;code&gt;a109f5d&lt;/code&gt;&lt;/a&gt;
+chore(release): version packages 🦋 (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4091"&gt;#4091&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/b3e452a202097e8ffb05c2332090d85f8b3cc22c"&gt;&lt;code&gt;b3e452a&lt;/code&gt;&lt;/a&gt;
+Apply colors &amp;amp; add option in storybook (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4096"&gt;#4096&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/nedap/unify-components/commits/@nedap/unify-components@16.17.2/packages/lit"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@nedap/unify-components&amp;package-manager=npm_and_yarn&amp;previous-version=16.16.0&amp;new-version=16.17.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e93acb0</div>
+                                        <div class="message">build(deps-dev): Bump @typescript-eslint/eslint-plugin from 8.17.0 to 8.18.0 in /web (#4871)
+
+Bumps
+[@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin)
+from 8.17.0 to 8.18.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/releases"&gt;&lt;code&gt;@​typescript-eslint/eslint-plugin&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v8.18.0&lt;/h2&gt;
+&lt;h2&gt;8.18.0 (2024-12-09)&lt;/h2&gt;
+&lt;h3&gt;🚀 Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-deprecated] report on super call
+of deprecated constructor (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10397"&gt;#10397&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [switch-exhaustiveness-check] add
+support for &amp;quot;no default&amp;quot; comment (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10218"&gt;#10218&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🩹 Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;typescript peer dependency (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10373"&gt;#10373&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;deps:&lt;/strong&gt; update dependency eslint to v9.16.0 (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10471"&gt;#10471&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-deprecated] check if a JSX
+attribute is deprecated (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10374"&gt;#10374&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-base-to-string] handle more
+robustly when multiple &lt;code&gt;toString()&lt;/code&gt; declarations are present
+for a type (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10432"&gt;#10432&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt;
+[use-unknown-in-catch-callback-variable] only flag function literals (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10436"&gt;#10436&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❤️  Thank You&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kim Sang Du &lt;a
+href="https://github.com/developer-bandi"&gt;&lt;code&gt;@​developer-bandi&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kirk Waiblinger &lt;a
+href="https://github.com/kirkwaiblinger"&gt;&lt;code&gt;@​kirkwaiblinger&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;mdm317&lt;/li&gt;
+&lt;li&gt;rtritto&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md"&gt;&lt;code&gt;@​typescript-eslint/eslint-plugin&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;8.18.0 (2024-12-09)&lt;/h2&gt;
+&lt;h3&gt;🚀 Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [switch-exhaustiveness-check] add
+support for &amp;quot;no default&amp;quot; comment (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10218"&gt;#10218&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-deprecated] report on super call
+of deprecated constructor (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10397"&gt;#10397&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🩹 Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt;
+[use-unknown-in-catch-callback-variable] only flag function literals (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10436"&gt;#10436&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-base-to-string] handle more
+robustly when multiple &lt;code&gt;toString()&lt;/code&gt; declarations are present
+for a type (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10432"&gt;#10432&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-deprecated] check if a JSX
+attribute is deprecated (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10374"&gt;#10374&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;typescript peer dependency (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10373"&gt;#10373&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❤️  Thank You&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kim Sang Du &lt;a
+href="https://github.com/developer-bandi"&gt;&lt;code&gt;@​developer-bandi&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kirk Waiblinger &lt;a
+href="https://github.com/kirkwaiblinger"&gt;&lt;code&gt;@​kirkwaiblinger&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;mdm317&lt;/li&gt;
+&lt;li&gt;rtritto&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/c60dbabd8a93e001543de64ec479f62e9725978a"&gt;&lt;code&gt;c60dbab&lt;/code&gt;&lt;/a&gt;
+chore(release): publish 8.18.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/0d65f179ac88ab6bb60cd3fcb1ad67bdc725a9d1"&gt;&lt;code&gt;0d65f17&lt;/code&gt;&lt;/a&gt;
+chore: enforce repo nullish check style (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin/issues/10419"&gt;#10419&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/a54a8e1fc8b038e4133c40fb4c3fe5f612dccfd4"&gt;&lt;code&gt;a54a8e1&lt;/code&gt;&lt;/a&gt;
+fix(eslint-plugin): [use-unknown-in-catch-callback-variable] only flag
+functi...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/24a15100630dba0de6595b4f1a8f07f773e31744"&gt;&lt;code&gt;24a1510&lt;/code&gt;&lt;/a&gt;
+fix(eslint-plugin): [no-base-to-string] handle more robustly when
+multiple `t...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/47f1ab3a3ad928f9eaf98ebb621c058181c15146"&gt;&lt;code&gt;47f1ab3&lt;/code&gt;&lt;/a&gt;
+feat(eslint-plugin): [switch-exhaustiveness-check] add support for
+&amp;quot;no defaul...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/772bd43f3951980ce159fa3ac5408a249872ea12"&gt;&lt;code&gt;772bd43&lt;/code&gt;&lt;/a&gt;
+fix(eslint-plugin): [no-deprecated] check if a JSX attribute is
+deprecated (#...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/4cb2cf86c3d011fca667c745d43fd8dcd6c9e652"&gt;&lt;code&gt;4cb2cf8&lt;/code&gt;&lt;/a&gt;
+fix: typescript peer dependency (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin/issues/10373"&gt;#10373&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/0cc791919265026c4afd2a0668bcc8f4e0c81aa6"&gt;&lt;code&gt;0cc7919&lt;/code&gt;&lt;/a&gt;
+feat(eslint-plugin): [no-deprecated] report on super call of deprecated
+const...&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commits/v8.18.0/packages/eslint-plugin"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@typescript-eslint/eslint-plugin&amp;package-manager=npm_and_yarn&amp;previous-version=8.17.0&amp;new-version=8.18.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b4a784</div>
+                                        <div class="message">build(deps): Bump @playwright/test from 1.49.0 to 1.49.1 in /playwright (#4869)
+
+Bumps [@playwright/test](https://github.com/microsoft/playwright) from
+1.49.0 to 1.49.1.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/microsoft/playwright/releases"&gt;&lt;code&gt;@​playwright/test&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v1.49.1&lt;/h2&gt;
+&lt;h3&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33802"&gt;microsoft/playwright#33802&lt;/a&gt;
+- [Bug]: Codegen's Clear button doesn't work if not recording
+&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33806"&gt;microsoft/playwright#33806&lt;/a&gt;
+- [Bug]: playwright hangs while waiting for pending navigations
+&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33787"&gt;microsoft/playwright#33787&lt;/a&gt;
+- [Bug]: VSC extension isn't capturing all entered text
+&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33788"&gt;microsoft/playwright#33788&lt;/a&gt;
+- [Regression]: Double clicking the steps in trace viewer doesn't filter
+actions
+&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33772"&gt;microsoft/playwright#33772&lt;/a&gt;
+- [Bug]: aria_snapshot generates invalid yaml when combined with an
+aria-label attribut
+&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33791"&gt;microsoft/playwright#33791&lt;/a&gt;
+- [Bug]: text input with number value raises &amp;quot;container is not
+iterable&amp;quot; with to_match_aria_snapshot
+&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33644"&gt;microsoft/playwright#33644&lt;/a&gt;
+- [Bug]: getByRole can't find element with the accessible name from
+label element when aria-labelledby is not valid
+&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33660"&gt;microsoft/playwright#33660&lt;/a&gt;
+- [Regression]: Unable to open Playwright UI in Dark Mode&lt;/p&gt;
+&lt;h2&gt;Browser Versions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chromium 131.0.6778.33&lt;/li&gt;
+&lt;li&gt;Mozilla Firefox 132.0&lt;/li&gt;
+&lt;li&gt;WebKit 18.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This version was also tested against the following stable
+channels:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Chrome 130&lt;/li&gt;
+&lt;li&gt;Microsoft Edge 130&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/88bc8afc78ea6ff13d2bbb312b99eb924962766c"&gt;&lt;code&gt;88bc8af&lt;/code&gt;&lt;/a&gt;
+chore: mark v1.49.1 (&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33921"&gt;#33921&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/9e855d5b9a65bcc23713f50dd0f0727ddded45c8"&gt;&lt;code&gt;9e855d5&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33821"&gt;#33821&lt;/a&gt;):
+fix(recorder): allow clearing when recording is disabled...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/9365eb5dacc661f002b567418d216d2172ae3f21"&gt;&lt;code&gt;9365eb5&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33834"&gt;#33834&lt;/a&gt;):
+fix: do not stall waiting for pending navigations after ...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/f92b2339fed395501e499f359ba7a9811f1dd561"&gt;&lt;code&gt;f92b233&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33822"&gt;#33822&lt;/a&gt;):
+fix(codegen): do not reset current tool upon clearing hi...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/008722b2d92f12060ed5bf830c7a06e27f4c69c3"&gt;&lt;code&gt;008722b&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33797"&gt;#33797&lt;/a&gt;):
+fix(trace): in &lt;code&gt;indexTree&lt;/code&gt; check &lt;code&gt;isVisible&lt;/code&gt;
+before addi...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/1dc8b3cbdc89c205fcca678e50d23ad5fd6189aa"&gt;&lt;code&gt;1dc8b3c&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33746"&gt;#33746&lt;/a&gt;):
+chore: pin typescript while vue-tsc is broken&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/fbc770c804261e271d63b72f311fdd064d1ce3d8"&gt;&lt;code&gt;fbc770c&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33793"&gt;#33793&lt;/a&gt;):
+fix(aria): escape even more yaml (&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33795"&gt;#33795&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/1046fe045555915c7100c55cc73dad0c096624e3"&gt;&lt;code&gt;1046fe0&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33753"&gt;#33753&lt;/a&gt;):
+docs: update extensions doc for new headless&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/1781bf35b3867855e8aeb922e8083e85aa0c11f3"&gt;&lt;code&gt;1781bf3&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33706"&gt;#33706&lt;/a&gt;):
+docs: release notes for languages v1.49&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/playwright/commit/b52a21030f0a020107a1d04404d0ab23051e7699"&gt;&lt;code&gt;b52a210&lt;/code&gt;&lt;/a&gt;
+cherry-pick(&lt;a
+href="https://redirect.github.com/microsoft/playwright/issues/33712"&gt;#33712&lt;/a&gt;):
+docs(python): add LocatorAssertions.NotToMatchAriaSnapshot&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/microsoft/playwright/compare/v1.49.0...v1.49.1"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@playwright/test&amp;package-manager=npm_and_yarn&amp;previous-version=1.49.0&amp;new-version=1.49.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ba21ad</div>
+                                        <div class="message">build(deps-dev): Bump sass from 1.82.0 to 1.83.0 in /web (#4872)
+
+Bumps [sass](https://github.com/sass/dart-sass) from 1.82.0 to 1.83.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sass/dart-sass/releases"&gt;sass's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;Dart Sass 1.83.0&lt;/h2&gt;
+&lt;p&gt;To install Sass 1.83.0, download one of the packages below and &lt;a
+href="https://katiek2.github.io/path-doc/"&gt;add it to your PATH&lt;/a&gt;, or
+see &lt;a href="https://sass-lang.com/install"&gt;the Sass website&lt;/a&gt; for
+full installation instructions.&lt;/p&gt;
+&lt;h1&gt;Changes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Allow trailing commas in &lt;em&gt;all&lt;/em&gt; argument and parameter
+lists.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See the &lt;a
+href="https://github.com/sass/dart-sass/blob/master/CHANGELOG.md#1830"&gt;full
+changelog&lt;/a&gt; for changes in earlier releases.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sass/dart-sass/blob/main/CHANGELOG.md"&gt;sass's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;1.83.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Allow trailing commas in &lt;em&gt;all&lt;/em&gt; argument and parameter
+lists.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/f38dbb00db942592c64a259bdfd9f961316597f6"&gt;&lt;code&gt;f38dbb0&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/sass/dart-sass/issues/2464"&gt;#2464&lt;/a&gt;
+from sass/rest-param-comma&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/0230ccf8518064c62c7b68c6808049764390a59c"&gt;&lt;code&gt;0230ccf&lt;/code&gt;&lt;/a&gt;
+Update pkg/sass_api/CHANGELOG.md&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/dd9b106e7e56201948204d648434ad9f515c25fc"&gt;&lt;code&gt;dd9b106&lt;/code&gt;&lt;/a&gt;
+Rename ArgumentInvocation and ArgumentDeclaration&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/c45bc70b39480c35ea61cf05d27444d87cbb5947"&gt;&lt;code&gt;c45bc70&lt;/code&gt;&lt;/a&gt;
+Allow a trailing comma after rest parameters and arguments&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/219fe67817a1efc769e6ff2a80a59e6ac83def9b"&gt;&lt;code&gt;219fe67&lt;/code&gt;&lt;/a&gt;
+Fix static analysis issues for dart 3.6 (&lt;a
+href="https://redirect.github.com/sass/dart-sass/issues/2462"&gt;#2462&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/f9eef8105c898e463b6f661ab82f374616da6f2a"&gt;&lt;code&gt;f9eef81&lt;/code&gt;&lt;/a&gt;
+Fix links to importers in the internal documentation (&lt;a
+href="https://redirect.github.com/sass/dart-sass/issues/2458"&gt;#2458&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/1b3c7de8d3b1789ca8d471a0d75241d356a80097"&gt;&lt;code&gt;1b3c7de&lt;/code&gt;&lt;/a&gt;
+Represent rest parameters as properties on Parameter (&lt;a
+href="https://redirect.github.com/sass/dart-sass/issues/2454"&gt;#2454&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/7a6722cf29cf3675b3bc4ad9ff32a552ecf00dc3"&gt;&lt;code&gt;7a6722c&lt;/code&gt;&lt;/a&gt;
+Fix the declaration of ReturnRule._returnExpression (&lt;a
+href="https://redirect.github.com/sass/dart-sass/issues/2455"&gt;#2455&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/1536dc014637b5676c650e49dcb75a145361fc3b"&gt;&lt;code&gt;1536dc0&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/sass/dart-sass/issues/2453"&gt;#2453&lt;/a&gt;
+from sass/return&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sass/dart-sass/commit/a74f9c301b2ac08c38de7590b6fec7e47caab0aa"&gt;&lt;code&gt;a74f9c3&lt;/code&gt;&lt;/a&gt;
+Enable useDefineForClassFields and fix affected TS files. (&lt;a
+href="https://redirect.github.com/sass/dart-sass/issues/2447"&gt;#2447&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/sass/dart-sass/compare/1.82.0...1.83.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=sass&amp;package-manager=npm_and_yarn&amp;previous-version=1.82.0&amp;new-version=1.83.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aafa74a</div>
+                                        <div class="message">build(deps): Bump @apollo/client from 3.12.2 to 3.12.3 in /web (#4875)
+
+Bumps [@apollo/client](https://github.com/apollographql/apollo-client)
+from 3.12.2 to 3.12.3.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/apollographql/apollo-client/releases"&gt;&lt;code&gt;@​apollo/client&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v3.12.3&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/pull/12214"&gt;#12214&lt;/a&gt;
+&lt;a
+href="https://github.com/apollographql/apollo-client/commit/8bfee88102dd071ea5836f7267f30ca082671b2b"&gt;&lt;code&gt;8bfee88&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/phryneas"&gt;&lt;code&gt;@​phryneas&lt;/code&gt;&lt;/a&gt;! - Data
+masking: prevent infinite recursion of
+&lt;code&gt;ContainsFragmentsRefs&lt;/code&gt; type&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/pull/12204"&gt;#12204&lt;/a&gt;
+&lt;a
+href="https://github.com/apollographql/apollo-client/commit/851deb06f42eb255b4839c2b88430f991943ae0f"&gt;&lt;code&gt;851deb0&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/jerelmiller"&gt;&lt;code&gt;@​jerelmiller&lt;/code&gt;&lt;/a&gt;! -
+Fix &lt;code&gt;Unmasked&lt;/code&gt; unwrapping tuple types into an array of their
+subtypes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/pull/12204"&gt;#12204&lt;/a&gt;
+&lt;a
+href="https://github.com/apollographql/apollo-client/commit/851deb06f42eb255b4839c2b88430f991943ae0f"&gt;&lt;code&gt;851deb0&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/jerelmiller"&gt;&lt;code&gt;@​jerelmiller&lt;/code&gt;&lt;/a&gt;! -
+Ensure &lt;code&gt;MaybeMasked&lt;/code&gt; does not try and unwrap types that
+contain index signatures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/pull/12204"&gt;#12204&lt;/a&gt;
+&lt;a
+href="https://github.com/apollographql/apollo-client/commit/851deb06f42eb255b4839c2b88430f991943ae0f"&gt;&lt;code&gt;851deb0&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/jerelmiller"&gt;&lt;code&gt;@​jerelmiller&lt;/code&gt;&lt;/a&gt;! -
+Ensure &lt;code&gt;MaybeMasked&lt;/code&gt; does not try to unwrap the type as
+&lt;code&gt;Unmasked&lt;/code&gt; if the type contains &lt;code&gt;any&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/apollographql/apollo-client/blob/main/CHANGELOG.md"&gt;&lt;code&gt;@​apollo/client&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;3.12.3&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/pull/12214"&gt;#12214&lt;/a&gt;
+&lt;a
+href="https://github.com/apollographql/apollo-client/commit/8bfee88102dd071ea5836f7267f30ca082671b2b"&gt;&lt;code&gt;8bfee88&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/phryneas"&gt;&lt;code&gt;@​phryneas&lt;/code&gt;&lt;/a&gt;! - Data
+masking: prevent infinite recursion of
+&lt;code&gt;ContainsFragmentsRefs&lt;/code&gt; type&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/pull/12204"&gt;#12204&lt;/a&gt;
+&lt;a
+href="https://github.com/apollographql/apollo-client/commit/851deb06f42eb255b4839c2b88430f991943ae0f"&gt;&lt;code&gt;851deb0&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/jerelmiller"&gt;&lt;code&gt;@​jerelmiller&lt;/code&gt;&lt;/a&gt;! -
+Fix &lt;code&gt;Unmasked&lt;/code&gt; unwrapping tuple types into an array of their
+subtypes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/pull/12204"&gt;#12204&lt;/a&gt;
+&lt;a
+href="https://github.com/apollographql/apollo-client/commit/851deb06f42eb255b4839c2b88430f991943ae0f"&gt;&lt;code&gt;851deb0&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/jerelmiller"&gt;&lt;code&gt;@​jerelmiller&lt;/code&gt;&lt;/a&gt;! -
+Ensure &lt;code&gt;MaybeMasked&lt;/code&gt; does not try and unwrap types that
+contain index signatures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/pull/12204"&gt;#12204&lt;/a&gt;
+&lt;a
+href="https://github.com/apollographql/apollo-client/commit/851deb06f42eb255b4839c2b88430f991943ae0f"&gt;&lt;code&gt;851deb0&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/jerelmiller"&gt;&lt;code&gt;@​jerelmiller&lt;/code&gt;&lt;/a&gt;! -
+Ensure &lt;code&gt;MaybeMasked&lt;/code&gt; does not try to unwrap the type as
+&lt;code&gt;Unmasked&lt;/code&gt; if the type contains &lt;code&gt;any&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/apollographql/apollo-client/commit/e2b15c4b72d016b27293253b5a3fa6c319c1fb93"&gt;&lt;code&gt;e2b15c4&lt;/code&gt;&lt;/a&gt;
+Version Packages (&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/issues/12213"&gt;#12213&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/apollographql/apollo-client/commit/8bfee88102dd071ea5836f7267f30ca082671b2b"&gt;&lt;code&gt;8bfee88&lt;/code&gt;&lt;/a&gt;
+prevent infinite recursion of ContainsFragmentsRefs type (&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/issues/12214"&gt;#12214&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/apollographql/apollo-client/commit/851deb06f42eb255b4839c2b88430f991943ae0f"&gt;&lt;code&gt;851deb0&lt;/code&gt;&lt;/a&gt;
+Ensure &lt;code&gt;MaybeMasked&lt;/code&gt; doesn't unwrap if it contains
+&lt;code&gt;any&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/issues/12204"&gt;#12204&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/apollographql/apollo-client/commit/db010598ebe07267c0b7a8c9de3f353abe1a2ddd"&gt;&lt;code&gt;db01059&lt;/code&gt;&lt;/a&gt;
+add documentation for vscode devtools (&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/issues/12205"&gt;#12205&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/apollographql/apollo-client/commit/e022f72b3911b19f5b06f14ef665e503175c2da0"&gt;&lt;code&gt;e022f72&lt;/code&gt;&lt;/a&gt;
+Update ROADMAP.md&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/apollographql/apollo-client/commit/10c8755bf437da4f4ed2806eeb065713ec4f9d54"&gt;&lt;code&gt;10c8755&lt;/code&gt;&lt;/a&gt;
+docs: adjust screenshot size (&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/issues/12178"&gt;#12178&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/apollographql/apollo-client/commit/8e2a9d64d10e6ac0457dcfe6f389a91bcf483317"&gt;&lt;code&gt;8e2a9d6&lt;/code&gt;&lt;/a&gt;
+Make React 19 the default version for development (&lt;a
+href="https://redirect.github.com/apollographql/apollo-client/issues/12177"&gt;#12177&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/apollographql/apollo-client/compare/v3.12.2...v3.12.3"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@apollo/client&amp;package-manager=npm_and_yarn&amp;previous-version=3.12.2&amp;new-version=3.12.3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d4f5de</div>
+                                        <div class="message">build(deps): Bump @nedap/unify-core from 2.19.3 to 2.20.0 in /web (#4874)
+
+Bumps
+[@nedap/unify-core](https://github.com/nedap/unify-widgets/tree/HEAD/packages/unify-core)
+from 2.19.3 to 2.20.0.
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/nedap/unify-widgets/commits/HEAD/packages/unify-core"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@nedap/unify-core&amp;package-manager=npm_and_yarn&amp;previous-version=2.19.3&amp;new-version=2.20.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0cf50b5</div>
+                                        <div class="message">build(deps-dev): Bump @typescript-eslint/parser from 8.17.0 to 8.18.0 in /web (#4870)
+
+Bumps
+[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser)
+from 8.17.0 to 8.18.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/releases"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v8.18.0&lt;/h2&gt;
+&lt;h2&gt;8.18.0 (2024-12-09)&lt;/h2&gt;
+&lt;h3&gt;🚀 Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-deprecated] report on super call
+of deprecated constructor (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10397"&gt;#10397&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [switch-exhaustiveness-check] add
+support for &amp;quot;no default&amp;quot; comment (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10218"&gt;#10218&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🩹 Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;typescript peer dependency (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10373"&gt;#10373&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;deps:&lt;/strong&gt; update dependency eslint to v9.16.0 (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10471"&gt;#10471&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-deprecated] check if a JSX
+attribute is deprecated (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10374"&gt;#10374&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-base-to-string] handle more
+robustly when multiple &lt;code&gt;toString()&lt;/code&gt; declarations are present
+for a type (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10432"&gt;#10432&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt;
+[use-unknown-in-catch-callback-variable] only flag function literals (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10436"&gt;#10436&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❤️  Thank You&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kim Sang Du &lt;a
+href="https://github.com/developer-bandi"&gt;&lt;code&gt;@​developer-bandi&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kirk Waiblinger &lt;a
+href="https://github.com/kirkwaiblinger"&gt;&lt;code&gt;@​kirkwaiblinger&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;mdm317&lt;/li&gt;
+&lt;li&gt;rtritto&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;8.18.0 (2024-12-09)&lt;/h2&gt;
+&lt;h3&gt;🩹 Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;typescript peer dependency (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10373"&gt;#10373&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❤️  Thank You&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;rtritto&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/c60dbabd8a93e001543de64ec479f62e9725978a"&gt;&lt;code&gt;c60dbab&lt;/code&gt;&lt;/a&gt;
+chore(release): publish 8.18.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/0d65f179ac88ab6bb60cd3fcb1ad67bdc725a9d1"&gt;&lt;code&gt;0d65f17&lt;/code&gt;&lt;/a&gt;
+chore: enforce repo nullish check style (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser/issues/10419"&gt;#10419&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/c92c29d142640b107795cfcdd28e94e4a811872d"&gt;&lt;code&gt;c92c29d&lt;/code&gt;&lt;/a&gt;
+chore: standardise licenses on MIT (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser/issues/10387"&gt;#10387&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/4cb2cf86c3d011fca667c745d43fd8dcd6c9e652"&gt;&lt;code&gt;4cb2cf8&lt;/code&gt;&lt;/a&gt;
+fix: typescript peer dependency (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser/issues/10373"&gt;#10373&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commits/v8.18.0/packages/parser"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@typescript-eslint/parser&amp;package-manager=npm_and_yarn&amp;previous-version=8.17.0&amp;new-version=8.18.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2448967</div>
+                                        <div class="message">build(deps-dev): Bump @types/node from 22.10.1 to 22.10.2 in /playwright (#4868)
+
+Bumps
+[@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node)
+from 22.10.1 to 22.10.2.
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@types/node&amp;package-manager=npm_and_yarn&amp;previous-version=22.10.1&amp;new-version=22.10.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#707df30</div>
+                                        <div class="message">build(deps): Bump com.amazonaws:aws-java-sdk-s3 from 1.12.779 to 1.12.780 (#4867)
+
+Bumps
+[com.amazonaws:aws-java-sdk-s3](https://github.com/aws/aws-sdk-java)
+from 1.12.779 to 1.12.780.
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/aws/aws-sdk-java/blob/master/CHANGELOG.md"&gt;com.amazonaws:aws-java-sdk-s3's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.780&lt;/strong&gt; &lt;strong&gt;2024-12-11&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon Simple Storage Service&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Bugfixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS SDK for Java 1.x now includes additional validation for Amazon
+S3 client APIs to handle scenarios where an empty string ('') is passed
+as the key argument to the following operations: PutObject,
+DeleteObject, ListObjects, GetObjectMetaData, ListObjectsV2,
+SetObjectTagging, GetObjectTagging, SetObjectAcl, GetObjectAcl,
+SetObjectLegalHold, GetObjectLegalHold, CopyObject, CopyPart,
+SelectObjectContent, SetObjectRetention, GetObjectRetention,
+AbortMultipartUpload, CompleteMultipartUpload, InitiateMultipartUpload,
+ListParts, UploadPart, RestoreObjectV2, and RestoreObject. The SDK will
+validate the key argument and throw an exception if it is an empty
+string, ensuring correct and expected behavior.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.778&lt;/strong&gt; &lt;strong&gt;2024-11-13&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon Kinesis Video Streams&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update Netty version to &lt;code&gt;4.1.115.Final&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.774&lt;/strong&gt; &lt;strong&gt;2024-10-16&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon Simple Storage Service&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for the new optional bucket-region and prefix query
+parameters in the ListBuckets API. For ListBuckets requests that express
+pagination, Amazon S3 will now return both the bucket names and
+associated AWS regions in the response.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.771&lt;/strong&gt; &lt;strong&gt;2024-09-04&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;AWS SDK for Java&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Generate and use AWS-account-based endpoints for DynamoDB requests
+when the account ID is available. The new endpoint URL pattern will be
+&lt;code&gt;https://&amp;lt;account-id&amp;gt;.ddb.&amp;lt;region&amp;gt;.amazonaws.com&lt;/code&gt;.
+See the documentation for details: &lt;a
+href="https://docs.aws.amazon.com/sdkref/latest/guide/feature-account-endpoints.html"&gt;https://docs.aws.amazon.com/sdkref/latest/guide/feature-account-endpoints.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon DynamoDB&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add handler to generate the account endpoint for a request&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.770&lt;/strong&gt; &lt;strong&gt;2024-08-20&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon Simple Storage Service&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon Simple Storage Service / Features : Add support for
+conditional writes for PutObject and CompleteMultipartUpload APIs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.769&lt;/strong&gt; &lt;strong&gt;2024-08-15&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;Amazon Simple Storage Service&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon Simple Storage Service / Features : Adds support for
+pagination in the S3 ListBuckets API.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.768&lt;/strong&gt; &lt;strong&gt;2024-08-14&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;AWS SDK for Java&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update Java baseline version to Java 8 and bump Jackson library to
+2.17.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;strong&gt;1.12.767&lt;/strong&gt; &lt;strong&gt;2024-07-30&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;AWS CodePipeline&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS CodePipeline V2 type pipelines now support stage level
+conditions to enable development teams to safely release changes that
+meet quality and compliance requirements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;AWS SDK for Java&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Deprecations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The AWS SDK for Java 1.x is now in maintenance mode, and will no
+longer receive updates for new or existing services, and will not be
+updated to support new regions. The 1.x SDK will continue to receive
+critical bug fixes and security updates until December 31, 2025. For
+more information, see &lt;a
+href="https://aws.amazon.com/blogs/developer/the-aws-sdk-for-java-1-x-is-in-maintenance-mode-effective-july-31-2024/"&gt;https://aws.amazon.com/blogs/developer/the-aws-sdk-for-java-1-x-is-in-maintenance-mode-effective-july-31-2024/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;AWS Telco Network Builder&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/fd30f27c6853a18dbc147c63d246dc35f3eda287"&gt;&lt;code&gt;fd30f27&lt;/code&gt;&lt;/a&gt;
+AWS SDK for Java 1.12.780&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/aws/aws-sdk-java/commit/2ed75eb9207d87a35e04d60221319fa525081e68"&gt;&lt;code&gt;2ed75eb&lt;/code&gt;&lt;/a&gt;
+Update GitHub version number to 1.12.780-SNAPSHOT&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/aws/aws-sdk-java/compare/1.12.779...1.12.780"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.amazonaws:aws-java-sdk-s3&amp;package-manager=gradle&amp;previous-version=1.12.779&amp;new-version=1.12.780)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f661bb</div>
+                                        <div class="message">build(deps): Bump swagger from 2.2.26 to 2.2.27 (#4863)
+
+Bumps `swagger` from 2.2.26 to 2.2.27.
+Updates `io.swagger.core.v3:swagger-annotations` from 2.2.26 to 2.2.27
+
+Updates `io.swagger.core.v3:swagger-core` from 2.2.26 to 2.2.27
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/swagger-api/swagger-core/releases"&gt;io.swagger.core.v3:swagger-core's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;Swagger-core 2.2.27 released!&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: &lt;a
+href="https://redirect.github.com/swagger-api/swagger-ui/issues/10220"&gt;swagger-api/swagger-ui#10220&lt;/a&gt;
+(&lt;a
+href="https://redirect.github.com/swagger-api/swagger-core/issues/4806"&gt;#4806&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fix for record component annotations on fields with JsonProperty
+annotations (&lt;a
+href="https://redirect.github.com/swagger-api/swagger-core/issues/4795"&gt;#4795&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fix java.lang.NullPointerException and remove stack trace output
+from ModelResolver (&lt;a
+href="https://redirect.github.com/swagger-api/swagger-core/issues/4793"&gt;#4793&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Move applySchemaResolution check to a method (&lt;a
+href="https://redirect.github.com/swagger-api/swagger-core/issues/4791"&gt;#4791&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;feat(gradle-plugin): enable lazy evaluation, implicit task
+dependencies and fixing &lt;code&gt;setEncoding&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/swagger-api/swagger-core/issues/4761"&gt;#4761&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/swagger-api/swagger-core/commit/caaff0dc699781c26498b789c9131dfaf0242bed"&gt;&lt;code&gt;caaff0d&lt;/code&gt;&lt;/a&gt;
+prepare release 2.2.27&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/swagger-api/swagger-core/commit/583c21b11a9628aa87f030fb2b5b722d6bfedbb8"&gt;&lt;code&gt;583c21b&lt;/code&gt;&lt;/a&gt;
+feat(gradle-plugin): enable lazy configuration&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/swagger-api/swagger-core/commit/fbcc02ff6faaa6a7ab3d18819c490dab38c46ffe"&gt;&lt;code&gt;fbcc02f&lt;/code&gt;&lt;/a&gt;
+fix: &lt;a
+href="https://redirect.github.com/swagger-api/swagger-ui/issues/10220"&gt;swagger-api/swagger-ui#10220&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/swagger-api/swagger-core/commit/dfca14c217679fe4c6171397a01cf7f45ed71738"&gt;&lt;code&gt;dfca14c&lt;/code&gt;&lt;/a&gt;
+Fix for record component annotations on fields with JsonProperty
+annotations&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/swagger-api/swagger-core/commit/df88c8a8ebaae1cb8ec39d1af295d07620dcaf87"&gt;&lt;code&gt;df88c8a&lt;/code&gt;&lt;/a&gt;
+move applySchemaResolution check to method&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/swagger-api/swagger-core/commit/3d619b354c5f5898e0936a285a9c59060a49ea4d"&gt;&lt;code&gt;3d619b3&lt;/code&gt;&lt;/a&gt;
+Fix java.lang.NullPointerException and remove stack trace output from
+ModelRe...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/swagger-api/swagger-core/commit/3c7b61f7d51bb001ec3bc944229cbc19307d17f5"&gt;&lt;code&gt;3c7b61f&lt;/code&gt;&lt;/a&gt;
+bump snapshot 2.2.27-SNAPSHOT&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/swagger-api/swagger-core/compare/v2.2.26...v2.2.27"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `io.swagger.core.v3:swagger-models` from 2.2.26 to 2.2.27
+
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39e6645</div>
+                                        <div class="message">build(deps): Bump com.nedap.healthcare:cupido-mappings from 6.267.0-jakarta to 6.280.0-jakarta (#4865)
+
+Bumps
+[com.nedap.healthcare:cupido-mappings](https://github.com/nedap/cupido)
+from 6.267.0-jakarta to 6.280.0-jakarta.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/nedap/cupido/releases"&gt;com.nedap.healthcare:cupido-mappings's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.280.0&lt;/h2&gt;
+&lt;p&gt;2024-12-12 - Robin Spek, Add '.' before newline (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7156"&gt;#7156&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.279.0&lt;/h2&gt;
+&lt;p&gt;2024-12-11 - MeesN, Remove deprecated methods that add query params
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7093"&gt;#7093&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.278.0&lt;/h2&gt;
+&lt;p&gt;2024-12-10 - Sebastiaan Brouwer, ruby: Datadog traces having full
+error stacktrace (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7149"&gt;#7149&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.277.0&lt;/h2&gt;
+&lt;p&gt;2024-12-10 - Sebastiaan Brouwer, ruby: Bump activemodel &amp;amp;
+activesupport deps (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7155"&gt;#7155&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.276.0&lt;/h2&gt;
+&lt;p&gt;2024-12-10 - Sebastiaan Brouwer, Use Nomad consul image for Appia
+mounts (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7153"&gt;#7153&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.275.0&lt;/h2&gt;
+&lt;p&gt;2024-12-10 - Sebastiaan Brouwer, Use docker build secrets instead of
+build args (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7154"&gt;#7154&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.274.0&lt;/h2&gt;
+&lt;p&gt;2024-12-09 - renovate[bot], chore(deps): update dependency
+activemodel to v6.1.7.10 (ruby) (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7151"&gt;#7151&lt;/a&gt;)
+2024-12-09 - renovate[bot], chore(deps): update dependency
+org.apache.maven.plugins:maven-deploy-plugin to v3 (java) (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7152"&gt;#7152&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.273.0&lt;/h2&gt;
+&lt;p&gt;2024-12-06 - renovate[bot], chore(deps): update dependency
+activemodel to v6.1.7.10 (ruby) (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7143"&gt;#7143&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.272.0&lt;/h2&gt;
+&lt;p&gt;2024-12-06 - renovate[bot], chore(deps): update wiremock/wiremock
+docker tag to v3.10.0 (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7139"&gt;#7139&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.271.0&lt;/h2&gt;
+&lt;p&gt;2024-12-06 - renovate[bot], fix(deps): update all non-major
+dependencies to v2.18.2 (java) (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7142"&gt;#7142&lt;/a&gt;)
+2024-12-06 - renovate[bot], chore(deps): update alpine docker tag to
+v3.21.0 (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7150"&gt;#7150&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.270.0&lt;/h2&gt;
+&lt;p&gt;2024-12-05 - Peter Hiemstra, BO-1381 -- Added weeksheetProfileList
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7148"&gt;#7148&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.269.0&lt;/h2&gt;
+&lt;p&gt;2024-12-03 - MeesN, Use correct response type for MultimediaFileAPI
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7145"&gt;#7145&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.268.0&lt;/h2&gt;
+&lt;p&gt;2024-12-02 - Sebastiaan Brouwer, docs: make pre release (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7144"&gt;#7144&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/nedap/cupido/commits"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.nedap.healthcare:cupido-mappings&amp;package-manager=gradle&amp;previous-version=6.267.0-jakarta&amp;new-version=6.280.0-jakarta)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
@@ -1517,38 +3649,6 @@
                                         <span class="code">dependabot/gradle/com.datadoghq-dd-java-agent-1.44.1</span>
                                         in
                                         <span class="repo">nedap/rapidash</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/gradle/development/org.jmailen.kotlinter-5.0.1</span>
-                                        in
-                                        <span class="repo">nedap/ons-spraak-whismur</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/npm_and_yarn/admin/nanoid-3.3.8</span>
-                                        in
-                                        <span class="repo">nedap/ons-spraak-whismur</span>
                                     </div>
                                 </div>
                             </section>
@@ -1783,7 +3883,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 9.98m out of 151m users</span>
+                                    <span class="gh">ranked 9.98m out of 147m users</span>
                                 </div>
                                 <div class="text">Published 7 public repositories</div>
                             </div>
@@ -1898,7 +3998,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2m out of 151m users</span>
+                                    <span class="gh">ranked 2m out of 147m users</span>
                                 </div>
                                 <div class="text">Followed by 8 users</div>
                             </div>
@@ -1981,7 +4081,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.49m out of 222m repositories</span>
+                                    <span class="gh">ranked 5.49m out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2063,7 +4163,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Dec 2024, 21:14:33 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2024, 22:12:15 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
