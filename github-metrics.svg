@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1771" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2089" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.keyword,.token.namespace{color:#b44418}.token.boolean,.token.number,.token.string{color:#2777aa}.token.property,.token.tag{color:#48428a}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.c .side{background-color:#58a6ff26}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.audit.text{min-width:42px}.audit svg{margin:0}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}.markdown blockquote{border-left:4px solid #7777771f;color:#777;margin:0;padding-left:16px}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.token.keyword,.token.namespace{color:#b44418}.token.boolean,.token.number,.token.string{color:#2777aa}.token.property,.token.tag{color:#48428a}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 8 users
+                            Followed by 7 users
                         </div>
                     </section>
                     <section>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    98.1 MB used
+                                    98.2 MB used
                                 </div>
                             </section>
                             <section>
@@ -428,7 +428,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 46 commits)</small>
+                    <small class="h-details">(computed from last 48 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1484,6 +1484,2189 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">nedap/rapidash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ci/migrate-semaphore-to-gha</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eec42e4</div>
+                                        <div class="message">Use self-hosted runners instead of GH hosted</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 211 commits in
+                                        <span class="repo">nedap/rapidash</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix-model-search</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e4692f2</div>
+                                        <div class="message">build(deps-dev): Bump @typescript-eslint/parser from 8.20.0 to 8.21.0 in /web (#4956)
+
+Bumps
+[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser)
+from 8.20.0 to 8.21.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/releases"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v8.21.0&lt;/h2&gt;
+&lt;h2&gt;8.21.0 (2025-01-20)&lt;/h2&gt;
+&lt;h3&gt;🚀 Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ast-spec:&lt;/strong&gt; support import attributes in
+&lt;code&gt;TSImportType&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10640"&gt;#10640&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🩹 Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-unnecessary-type-arguments]
+handle type args on jsx (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10630"&gt;#10630&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; check JSX spread elements for
+misused spread usage (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10653"&gt;#10653&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-for-in-array] report on any type
+which may be an array or array-like (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10535"&gt;#10535&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-base-to-string] don't crash for
+recursive array or tuple types (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10633"&gt;#10633&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-duplicate-enum-values] handle
+template literal (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10675"&gt;#10675&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin-internal:&lt;/strong&gt; [debug-namespace] on
+windows (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10661"&gt;#10661&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;rule-tester:&lt;/strong&gt; handle window root path (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10654"&gt;#10654&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;scope-manager:&lt;/strong&gt; add a reference for JSX closing
+element if it exists (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/10614"&gt;#10614&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❤️ Thank You&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Arya Emami &lt;a
+href="https://github.com/aryaemami59"&gt;&lt;code&gt;@​aryaemami59&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ronen Amiel&lt;/li&gt;
+&lt;li&gt;YeonJuan &lt;a
+href="https://github.com/yeonjuan"&gt;&lt;code&gt;@​yeonjuan&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;8.21.0 (2025-01-20)&lt;/h2&gt;
+&lt;p&gt;This was a version bump only for parser to align it with other
+projects, there were no code changes.&lt;/p&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/79af426500b0665f3f706bfcca11c10acc7b83e0"&gt;&lt;code&gt;79af426&lt;/code&gt;&lt;/a&gt;
+chore(release): publish 8.21.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/a157fd4c62741d2dec2e4f47f738f499b616035d"&gt;&lt;code&gt;a157fd4&lt;/code&gt;&lt;/a&gt;
+chore: standardized on inline named exports (mostly) (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser/issues/10596"&gt;#10596&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commits/v8.21.0/packages/parser"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@typescript-eslint/parser&amp;package-manager=npm_and_yarn&amp;previous-version=8.20.0&amp;new-version=8.21.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7754d08</div>
+                                        <div class="message">build(deps): Bump @nedap/unify-components from 16.19.1 to 16.20.0 in /web (#4953)
+
+Bumps
+[@nedap/unify-components](https://github.com/nedap/unify-components/tree/HEAD/packages/lit)
+from 16.19.1 to 16.20.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/nedap/unify-components/releases"&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components-eslint&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.20.0&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated dependencies [&lt;a
+href="https://github.com/nedap/unify-components/commit/ae9fd4c56949f6c5f8fd83ced9ff0efac279d586"&gt;&lt;code&gt;ae9fd4c&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/40cc05c3a975a80eab4f6274f167ce6044f23cfe"&gt;&lt;code&gt;40cc05c&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/fd304da4e1a2a6e4aa21d8041d78b1820c174ebc"&gt;&lt;code&gt;fd304da&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/df7debba4de873102ae9de32c8ebd9106a3d88c2"&gt;&lt;code&gt;df7debb&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/436765b2a0b87c9786d569a6c4b87003919138d2"&gt;&lt;code&gt;436765b&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/66e4ce65de60a1b205fb650d75e2cccca11154cd"&gt;&lt;code&gt;66e4ce6&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/436765b2a0b87c9786d569a6c4b87003919138d2"&gt;&lt;code&gt;436765b&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/fd304da4e1a2a6e4aa21d8041d78b1820c174ebc"&gt;&lt;code&gt;fd304da&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/8b580aa35b667f7c0ee1bacdca418770e9d4897c"&gt;&lt;code&gt;8b580aa&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/8b580aa35b667f7c0ee1bacdca418770e9d4897c"&gt;&lt;code&gt;8b580aa&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/9286f54e9108529080f0072ebaf1b98e483fde29"&gt;&lt;code&gt;9286f54&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/0dbaaf950234b517d4426368501380b63d9a20d2"&gt;&lt;code&gt;0dbaaf9&lt;/code&gt;&lt;/a&gt;]:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.20.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components-react&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.20.0&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated dependencies [&lt;a
+href="https://github.com/nedap/unify-components/commit/ae9fd4c56949f6c5f8fd83ced9ff0efac279d586"&gt;&lt;code&gt;ae9fd4c&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/40cc05c3a975a80eab4f6274f167ce6044f23cfe"&gt;&lt;code&gt;40cc05c&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/fd304da4e1a2a6e4aa21d8041d78b1820c174ebc"&gt;&lt;code&gt;fd304da&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/df7debba4de873102ae9de32c8ebd9106a3d88c2"&gt;&lt;code&gt;df7debb&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/436765b2a0b87c9786d569a6c4b87003919138d2"&gt;&lt;code&gt;436765b&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/66e4ce65de60a1b205fb650d75e2cccca11154cd"&gt;&lt;code&gt;66e4ce6&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/436765b2a0b87c9786d569a6c4b87003919138d2"&gt;&lt;code&gt;436765b&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/fd304da4e1a2a6e4aa21d8041d78b1820c174ebc"&gt;&lt;code&gt;fd304da&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/8b580aa35b667f7c0ee1bacdca418770e9d4897c"&gt;&lt;code&gt;8b580aa&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/8b580aa35b667f7c0ee1bacdca418770e9d4897c"&gt;&lt;code&gt;8b580aa&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/9286f54e9108529080f0072ebaf1b98e483fde29"&gt;&lt;code&gt;9286f54&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/0dbaaf950234b517d4426368501380b63d9a20d2"&gt;&lt;code&gt;0dbaaf9&lt;/code&gt;&lt;/a&gt;]:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.20.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components-vue-types&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.20.0&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated dependencies [&lt;a
+href="https://github.com/nedap/unify-components/commit/ae9fd4c56949f6c5f8fd83ced9ff0efac279d586"&gt;&lt;code&gt;ae9fd4c&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/40cc05c3a975a80eab4f6274f167ce6044f23cfe"&gt;&lt;code&gt;40cc05c&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/fd304da4e1a2a6e4aa21d8041d78b1820c174ebc"&gt;&lt;code&gt;fd304da&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/df7debba4de873102ae9de32c8ebd9106a3d88c2"&gt;&lt;code&gt;df7debb&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/436765b2a0b87c9786d569a6c4b87003919138d2"&gt;&lt;code&gt;436765b&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/66e4ce65de60a1b205fb650d75e2cccca11154cd"&gt;&lt;code&gt;66e4ce6&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/436765b2a0b87c9786d569a6c4b87003919138d2"&gt;&lt;code&gt;436765b&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/fd304da4e1a2a6e4aa21d8041d78b1820c174ebc"&gt;&lt;code&gt;fd304da&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/8b580aa35b667f7c0ee1bacdca418770e9d4897c"&gt;&lt;code&gt;8b580aa&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/8b580aa35b667f7c0ee1bacdca418770e9d4897c"&gt;&lt;code&gt;8b580aa&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/9286f54e9108529080f0072ebaf1b98e483fde29"&gt;&lt;code&gt;9286f54&lt;/code&gt;&lt;/a&gt;,
+&lt;a
+href="https://github.com/nedap/unify-components/commit/0dbaaf950234b517d4426368501380b63d9a20d2"&gt;&lt;code&gt;0dbaaf9&lt;/code&gt;&lt;/a&gt;]:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.20.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;&lt;a
+href="https://github.com/16"&gt;&lt;code&gt;@​16&lt;/code&gt;&lt;/a&gt;.20.0&lt;/h2&gt;
+&lt;h3&gt;Minor Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4132"&gt;#4132&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/66e4ce65de60a1b205fb650d75e2cccca11154cd"&gt;&lt;code&gt;66e4ce6&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stefanonepanedap"&gt;&lt;code&gt;@​stefanonepanedap&lt;/code&gt;&lt;/a&gt;!
+- - 💅 4131 tokenize: &lt;code&gt;uc-dropddown-item&lt;/code&gt; &amp;amp;
+&lt;code&gt;uc-select-list-item&lt;/code&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adds dropdown-item destructive state &lt;a
+href="https://redirect.github.com/nedap/unify-components/issues/3432"&gt;ref&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;** Breaking change **
+&lt;code&gt;@nedap/unify-design-tokens-web&lt;/code&gt; has been bumped to 2.0.0.
+For more info see &lt;a
+href="https://github.com/nedap/unify-design-tokens/blob/main/packages/unify-design-tokens-web/CHANGELOG.md#200"&gt;the
+changelog&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4180"&gt;#4180&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/8b580aa35b667f7c0ee1bacdca418770e9d4897c"&gt;&lt;code&gt;8b580aa&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+Added new &lt;code&gt;uc-month-input&lt;/code&gt; component.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4180"&gt;#4180&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/8b580aa35b667f7c0ee1bacdca418770e9d4897c"&gt;&lt;code&gt;8b580aa&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+Added variant to the &lt;code&gt;uc-calendar&lt;/code&gt; component&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4206"&gt;#4206&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/ae9fd4c56949f6c5f8fd83ced9ff0efac279d586"&gt;&lt;code&gt;ae9fd4c&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+&lt;code&gt;uc-tab-group&lt;/code&gt;: Update indicator when tab name changes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4176"&gt;#4176&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/40cc05c3a975a80eab4f6274f167ce6044f23cfe"&gt;&lt;code&gt;40cc05c&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+&lt;code&gt;uc-number-input&lt;/code&gt;: Stepper buttons are no longer focusable
+&lt;code&gt;uc-combo-box&lt;/code&gt;: Apply suffix as aria-describedby
+&lt;code&gt;uc-date-input&lt;/code&gt;: Apply suffix as aria-describedby
+&lt;code&gt;uc-number-input&lt;/code&gt;: Apply suffix as aria-describedby
+&lt;code&gt;uc-select&lt;/code&gt;: Apply suffix as aria-describedby
+&lt;code&gt;uc-text-input&lt;/code&gt;: Apply suffix as aria-describedby
+&lt;code&gt;uc-time-input&lt;/code&gt;: Apply suffix as aria-describedby&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4204"&gt;#4204&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/fd304da4e1a2a6e4aa21d8041d78b1820c174ebc"&gt;&lt;code&gt;fd304da&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+&lt;code&gt;uc-button&lt;/code&gt; and various other components: Fixed font-weight
+that was not applied properly&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4214"&gt;#4214&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/df7debba4de873102ae9de32c8ebd9106a3d88c2"&gt;&lt;code&gt;df7debb&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/BartJanvanAssen"&gt;&lt;code&gt;@​BartJanvanAssen&lt;/code&gt;&lt;/a&gt;!
+- fix: min-height of the &lt;code&gt;uc-select-list&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4148"&gt;#4148&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/436765b2a0b87c9786d569a6c4b87003919138d2"&gt;&lt;code&gt;436765b&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/BartJanvanAssen"&gt;&lt;code&gt;@​BartJanvanAssen&lt;/code&gt;&lt;/a&gt;!
+- fix: &lt;code&gt;uc-select-list&lt;/code&gt; firefox scroll to selected
+position.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/nedap/unify-components/blob/main/packages/lit/CHANGELOG.md"&gt;&lt;code&gt;@​nedap/unify-components&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;16.20.0&lt;/h2&gt;
+&lt;h3&gt;Minor Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4132"&gt;#4132&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/66e4ce65de60a1b205fb650d75e2cccca11154cd"&gt;&lt;code&gt;66e4ce6&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/stefanonepanedap"&gt;&lt;code&gt;@​stefanonepanedap&lt;/code&gt;&lt;/a&gt;!
+- - 💅 4131 tokenize: &lt;code&gt;uc-dropddown-item&lt;/code&gt; &amp;amp;
+&lt;code&gt;uc-select-list-item&lt;/code&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adds dropdown-item destructive state &lt;a
+href="https://redirect.github.com/nedap/unify-components/issues/3432"&gt;ref&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;** Breaking change **
+&lt;code&gt;@nedap/unify-design-tokens-web&lt;/code&gt; has been bumped to 2.0.0.
+For more info see &lt;a
+href="https://github.com/nedap/unify-design-tokens/blob/main/packages/unify-design-tokens-web/CHANGELOG.md#200"&gt;the
+changelog&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4180"&gt;#4180&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/8b580aa35b667f7c0ee1bacdca418770e9d4897c"&gt;&lt;code&gt;8b580aa&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+Added new &lt;code&gt;uc-month-input&lt;/code&gt; component.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4180"&gt;#4180&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/8b580aa35b667f7c0ee1bacdca418770e9d4897c"&gt;&lt;code&gt;8b580aa&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+Added variant to the &lt;code&gt;uc-calendar&lt;/code&gt; component&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4206"&gt;#4206&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/ae9fd4c56949f6c5f8fd83ced9ff0efac279d586"&gt;&lt;code&gt;ae9fd4c&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+&lt;code&gt;uc-tab-group&lt;/code&gt;: Update indicator when tab name changes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4176"&gt;#4176&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/40cc05c3a975a80eab4f6274f167ce6044f23cfe"&gt;&lt;code&gt;40cc05c&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+&lt;code&gt;uc-number-input&lt;/code&gt;: Stepper buttons are no longer focusable
+&lt;code&gt;uc-combo-box&lt;/code&gt;: Apply suffix as aria-describedby
+&lt;code&gt;uc-date-input&lt;/code&gt;: Apply suffix as aria-describedby
+&lt;code&gt;uc-number-input&lt;/code&gt;: Apply suffix as aria-describedby
+&lt;code&gt;uc-select&lt;/code&gt;: Apply suffix as aria-describedby
+&lt;code&gt;uc-text-input&lt;/code&gt;: Apply suffix as aria-describedby
+&lt;code&gt;uc-time-input&lt;/code&gt;: Apply suffix as aria-describedby&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4204"&gt;#4204&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/fd304da4e1a2a6e4aa21d8041d78b1820c174ebc"&gt;&lt;code&gt;fd304da&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+&lt;code&gt;uc-button&lt;/code&gt; and various other components: Fixed font-weight
+that was not applied properly&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4214"&gt;#4214&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/df7debba4de873102ae9de32c8ebd9106a3d88c2"&gt;&lt;code&gt;df7debb&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/BartJanvanAssen"&gt;&lt;code&gt;@​BartJanvanAssen&lt;/code&gt;&lt;/a&gt;!
+- fix: min-height of the &lt;code&gt;uc-select-list&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4148"&gt;#4148&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/436765b2a0b87c9786d569a6c4b87003919138d2"&gt;&lt;code&gt;436765b&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/BartJanvanAssen"&gt;&lt;code&gt;@​BartJanvanAssen&lt;/code&gt;&lt;/a&gt;!
+- fix: &lt;code&gt;uc-select-list&lt;/code&gt; firefox scroll to selected
+position.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4148"&gt;#4148&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/436765b2a0b87c9786d569a6c4b87003919138d2"&gt;&lt;code&gt;436765b&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/BartJanvanAssen"&gt;&lt;code&gt;@​BartJanvanAssen&lt;/code&gt;&lt;/a&gt;!
+- Fixed a bug where a &lt;code&gt;uc-select&lt;/code&gt; would focus the wrong
+element when using the keyboard.
+Also ensured that this works correctly and consistently for combinations
+of uc-combo-box / uc-select and uc-select-list / uc-tree&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4204"&gt;#4204&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/fd304da4e1a2a6e4aa21d8041d78b1820c174ebc"&gt;&lt;code&gt;fd304da&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+&lt;code&gt;uc-tag-list&lt;/code&gt;: Removed default padding from the component&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4195"&gt;#4195&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/9286f54e9108529080f0072ebaf1b98e483fde29"&gt;&lt;code&gt;9286f54&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/BartJanvanAssen"&gt;&lt;code&gt;@​BartJanvanAssen&lt;/code&gt;&lt;/a&gt;!
+- fix: width behavior of the &lt;code&gt;uc-notification&lt;/code&gt; in a flex
+container.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/nedap/unify-components/pull/4188"&gt;#4188&lt;/a&gt;
+&lt;a
+href="https://github.com/nedap/unify-components/commit/0dbaaf950234b517d4426368501380b63d9a20d2"&gt;&lt;code&gt;0dbaaf9&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/pruik"&gt;&lt;code&gt;@​pruik&lt;/code&gt;&lt;/a&gt;! -
+&lt;code&gt;uc-fieldset&lt;/code&gt;: Updated default font size to Body S (13px)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/fe15dc85fcf81112fbf0f7bba31ce1b99671b2e9"&gt;&lt;code&gt;fe15dc8&lt;/code&gt;&lt;/a&gt;
+chore(release): version packages 🦋 (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4190"&gt;#4190&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/7ed3c1a163dc8e19e13fe5f65266ea496c7e0d98"&gt;&lt;code&gt;7ed3c1a&lt;/code&gt;&lt;/a&gt;
+chore(deps): update dependency intl-messageformat to v10.7.14&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/708eb0c03a2bb61e447e4a28847d50447c6bfab3"&gt;&lt;code&gt;708eb0c&lt;/code&gt;&lt;/a&gt;
+add select story code example (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4218"&gt;#4218&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/6e5a7d4041d62e97d9713b14ee06ec79ecc4195c"&gt;&lt;code&gt;6e5a7d4&lt;/code&gt;&lt;/a&gt;
+chore(deps): update vitest monorepo to v3.0.2&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/2de23a226f0bdc92104e0a9d374c83af90069718"&gt;&lt;code&gt;2de23a2&lt;/code&gt;&lt;/a&gt;
+chore(deps): update dependency intl-messageformat to v10.7.12&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/df7debba4de873102ae9de32c8ebd9106a3d88c2"&gt;&lt;code&gt;df7debb&lt;/code&gt;&lt;/a&gt;
+fix the height after change (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4214"&gt;#4214&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/3c178006d0319324c044b615638610e9b1786cea"&gt;&lt;code&gt;3c17800&lt;/code&gt;&lt;/a&gt;
+chore(deps): update vitest monorepo to v3.0.1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/cbd6c529bae6404f8d045d10a0e3d745ee81e5b7"&gt;&lt;code&gt;cbd6c52&lt;/code&gt;&lt;/a&gt;
+chore(deps): update dependency &lt;code&gt;@​types/node&lt;/code&gt; to
+v22.10.7&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/af52654f1869b56102985971ddae1416468c16fc"&gt;&lt;code&gt;af52654&lt;/code&gt;&lt;/a&gt;
+chore(deps): update vitest monorepo to v3 (major) (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4213"&gt;#4213&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nedap/unify-components/commit/436765b2a0b87c9786d569a6c4b87003919138d2"&gt;&lt;code&gt;436765b&lt;/code&gt;&lt;/a&gt;
+📦 4111 Align behavior for the select &amp;amp; combobox. (&lt;a
+href="https://github.com/nedap/unify-components/tree/HEAD/packages/lit/issues/4148"&gt;#4148&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/nedap/unify-components/commits/@nedap/unify-components@16.20.0/packages/lit"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@nedap/unify-components&amp;package-manager=npm_and_yarn&amp;previous-version=16.19.1&amp;new-version=16.20.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b8ede7</div>
+                                        <div class="message">build(deps): Bump keycloak-js from 26.0.5 to 26.1.0 in /web (#4954)
+
+Bumps [keycloak-js](https://github.com/keycloak/keycloak) from 26.0.5 to
+26.1.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/keycloak/keycloak/releases"&gt;keycloak-js's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;26.1.0&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/keycloak/keycloak/commit/90f25533be7a7fe2f97e9c0d2040343a8e3e8738"&gt;&lt;code&gt;90f2553&lt;/code&gt;&lt;/a&gt;
+Set version to 26.1.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/keycloak/keycloak/commit/3a8ca7d2026679917de53fbf88264bebb3c180fd"&gt;&lt;code&gt;3a8ca7d&lt;/code&gt;&lt;/a&gt;
+Committing **/proto.lock changes&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/keycloak/keycloak/commit/c1c147cb17897aee537ec2781eef819cd684e074"&gt;&lt;code&gt;c1c147c&lt;/code&gt;&lt;/a&gt;
+Restrict access to environment variables when at the server runtime (&lt;a
+href="https://redirect.github.com/keycloak/keycloak/issues/36472"&gt;#36472&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/keycloak/keycloak/commit/0332319538a4e3126707f13e2ab403cabbabc0b0"&gt;&lt;code&gt;0332319&lt;/code&gt;&lt;/a&gt;
+Make &lt;a
+href="https://github.com/EnableFeature"&gt;&lt;code&gt;@​EnableFeature&lt;/code&gt;&lt;/a&gt;
+to handle the case with added provider of currently non-u...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/keycloak/keycloak/commit/fd9db3a00e0d2fd9f5d37717155f817af5e04beb"&gt;&lt;code&gt;fd9db3a&lt;/code&gt;&lt;/a&gt;
+EMBARGOED CVE-2024-11734 org.keycloak/keycloak-quarkus-server: Denial of
+Serv...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/keycloak/keycloak/commit/05e612bfb67e7dc51050db334672cdb3c2c65323"&gt;&lt;code&gt;05e612b&lt;/code&gt;&lt;/a&gt;
+Moving the docs for password metrics to a new guide&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/keycloak/keycloak/commit/388fa5a3ebae20d1bdf8f92ee3ad29fbe438a622"&gt;&lt;code&gt;388fa5a&lt;/code&gt;&lt;/a&gt;
+Rename org.keycloak.test groupId to org.keycloak.testframework for new
+test f...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/keycloak/keycloak/commit/01f5a8c1c3e97944f8919c11338b1cebed9056ee"&gt;&lt;code&gt;01f5a8c&lt;/code&gt;&lt;/a&gt;
+Rename org.keycloak.test to org.keycloak.tests (&lt;a
+href="https://redirect.github.com/keycloak/keycloak/issues/36429"&gt;#36429&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/keycloak/keycloak/commit/53a2ed6fdbd8673e9b914f650e598cd9122763e6"&gt;&lt;code&gt;53a2ed6&lt;/code&gt;&lt;/a&gt;
+Fix Forgot Password?-button on the login-password page (&lt;a
+href="https://redirect.github.com/keycloak/keycloak/issues/36433"&gt;#36433&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/keycloak/keycloak/commit/8ddf94ca3b0a3c34fe1441fe24cf90a063d3ae3f"&gt;&lt;code&gt;8ddf94c&lt;/code&gt;&lt;/a&gt;
+Remove dependency on &lt;code&gt;dom&lt;/code&gt; library from admin client (&lt;a
+href="https://redirect.github.com/keycloak/keycloak/issues/35968"&gt;#35968&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/keycloak/keycloak/compare/26.0.5...26.1.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=keycloak-js&amp;package-manager=npm_and_yarn&amp;previous-version=26.0.5&amp;new-version=26.1.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2066f3</div>
+                                        <div class="message">
+                                            build(deps): Bump springboot from 3.4.1 to 3.4.2 (#4947)
+
+Bumps `springboot` from 3.4.1 to 3.4.2.
+Updates `org.springframework.boot:spring-boot-configuration-processor`
+from 3.4.1 to 3.4.2
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/spring-projects/spring-boot/releases"&gt;org.springframework.boot:spring-boot-configuration-processor's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v3.4.2&lt;/h2&gt;
+&lt;h2&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Bug Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Property metadata for &amp;quot;logging.structured.json.customizer&amp;quot;
+has incorrect type &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43916"&gt;#43916&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GraylogExtendedLogFormatProperties throws NullPointerException when
+only 'logging.structured.gelf.host' is specified &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/pull/43863"&gt;#43863&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Structured logging properties have no effect in a native image &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/pull/43862"&gt;#43862&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Docker Compose support for ClickHouse does not allow an empty
+password when ALLOW_EMPTY_PASSWORD=yes &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/pull/43790"&gt;#43790&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;docker compose ps now fails due to unknown --orphans flag with 2.23
+or earlier &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43717"&gt;#43717&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Build info timestamp is truncated to seconds &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43617"&gt;#43617&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;FileWatcher used for SSL reload does not support symlinks &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43604"&gt;#43604&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BindableRuntimeHintsRegistrar should handle TypeNotPresentException
+&lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43600"&gt;#43600&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CapturedOutput is empty when using Log4J2 StatusLogger &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43578"&gt;#43578&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Spring Boot 3.4 is not compatible with Gson 2.10 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43442"&gt;#43442&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NoClassDefFoundError when using JUnit to test a Gradle 7.6.x app
+that depends on spring-boot-actuator-autoconfigure but not on
+org.junit.platform:junit-platform-launcher &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43340"&gt;#43340&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Documentation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Document that the &lt;code&gt;@ConfigurationProperties&lt;/code&gt; annotation
+processor cannot generate description and defaultValue metadata for
+external types &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43929"&gt;#43929&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix description of management.metrics.graphql.autotime.enabled &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43905"&gt;#43905&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Document 'base64:' prefix support &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43835"&gt;#43835&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Document handling of &lt;code&gt;@Fallback&lt;/code&gt; beans in
+ConditionalOnSingleCandidate's javadoc &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/pull/43826"&gt;#43826&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Javadoc of DataSourceBuilder does not reference all supported types
+&lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43732"&gt;#43732&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update OpenTelemetry section in Supported Monitoring Systems to
+refer to OTLP instead &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43729"&gt;#43729&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Consistently document the minimum supported versions of Gradle &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43725"&gt;#43725&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Document that system libraries are a reason to customize the builder
+and switch away from builder-jammy-java-tiny &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43716"&gt;#43716&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Links to the Javadoc of Jakarta Messaging are invalid &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43662"&gt;#43662&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Paragraph HTML tags are rendered as-is in Maven Plugin reference
+documentation &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43623"&gt;#43623&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Javadoc link for jakarta.xml.bind is invalid &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43607"&gt;#43607&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation still has references to 'layertools' &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43605"&gt;#43605&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Javadoc of ConstructorBinding should not use markdown formatting &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43599"&gt;#43599&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Managed Dependency Coordinates lists Spock and OkHttp dependencies
+that are not managed &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43584"&gt;#43584&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;
+                                            <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFDUlEQVR4nO2aTUwjZRjHX70aD57UBJt4MRtPe/RkFNeAfC0gnwsou7ZbQjtt6bSdTqct01IolEIZprR0KAN0SvkQNrA3Ey9e9+JhEw+GTQ8bYoyJ0YMgrvQxz7iQjQKWNTF2mH/ypvP27Xv4/57/PO9MgBBduv4z5XI5g6IoVkVRCvl8/ltFUX4rFAprRMtaWFh4VZblYDab/VqW5eOlpSVYWVmB1dVVyOVyoCjKEc/zLxKtSZKk65Ik3ZMk6UiSJFheXob19XXY3d2Fzc1Ndb6ysvLz6urqXaIlZTKZ19Pp9OepVOo4k8mo1d7a2oKdnR3Y3t5WjcuyXMrlcmtLS0uvEa0IAF4QRXFQFMUfk8kkYNQ3NjZU82hcURTAJGSz2f3l5eUmoiWlUqlXBEH4YmZmBtLpNOTzeTXuGHWEsLCwAPPz86XFxUV5d3f3ZaIlCYJgmJqaejQ9Pa0aRfOFQgHW1tbUawSSTqd/kiSpg2hNgiAY4vF4cWpqSjWP9ztGHY1jh8dbIZlMPs5kMteIFs3HYrHi5OQkYLPDe/5pZz81L4riviiKbxKtaXx83BCNRovj4+NqxLPZLCwuLp5CwHkikUAAnUSL5sfGxopjY2NqlbH6GP9nIeAce4Ioir1ES+J5viocDu9FIhGYnZ2FVCqF3f1vEGRZBkEQEMJhMpmsI1oxHwqF9sLhsFpdrP7c3FxZEGZnZ+tJJYvneUMwGCwODw8Ddnw0hgn4Jwg48Nlgenr6IJFIVJNKFMdxb3AcVwwGgxCLxdTqo6lyIeDn0z1fkkoUx3Eyx3GATS8ej6sJKBcCDvxNPB4vJRIJilSi/H5/M8uyTzD+mIByIeDAo3BiYgJioeA9UsliWdbFsiyMjo6WBQEHrkejUYh4nOA39hyHjH2fkUoQRVFVLpfrvtvtfswwzCbDMAaO4971er0wMjLyZ0UvgCCKoro+GolA1O2AsOkW+O90VwYEhmEMQ0NDRZqmwePxgNvtxvErwzBHJwnAqp4HAQc+HSKoEdoK4TudEDF2VwYEiqKq7Hb7nsPhAGx62PUDgQD4fD51juc/AsBmeBYEHLjG8zzw9kEI9LXC8KdtlQPBZrM9pCgKMOpoGM0jBGx+oVBIBYCVRQg4x7WTWwJfiPBahWa5C96uRuBu3awsCBaL5RECwOifVP0sCH6/HxiGQVA/4G2B61h1/N5l6gdHay142uvOhTBi6jmFwJv7Bsj/RTRNv221Wr+32WwXQkDzHo/nK9zj9/tNLMv+7vP5SozdtmWu/+DJQOMNbUPwer249p3L5XoJ9/h8vut4SuC1seb9TzQPwY9Rd7mAZdnQWfuvBASapvF4VM7br2kIbrcbnE5nyePxNF+0XxMQnE7nWxaLZR9PBzSOlbfb7SWn08mVs19zECiKKjkcjrLMawoCTdPXrFbrOkVR5ufZrwkI/1Y6BKJDUKUngegQVOlJIDoEVXoSiA5BlZ4EokNQZaqp7rvyj80mHQL5C4Saq/kCZdIhEB0CSk8C0SGo0pNAdAiq9CQQHcKlX6Ce/dM8b+pturJvkdztbggYe74hWpLxEhB8tzsRwgHRmoxlQAj0dwDT1wZsf+cDokUZL4DA9rQA3d0C7t6PD7j+zneIVmU8A4KrowEc7Y3g7Lp56Ohqqux/3L4MBHPjDRhsrgFLSy1Q7fWH9ra6BnJVZK55r9bcUP1woPHDXwabax5QrR9pN/a6yPPrD4jUfc1C83jgAAAAAElFTkSuQmCC" height="16" width="16" alt="" />
+                                            Dependency Upgrades&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Upgrade to ActiveMQ 6.1.5 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43791"&gt;#43791&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Commons Codec 1.17.2 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43720"&gt;#43720&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Couchbase Client 3.7.7 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43843"&gt;#43843&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to FreeMarker 2.3.34 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43721"&gt;#43721&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Hibernate 6.6.5.Final &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43910"&gt;#43910&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to HttpCore5 5.3.2 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43792"&gt;#43792&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Infinispan 15.0.12.Final &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43911"&gt;#43911&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Jersey 3.1.10 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43793"&gt;#43793&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to jOOQ 3.19.18 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43844"&gt;#43844&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Lettuce 6.4.2.RELEASE &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43609"&gt;#43609&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Logback 1.5.16 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43715"&gt;#43715&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Micrometer 1.14.3 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43745"&gt;#43745&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Micrometer Tracing 1.4.2 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43746"&gt;#43746&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Netty 4.1.117.Final &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43845"&gt;#43845&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Postgresql 42.7.5 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43846"&gt;#43846&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Pulsar 3.3.4 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43912"&gt;#43912&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/f775945ef00ea34afa875c361cf6e34273b613fd"&gt;&lt;code&gt;f775945&lt;/code&gt;&lt;/a&gt;
+Release v3.4.2&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/068b9604198d999da6c16698816a43d45b5ba2bd"&gt;&lt;code&gt;068b960&lt;/code&gt;&lt;/a&gt;
+Merge branch '3.3.x' into 3.4.x&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/34c83539460078a35ad5ba3e1ba583ec0199ca1b"&gt;&lt;code&gt;34c8353&lt;/code&gt;&lt;/a&gt;
+Next development version (v3.3.9-SNAPSHOT)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/f184e98b7834cc71def363dca1be1f6f490420c7"&gt;&lt;code&gt;f184e98&lt;/code&gt;&lt;/a&gt;
+Merge branch '3.3.x' into 3.4.x&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/390963fe7414ca025b07c4b1c0891451afbb60a6"&gt;&lt;code&gt;390963f&lt;/code&gt;&lt;/a&gt;
+Document when defaultValue and description cannot be extracted&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/ef82719ca847982d1f7eb0bdf1c8b644ae7adbcf"&gt;&lt;code&gt;ef82719&lt;/code&gt;&lt;/a&gt;
+Fix memory comparison in ProcessInfoTests&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/1e35a0b82d6667cc54b31d60eb47f0ae71a5500b"&gt;&lt;code&gt;1e35a0b&lt;/code&gt;&lt;/a&gt;
+Correct the type of logging.structured.json.customizer&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/24e40e8f8202744f477b4741e927b9f4d767ba5e"&gt;&lt;code&gt;24e40e8&lt;/code&gt;&lt;/a&gt;
+Upgrade to Spring Pulsar 1.2.2&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/30dd62adca4d7d1184005a24f7ac0e9d23e9f641"&gt;&lt;code&gt;30dd62a&lt;/code&gt;&lt;/a&gt;
+Merge branch '3.3.x' into 3.4.x&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/a3eaafbbea8f1120ed977f5da66cf483a304971b"&gt;&lt;code&gt;a3eaafb&lt;/code&gt;&lt;/a&gt;
+Upgrade to Spring Pulsar 1.1.8&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/spring-projects/spring-boot/compare/v3.4.1...v3.4.2"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates
+`org.springframework.boot:org.springframework.boot.gradle.plugin` from
+3.4.1 to 3.4.2
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/spring-projects/spring-boot/releases"&gt;org.springframework.boot:org.springframework.boot.gradle.plugin's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v3.4.2&lt;/h2&gt;
+&lt;h2&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            Bug Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Property metadata for &amp;quot;logging.structured.json.customizer&amp;quot;
+has incorrect type &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43916"&gt;#43916&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GraylogExtendedLogFormatProperties throws NullPointerException when
+only 'logging.structured.gelf.host' is specified &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/pull/43863"&gt;#43863&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Structured logging properties have no effect in a native image &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/pull/43862"&gt;#43862&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Docker Compose support for ClickHouse does not allow an empty
+password when ALLOW_EMPTY_PASSWORD=yes &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/pull/43790"&gt;#43790&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;docker compose ps now fails due to unknown --orphans flag with 2.23
+or earlier &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43717"&gt;#43717&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Build info timestamp is truncated to seconds &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43617"&gt;#43617&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;FileWatcher used for SSL reload does not support symlinks &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43604"&gt;#43604&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BindableRuntimeHintsRegistrar should handle TypeNotPresentException
+&lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43600"&gt;#43600&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CapturedOutput is empty when using Log4J2 StatusLogger &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43578"&gt;#43578&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Spring Boot 3.4 is not compatible with Gson 2.10 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43442"&gt;#43442&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NoClassDefFoundError when using JUnit to test a Gradle 7.6.x app
+that depends on spring-boot-actuator-autoconfigure but not on
+org.junit.platform:junit-platform-launcher &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43340"&gt;#43340&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;
+                                            <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAJBklEQVR4nO3a6U9U+x3HcdNHbdQ+7l/QNKlRbot93MJ4c3sFBtBcW1FZBxCUfd9hWIVhmH1g9n1lR0RBKIrReLV6RUVFvRrUaDUaq9VqtZ9mfsDMOXjGBuaYnFZP8n7y/Z1tXhlmDuK6dV+2L1vQraCly76vuP5takUTemweTpWWmY2IiAhERccwrmst7m/WhbIVt8o6d+ZUwFd6VQssA6OcKvNgLgGIjuHT5qbeYXRb3aEDpFe3PFoGyKw9hL6JGU51IL+IAMTExtHm7rEpqC0sACSXCf9BBeidOMmpsv0AsbS5a2wSKovLh8AugHf8BKeiAlDnziPHobI4obbY2QRog+fYNKfKzitcBODH0uaO0QkozQ6oDSwCZNS2wX10mlNlUQCoc/vhCShMbAPUtME19hdORQWgzu2Hj0NudGA8edfs+W1bT/01Mnxg7tvf/TJkAOeRqaA5RichsfSiw+D8JIlMLliHJ2jXzMotWPwa5Md+cD96zxBOJsTiB144zvO24vvIrUOrBkgqFf6TCuB7kcFS2gfIfp+yWrmOds39FACme7qZFI8nvK9wOfK3OBMRPrNqgMQS4Tv/g1BNG3lrBavL7CX75TZ1obnbzGpVEg05d4W4m3ZNKgDTPd1MDBWgtOE9FcB2+HjQxEsA9QrjR/dbSyrnkB+AOs+kADAdN88uQCusIxNB6zR5lgAMH91vLSkdg34A6jwzJ98PwHRc6AAlFIDqVpiHx4MmMrrJfnVyfdB99P1j0PUdCZpp6BjjcfKlz5dysZo2z6AAMB3HKoCgupXcYLA6jK7FDyqZnnG9QWn4rx9yBxvFjMfK7f1kvaxTTZtnHMxbAuAzHjefGMcugHHwWNDaDYsANTI943qXpRc5TV3kRQZLqDYzHiuzBQCo8/RlgBj+B8eonQOY2c3HZd/XYGQ4zkaGj4YMYBg4GrR2/RKAVPfR/daS1NpHzl0qUtHmywBRMXzaXNc7io4eE44mxP94LnLr5e8jw6cubNsaFhpAVQv5GQ7WIZ2T7Fct1dHmPhDfja+mss5udLtH/OeQWAIA1HOnHwgAUOca7wjau42Ysvxh4oZjg+2ma4PkR/f6X6waYB8FIK2qBbr+I0Fr0zmWALT+WY93BN/lVq7poadFa/Wfx/fj45uViJS0awoO5PoBVt6P1OzCaVsYrtk3YM6+EXO2De41ANTTALR9o0Fr1dnJflUSLW2ucPSj0+ReVRKrl3aO5WeMkg4lbU4FYLqne+Ob8K/Jdbjr/RkuWzfOhAyg6R0NWqs2APCx/daS2LQIUNyhpM0F2QEApuPuHWMZoMd7OGgtmkWAwjY5+UpkswaVaRGgXUG7ZhoFgOme7h37dYgAxXSAbs9I0JbfAZ+y4nYl7Zpp2Tl+AKZ7YhUgtbIZavdw0JTOQfIWzW2WfJIKWqUQmz20a6ZmBQCY7mmBbQCVa5hTUQGY1heOsgygdA5xqtSsgwRgezT/gzWJyYOLns241/9T3HD6vgp/Pr5qgL0rABTOQU6V4geIoc2ltj40yTU4YfrN3+bsGxbm7BuvX3esj1wDQJ0fIKWyGXLHAKdK2R8AoM4lFi+Esh7Ey7JtYaroxq/UUQWb279eHxpARRNk9n5Olbz/gB+AOve9A1rVRkTKExEmj1pMGa0PGUBq6+dUyZkBAKZ1njMdm1x8hPXEIEy+fSZkAIm1j1NRAZjWlwG29ESvDWBPUQAguaIJYksvp0pa+vO4D4BpPdIpYBeg0+zlVEkZAQCmddYBRGYvp0pcAvg2OoZxnV2A8iZ0mDycigrAtB7BLkAj2o1uTrUvPcsPsHLN98tZhC4Zmw0x2KKKQpgiejIkgKTyRhwyuDiVHyAqhjZv0ztQJVIgQrZ3+Tng5RY1f9eqARIK6QBtehenogJQ5809VlS2y5FYN9wRUTyXxCua59fV4SdrAKgNAJQ1olXn5FR7BcsA0bR5i9aB6k4V4spPIrJwlsQruioOGaBF6+BUewX7/QAr15p9/0LVeAe8mr+DVzKPiIIfZkICSCwTkpNyqT0UAKb1nc33wKt7jcjSW+wANGlsnGqPINMPwLS+s3mBXYDGHhun2pO2CPDHqGjGddYBhN1WTpVAAWBa38EqQKkQDWoLp0pIDQAwre9oChFgd0EAYF+pEPUqM6dKSM3wA6xcq1UYEV83B17lI/BKrmNb4aXpkAHqlGZOtXsZYHs0bV6rMKGouQv80sXnAF7R7Hte8dzBNQDUUAAayIm51O6UAAB1Xi3Vo7CxE6l1lrSvy6//6vfFV1b/l+GVAHtLG1CtMHKqP6ek+wGo80qpDvmNIuS3dIb2P0V3UwFKGlAlN3CqAEAUbV4h0SJP2IF8YagAhTXvqACVMj2n+lNyAIA6L+/SIFfYjpxQAfYU1r6mAlRI9ZxqGeCb7VG0eZlYg9wGFgC+yy66viuvagmgHuUSHafalSzwAyzPijtUyBWKkFPPAkBcRv7FHVmF5CswRyiCSGNBp9ZKEuts6NLbSRKDA1KjkyQzuUhys5uksHigtHpJKlsv1PY+UrejHz3OAZLGNQite4ik8wyT9N4RkqH3MIx9oyRT/xGYB8ZIlsGj0NjcUGoNUBsssA2Po1VjQ1qZEIKyhrs5DSJbZkXTppAB4jMLYHR6MDU1henpaZw4cQIzMzM4deoUTp8+jTNnzuDs2bM4d+4czp8/jwsXLuDixYu4dOkSZmdnceXKFVy9ehXXrl3DjRs3MD8/j1u3buH27du4c+cO7t69i4WFBdy/fx8PHjzAw4cP8ejRIzx+/BhPnjzB06dP8ezZMzx//hwvXrzAy5cv8erVK7x+/Rpv3rzB27dv8e7dO7x//x6u0QnEZeQjNi1nIKQXTgVIKa7G5OTkZwxQ9BkDxGbkjcWl50Fnc32eAPFZxbviBLnwIeTVt6FGJENtp5xUJ1agvktJapCoIJSqSY2yblKTvIfUrNCgRakltap0aFPrSYe6DWjvMZI6NCaItGZSp85CEuutpC6DDRKjnSQ1OSAzO0lyiwsKq5uktHlIxa0Scq+sAfi22MyiA3GCvDtxgtx/xwpy8T8RmwBftnX//9t/AGJRzFN22Vg9AAAAAElFTkSuQmCC" height="16" width="16" alt="" />
+                                            Documentation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Document that the &lt;code&gt;@ConfigurationProperties&lt;/code&gt; annotation
+processor cannot generate description and defaultValue metadata for
+external types &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43929"&gt;#43929&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix description of management.metrics.graphql.autotime.enabled &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43905"&gt;#43905&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Document 'base64:' prefix support &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43835"&gt;#43835&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Document handling of &lt;code&gt;@Fallback&lt;/code&gt; beans in
+ConditionalOnSingleCandidate's javadoc &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/pull/43826"&gt;#43826&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Javadoc of DataSourceBuilder does not reference all supported types
+&lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43732"&gt;#43732&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update OpenTelemetry section in Supported Monitoring Systems to
+refer to OTLP instead &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43729"&gt;#43729&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Consistently document the minimum supported versions of Gradle &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43725"&gt;#43725&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Document that system libraries are a reason to customize the builder
+and switch away from builder-jammy-java-tiny &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43716"&gt;#43716&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Links to the Javadoc of Jakarta Messaging are invalid &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43662"&gt;#43662&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Paragraph HTML tags are rendered as-is in Maven Plugin reference
+documentation &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43623"&gt;#43623&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Javadoc link for jakarta.xml.bind is invalid &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43607"&gt;#43607&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation still has references to 'layertools' &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43605"&gt;#43605&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Javadoc of ConstructorBinding should not use markdown formatting &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43599"&gt;#43599&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Managed Dependency Coordinates lists Spock and OkHttp dependencies
+that are not managed &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43584"&gt;#43584&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;
+                                            <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFDUlEQVR4nO2aTUwjZRjHX70aD57UBJt4MRtPe/RkFNeAfC0gnwsou7ZbQjtt6bSdTqct01IolEIZprR0KAN0SvkQNrA3Ey9e9+JhEw+GTQ8bYoyJ0YMgrvQxz7iQjQKWNTF2mH/ypvP27Xv4/57/PO9MgBBduv4z5XI5g6IoVkVRCvl8/ltFUX4rFAprRMtaWFh4VZblYDab/VqW5eOlpSVYWVmB1dVVyOVyoCjKEc/zLxKtSZKk65Ik3ZMk6UiSJFheXob19XXY3d2Fzc1Ndb6ysvLz6urqXaIlZTKZ19Pp9OepVOo4k8mo1d7a2oKdnR3Y3t5WjcuyXMrlcmtLS0uvEa0IAF4QRXFQFMUfk8kkYNQ3NjZU82hcURTAJGSz2f3l5eUmoiWlUqlXBEH4YmZmBtLpNOTzeTXuGHWEsLCwAPPz86XFxUV5d3f3ZaIlCYJgmJqaejQ9Pa0aRfOFQgHW1tbUawSSTqd/kiSpg2hNgiAY4vF4cWpqSjWP9ztGHY1jh8dbIZlMPs5kMteIFs3HYrHi5OQkYLPDe/5pZz81L4riviiKbxKtaXx83BCNRovj4+NqxLPZLCwuLp5CwHkikUAAnUSL5sfGxopjY2NqlbH6GP9nIeAce4Ioir1ES+J5viocDu9FIhGYnZ2FVCqF3f1vEGRZBkEQEMJhMpmsI1oxHwqF9sLhsFpdrP7c3FxZEGZnZ+tJJYvneUMwGCwODw8Ddnw0hgn4Jwg48Nlgenr6IJFIVJNKFMdxb3AcVwwGgxCLxdTqo6lyIeDn0z1fkkoUx3Eyx3GATS8ej6sJKBcCDvxNPB4vJRIJilSi/H5/M8uyTzD+mIByIeDAo3BiYgJioeA9UsliWdbFsiyMjo6WBQEHrkejUYh4nOA39hyHjH2fkUoQRVFVLpfrvtvtfswwzCbDMAaO4971er0wMjLyZ0UvgCCKoro+GolA1O2AsOkW+O90VwYEhmEMQ0NDRZqmwePxgNvtxvErwzBHJwnAqp4HAQc+HSKoEdoK4TudEDF2VwYEiqKq7Hb7nsPhAGx62PUDgQD4fD51juc/AsBmeBYEHLjG8zzw9kEI9LXC8KdtlQPBZrM9pCgKMOpoGM0jBGx+oVBIBYCVRQg4x7WTWwJfiPBahWa5C96uRuBu3awsCBaL5RECwOifVP0sCH6/HxiGQVA/4G2B61h1/N5l6gdHay142uvOhTBi6jmFwJv7Bsj/RTRNv221Wr+32WwXQkDzHo/nK9zj9/tNLMv+7vP5SozdtmWu/+DJQOMNbUPwer249p3L5XoJ9/h8vut4SuC1seb9TzQPwY9Rd7mAZdnQWfuvBASapvF4VM7br2kIbrcbnE5nyePxNF+0XxMQnE7nWxaLZR9PBzSOlbfb7SWn08mVs19zECiKKjkcjrLMawoCTdPXrFbrOkVR5ufZrwkI/1Y6BKJDUKUngegQVOlJIDoEVXoSiA5BlZ4EokNQZaqp7rvyj80mHQL5C4Saq/kCZdIhEB0CSk8C0SGo0pNAdAiq9CQQHcKlX6Ce/dM8b+pturJvkdztbggYe74hWpLxEhB8tzsRwgHRmoxlQAj0dwDT1wZsf+cDokUZL4DA9rQA3d0C7t6PD7j+zneIVmU8A4KrowEc7Y3g7Lp56Ohqqux/3L4MBHPjDRhsrgFLSy1Q7fWH9ra6BnJVZK55r9bcUP1woPHDXwabax5QrR9pN/a6yPPrD4jUfc1C83jgAAAAAElFTkSuQmCC" height="16" width="16" alt="" />
+                                            Dependency Upgrades&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Upgrade to ActiveMQ 6.1.5 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43791"&gt;#43791&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Commons Codec 1.17.2 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43720"&gt;#43720&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Couchbase Client 3.7.7 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43843"&gt;#43843&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to FreeMarker 2.3.34 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43721"&gt;#43721&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Hibernate 6.6.5.Final &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43910"&gt;#43910&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to HttpCore5 5.3.2 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43792"&gt;#43792&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Infinispan 15.0.12.Final &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43911"&gt;#43911&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Jersey 3.1.10 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43793"&gt;#43793&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to jOOQ 3.19.18 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43844"&gt;#43844&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Lettuce 6.4.2.RELEASE &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43609"&gt;#43609&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Logback 1.5.16 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43715"&gt;#43715&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Micrometer 1.14.3 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43745"&gt;#43745&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Micrometer Tracing 1.4.2 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43746"&gt;#43746&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Netty 4.1.117.Final &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43845"&gt;#43845&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Postgresql 42.7.5 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43846"&gt;#43846&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Upgrade to Pulsar 3.3.4 &lt;a
+href="https://redirect.github.com/spring-projects/spring-boot/issues/43912"&gt;#43912&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/f775945ef00ea34afa875c361cf6e34273b613fd"&gt;&lt;code&gt;f775945&lt;/code&gt;&lt;/a&gt;
+Release v3.4.2&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/068b9604198d999da6c16698816a43d45b5ba2bd"&gt;&lt;code&gt;068b960&lt;/code&gt;&lt;/a&gt;
+Merge branch '3.3.x' into 3.4.x&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/34c83539460078a35ad5ba3e1ba583ec0199ca1b"&gt;&lt;code&gt;34c8353&lt;/code&gt;&lt;/a&gt;
+Next development version (v3.3.9-SNAPSHOT)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/f184e98b7834cc71def363dca1be1f6f490420c7"&gt;&lt;code&gt;f184e98&lt;/code&gt;&lt;/a&gt;
+Merge branch '3.3.x' into 3.4.x&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/390963fe7414ca025b07c4b1c0891451afbb60a6"&gt;&lt;code&gt;390963f&lt;/code&gt;&lt;/a&gt;
+Document when defaultValue and description cannot be extracted&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/ef82719ca847982d1f7eb0bdf1c8b644ae7adbcf"&gt;&lt;code&gt;ef82719&lt;/code&gt;&lt;/a&gt;
+Fix memory comparison in ProcessInfoTests&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/1e35a0b82d6667cc54b31d60eb47f0ae71a5500b"&gt;&lt;code&gt;1e35a0b&lt;/code&gt;&lt;/a&gt;
+Correct the type of logging.structured.json.customizer&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/24e40e8f8202744f477b4741e927b9f4d767ba5e"&gt;&lt;code&gt;24e40e8&lt;/code&gt;&lt;/a&gt;
+Upgrade to Spring Pulsar 1.2.2&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/30dd62adca4d7d1184005a24f7ac0e9d23e9f641"&gt;&lt;code&gt;30dd62a&lt;/code&gt;&lt;/a&gt;
+Merge branch '3.3.x' into 3.4.x&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/spring-projects/spring-boot/commit/a3eaafbbea8f1120ed977f5da66cf483a304971b"&gt;&lt;code&gt;a3eaafb&lt;/code&gt;&lt;/a&gt;
+Upgrade to Spring Pulsar 1.1.8&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/spring-projects/spring-boot/compare/v3.4.1...v3.4.2"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0339cdc</div>
+                                        <div class="message">
+                                            build(deps): Bump com.datadoghq:dd-java-agent from 1.45.1 to 1.45.2 (#4951)
+
+Bumps
+[com.datadoghq:dd-java-agent](https://github.com/datadog/dd-trace-java)
+from 1.45.1 to 1.45.2.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/datadog/dd-trace-java/releases"&gt;com.datadoghq:dd-java-agent's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;1.45.2&lt;/h2&gt;
+&lt;h1&gt;Components&lt;/h1&gt;
+&lt;h2&gt;Application Security Management (WAF)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            🍒 8258 - Prevents a NPE when there is no subscriber for user
+events (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8260"&gt;#8260&lt;/a&gt;
+- &lt;a
+href="https://github.com/manuel-alvarez-alvarez"&gt;&lt;code&gt;@​manuel-alvarez-alvarez&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DataDog/dd-trace-java/commit/400277e123c0cd6b3425a779d0a1c42f4b71ef92"&gt;&lt;code&gt;400277e&lt;/code&gt;&lt;/a&gt;
+Prevent NPE when there is no subscriber for user events (&lt;a
+href="https://redirect.github.com/datadog/dd-trace-java/issues/8260"&gt;#8260&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/datadog/dd-trace-java/compare/v1.45.1...v1.45.2"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.datadoghq:dd-java-agent&amp;package-manager=gradle&amp;previous-version=1.45.1&amp;new-version=1.45.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9d861e</div>
+                                        <div class="message">build(deps): Bump com.github.dasniko:testcontainers-keycloak from 3.5.1 to 3.6.0 (#4949)
+
+Bumps
+[com.github.dasniko:testcontainers-keycloak](https://github.com/dasniko/testcontainers-keycloak)
+from 3.5.1 to 3.6.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/releases"&gt;com.github.dasniko:testcontainers-keycloak's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v3.6.0&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add configuration to disable bootstrap of admin account by &lt;a
+href="https://github.com/marioschlipf"&gt;&lt;code&gt;@​marioschlipf&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dasniko/testcontainers-keycloak/pull/165"&gt;dasniko/testcontainers-keycloak#165&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/marioschlipf"&gt;&lt;code&gt;@​marioschlipf&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/dasniko/testcontainers-keycloak/pull/165"&gt;dasniko/testcontainers-keycloak#165&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/compare/3.5.1...3.6.0"&gt;https://github.com/dasniko/testcontainers-keycloak/compare/3.5.1...3.6.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/commit/2ef9fe96e0d7beb8169f74e7e73e35efce889b7e"&gt;&lt;code&gt;2ef9fe9&lt;/code&gt;&lt;/a&gt;
+[maven-release-plugin] prepare release 3.6.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/commit/6e64806411478b4a715cd03a0fa9f3daae0dd416"&gt;&lt;code&gt;6e64806&lt;/code&gt;&lt;/a&gt;
+adjust readme to new version&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/commit/f50a84bda5ae1cc3d5a686b3bc460316155ba8a2"&gt;&lt;code&gt;f50a84b&lt;/code&gt;&lt;/a&gt;
+upgrade to Keycloak 26.1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/commit/be484a43cbba1d0643d1f0f72460856cd8393572"&gt;&lt;code&gt;be484a4&lt;/code&gt;&lt;/a&gt;
+chore: update deps&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/commit/2b0deaa9f81c7bb4dd6786f454ae8ff9d4f8925e"&gt;&lt;code&gt;2b0deaa&lt;/code&gt;&lt;/a&gt;
+exclude slf4j impl collision&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/commit/db1cb62293492c447082b5c7f53a2b872e7067a6"&gt;&lt;code&gt;db1cb62&lt;/code&gt;&lt;/a&gt;
+Add configuration to disable bootstrap of admin account (&lt;a
+href="https://redirect.github.com/dasniko/testcontainers-keycloak/issues/165"&gt;#165&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/commit/6221e6db5cc0c4869c3535a2f00508968f2c32b8"&gt;&lt;code&gt;6221e6d&lt;/code&gt;&lt;/a&gt;
+improve info about version compatibility&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/commit/8989201821259d6af2574f5037d92f024fda5921"&gt;&lt;code&gt;8989201&lt;/code&gt;&lt;/a&gt;
+improve info about version compatibility&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/commit/96cb12d0bb6786869d978fc0151b60177efac6d7"&gt;&lt;code&gt;96cb12d&lt;/code&gt;&lt;/a&gt;
+update readme&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/commit/9fd1300412ad7ba911ba64f014d9338258826877"&gt;&lt;code&gt;9fd1300&lt;/code&gt;&lt;/a&gt;
+exclude javax.* dependencies introduced by shrinkwrap update&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/dasniko/testcontainers-keycloak/compare/3.5.1...3.6.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.github.dasniko:testcontainers-keycloak&amp;package-manager=gradle&amp;previous-version=3.5.1&amp;new-version=3.6.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06fdc7e</div>
+                                        <div class="message">build(deps): Bump org.openapi.generator from 7.10.0 to 7.11.0 (#4945)
+
+Bumps org.openapi.generator from 7.10.0 to 7.11.0.
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.openapi.generator&amp;package-manager=gradle&amp;previous-version=7.10.0&amp;new-version=7.11.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb8074d</div>
+                                        <div class="message">build(deps): Bump io.awspring.cloud:spring-cloud-aws-dependencies from 3.2.1 to 3.3.0 (#4950)
+
+Bumps
+[io.awspring.cloud:spring-cloud-aws-dependencies](https://github.com/awspring/spring-cloud-aws)
+from 3.2.1 to 3.3.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/awspring/spring-cloud-aws/releases"&gt;io.awspring.cloud:spring-cloud-aws-dependencies's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;3.3.0&lt;/h2&gt;
+&lt;h2&gt;Reference documentation&lt;/h2&gt;
+&lt;p&gt;📗 &lt;a
+href="https://docs.awspring.io/spring-cloud-aws/docs/3.3.0/reference/html/index.html"&gt;https://docs.awspring.io/spring-cloud-aws/docs/3.3.0/reference/html/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;p&gt;Spring Cloud AWS 3.3.0 brings compatibility with Spring Boot 3.4 and
+Spring Cloud 2024.0. Highlights:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;experimental&lt;/strong&gt; support for GraalVM native image
+builds contributed by &lt;a
+href="https://github.com/MatejNedic"&gt;&lt;code&gt;@​MatejNedic&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;auto-configuration of &lt;a
+href="https://github.com/aws/amazon-s3-encryption-client-java"&gt;amazon-s3-encryption-client-java&lt;/a&gt;
+for effortless encryption objects on the client side before they get
+sent to S3 by &lt;a
+href="https://github.com/MatejNedic"&gt;&lt;code&gt;@​MatejNedic&lt;/code&gt;&lt;/a&gt; (&lt;a
+href="https://docs.awspring.io/spring-cloud-aws/docs/3.3.0-M1/reference/html/index.html#s3-client-side-encryption"&gt;docs&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for &lt;code&gt;spring.config.import&lt;/code&gt; with S3 backend by
+&lt;a href="https://github.com/kunalvarpe"&gt;&lt;code&gt;@​kunalvarpe&lt;/code&gt;&lt;/a&gt; in
+&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/849"&gt;awspring/spring-cloud-aws#849&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;auto-configuration of &lt;a
+href="https://github.com/aws/aws-s3-accessgrants-plugin-java-v2"&gt;aws-s3-accessgrants-plugin-java-v2&lt;/a&gt;
+by &lt;a href="https://github.com/MatejNedic"&gt;&lt;code&gt;@​MatejNedic&lt;/code&gt;&lt;/a&gt;
+(&lt;a
+href="https://docs.awspring.io/spring-cloud-aws/docs/3.3.0-M1/reference/html/index.html#using-s3-access-grants"&gt;docs&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;populating Spring property source from EC2 instance metadata by &lt;a
+href="https://github.com/kennyk65"&gt;&lt;code&gt;@​kennyk65&lt;/code&gt;&lt;/a&gt; (&lt;a
+href="https://docs.awspring.io/spring-cloud-aws/docs/3.3.0-M1/reference/html/index.html#spring-cloud-aws-imds"&gt;docs&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;reworked and simplified customizing AWS client beans by &lt;a
+href="https://github.com/maciejwalkowiak"&gt;&lt;code&gt;@​maciejwalkowiak&lt;/code&gt;&lt;/a&gt;
+(&lt;a
+href="https://docs.awspring.io/spring-cloud-aws/docs/3.3.0-M1/reference/html/index.html#customizing-aws-clients"&gt;docs&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Full list of changes:&lt;/p&gt;
+&lt;h3&gt;Core&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Automatically populate &lt;code&gt;PropertySource&lt;/code&gt; with instance
+metadata when running within an EC2-based environment by &lt;a
+href="https://github.com/kennyk65"&gt;&lt;code&gt;@​kennyk65&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/962"&gt;awspring/spring-cloud-aws#962&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add client customizer interface for each supported integration by &lt;a
+href="https://github.com/maciejwalkowiak"&gt;&lt;code&gt;@​maciejwalkowiak&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1229"&gt;awspring/spring-cloud-aws#1229&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add GraalVM native image support by &lt;a
+href="https://github.com/MatejNedic"&gt;&lt;code&gt;@​MatejNedic&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/856"&gt;awspring/spring-cloud-aws#856&lt;/a&gt;
+and &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1297"&gt;awspring/spring-cloud-aws#1297&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;dualstack-enabled&lt;/code&gt; property to
+&lt;code&gt;AwsClientProperties&lt;/code&gt;. by &lt;a
+href="https://github.com/maciejwalkowiak"&gt;&lt;code&gt;@​maciejwalkowiak&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1294"&gt;awspring/spring-cloud-aws#1294&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;S3&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fine grained access control of S3 files via S3 Access Grant is now
+supported out of the box via S3AccessPlugin by &lt;a
+href="https://github.com/MatejNedic"&gt;&lt;code&gt;@​MatejNedic&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1247"&gt;awspring/spring-cloud-aws#1247&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add KMS, RSA or AES ClientSide file encryption support through
+&lt;code&gt;S3EncrpytionClient&lt;/code&gt; by &lt;a
+href="https://github.com/MatejNedic"&gt;&lt;code&gt;@​MatejNedic&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1033"&gt;awspring/spring-cloud-aws#1033&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;S3OutputStream&lt;/code&gt; can now be canceled at any time during
+upload by &lt;a
+href="https://github.com/zhemaituk"&gt;&lt;code&gt;@​zhemaituk&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1221"&gt;awspring/spring-cloud-aws#1221&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Remove throws IOException that is never thrown in S3Resource methods
+by &lt;a href="https://github.com/alexisgra"&gt;&lt;code&gt;@​alexisgra&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1222"&gt;awspring/spring-cloud-aws#1222&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;S3Operations#createResource&lt;/code&gt;. by &lt;a
+href="https://github.com/maciejwalkowiak"&gt;&lt;code&gt;@​maciejwalkowiak&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1223"&gt;awspring/spring-cloud-aws#1223&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix: Do not apply ObjectMetadata#contentLength for UploadPartRequest
+by &lt;a href="https://github.com/Mobe91"&gt;&lt;code&gt;@​Mobe91&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1249"&gt;awspring/spring-cloud-aws#1249&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add a constructor to S3ProtocolResolver allowing its usage outside
+of Spring context by &lt;a
+href="https://github.com/klach-ocado"&gt;&lt;code&gt;@​klach-ocado&lt;/code&gt;&lt;/a&gt; in
+&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1276"&gt;awspring/spring-cloud-aws#1276&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add support for &lt;code&gt;spring.config.import&lt;/code&gt; with S3 backend by
+&lt;a href="https://github.com/kunalvarpe"&gt;&lt;code&gt;@​kunalvarpe&lt;/code&gt;&lt;/a&gt; in
+&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/849"&gt;awspring/spring-cloud-aws#849&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Specify Content-MD5 when generating presigned URL for uploading
+object (&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1161"&gt;#1161&lt;/a&gt;)
+by &lt;a
+href="https://github.com/hardikSinghBehl"&gt;&lt;code&gt;@​hardikSinghBehl&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1252"&gt;awspring/spring-cloud-aws#1252&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Align &lt;code&gt;S3ConfigDataLocationResolver&lt;/code&gt; resolving behavior
+with Spring Boot resolvers by &lt;a
+href="https://github.com/MatejNedic"&gt;&lt;code&gt;@​MatejNedic&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1299"&gt;awspring/spring-cloud-aws#1299&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;SQS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Propagate &lt;code&gt;AWSTraceHeader&lt;/code&gt; by &lt;a
+href="https://github.com/acomofcg"&gt;&lt;code&gt;@​acomofcg&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1287"&gt;awspring/spring-cloud-aws#1287&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix deserializing lists with &lt;code&gt;@SnsNotificationMessage&lt;/code&gt; by
+&lt;a href="https://github.com/frjonsen"&gt;&lt;code&gt;@​frjonsen&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1282"&gt;awspring/spring-cloud-aws#1282&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix setting timeout in seconds in &lt;code&gt;SqsTemplate&lt;/code&gt; by &lt;a
+href="https://github.com/joey"&gt;&lt;code&gt;@​joey&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1250"&gt;awspring/spring-cloud-aws#1250&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add more detailed error message for SQS exceptions in
+&lt;code&gt;QueueAttributesResolver&lt;/code&gt; by &lt;a
+href="https://github.com/joseiedo"&gt;&lt;code&gt;@​joseiedo&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1200"&gt;awspring/spring-cloud-aws#1200&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;SNS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SnsTemplate&lt;/code&gt; provides functionality to validate topic
+existence (&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1137"&gt;#1137&lt;/a&gt;)
+by &lt;a
+href="https://github.com/hardikSinghBehl"&gt;&lt;code&gt;@​hardikSinghBehl&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1142"&gt;awspring/spring-cloud-aws#1142&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;SecretsManager&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix &lt;code&gt;AutoConfigureAfter&lt;/code&gt; for
+&lt;code&gt;SecretsManagerAutoConfiguration&lt;/code&gt; by &lt;a
+href="https://github.com/marcindabrowski"&gt;&lt;code&gt;@​marcindabrowski&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/pull/1235"&gt;awspring/spring-cloud-aws#1235&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Parameter Store&lt;/h3&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/awspring/spring-cloud-aws/commit/9afabe73f6861ea4037aa519c627d8b354b8ef91"&gt;&lt;code&gt;9afabe7&lt;/code&gt;&lt;/a&gt;
+Prepare release (&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1324"&gt;#1324&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/awspring/spring-cloud-aws/commit/39ef0058cc5c2852435b45cb7626c0b4796cf964"&gt;&lt;code&gt;39ef005&lt;/code&gt;&lt;/a&gt;
+Upgrade AWS SDK to 2.29.52 (&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1320"&gt;#1320&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/awspring/spring-cloud-aws/commit/d902994fb44d47efba567b8d6ea031d74de967a8"&gt;&lt;code&gt;d902994&lt;/code&gt;&lt;/a&gt;
+Upgrade to Spring Modulith 1.3 upgrade (&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1317"&gt;#1317&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/awspring/spring-cloud-aws/commit/425b6c857ffa2ee6446f133ae07c34d270d6e569"&gt;&lt;code&gt;425b6c8&lt;/code&gt;&lt;/a&gt;
+Set version to 3.3.0-SNAPSHOT (&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1306"&gt;#1306&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/awspring/spring-cloud-aws/commit/7944893fd981ffb668b4527c22c21c890c8fa5cd"&gt;&lt;code&gt;7944893&lt;/code&gt;&lt;/a&gt;
+Update readme (&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1305"&gt;#1305&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/awspring/spring-cloud-aws/commit/bf256b1b15991cb94baa7f443698a605cae92720"&gt;&lt;code&gt;bf256b1&lt;/code&gt;&lt;/a&gt;
+Set version to 3.3.1-SNAPSHOT (&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1304"&gt;#1304&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/awspring/spring-cloud-aws/commit/bc4335d558b7a583b163ea5e15fcf91d78fa94f5"&gt;&lt;code&gt;bc4335d&lt;/code&gt;&lt;/a&gt;
+Set version to 3.3.0-RC1 (&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1300"&gt;#1300&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/awspring/spring-cloud-aws/commit/9e4ebe9d69a9ec5db582c47adbc4f1fd92bfdc6a"&gt;&lt;code&gt;9e4ebe9&lt;/code&gt;&lt;/a&gt;
+Align &lt;code&gt;S3ConfigDataLocationResolver&lt;/code&gt; resolving behavior with
+Spring Boot reso...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/awspring/spring-cloud-aws/commit/9aea25b327847acf9c1dd11b9a86fc3816f39e27"&gt;&lt;code&gt;9aea25b&lt;/code&gt;&lt;/a&gt;
+Upgrade AWS SDK to 2.29.35 and AWS S3 Encryption Client to 3.3.0 (&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1303"&gt;#1303&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/awspring/spring-cloud-aws/commit/6150974fc6de14fd9eb70aa1ed19c9e9a6436b79"&gt;&lt;code&gt;6150974&lt;/code&gt;&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1285"&gt;#1285&lt;/a&gt;
+Document SecretsManager cross-account access. (&lt;a
+href="https://redirect.github.com/awspring/spring-cloud-aws/issues/1302"&gt;#1302&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/awspring/spring-cloud-aws/compare/v3.2.1...v3.3.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.awspring.cloud:spring-cloud-aws-dependencies&amp;package-manager=gradle&amp;previous-version=3.2.1&amp;new-version=3.3.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c026b76</div>
+                                        <div class="message">build(deps): Bump com.nedap.healthcare:cupido-mappings from 6.306.0-jakarta to 6.313.0-jakarta (#4948)
+
+Bumps
+[com.nedap.healthcare:cupido-mappings](https://github.com/nedap/cupido)
+from 6.306.0-jakarta to 6.313.0-jakarta.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/nedap/cupido/releases"&gt;com.nedap.healthcare:cupido-mappings's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.313.0&lt;/h2&gt;
+&lt;p&gt;2025-01-24 - Daan te Bokkel, Remove quorum migration code (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7183"&gt;#7183&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.312.0&lt;/h2&gt;
+&lt;p&gt;2025-01-22 - arthur-wol, add POST versions of fhir search requests
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7200"&gt;#7200&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.311.0&lt;/h2&gt;
+&lt;p&gt;2025-01-21 - Björn Hollander, BO-5935 -- Expose CRUD API's for WPM
+(&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7203"&gt;#7203&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.310.0&lt;/h2&gt;
+&lt;p&gt;2025-01-21 - Bas Biesheuvel, BO-5231 -- Add teamName to Employee
+model. (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7204"&gt;#7204&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.309.0&lt;/h2&gt;
+&lt;p&gt;2025-01-21 - renovate[bot], chore(deps): update actions/stale digest
+to 5bef64f (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7196"&gt;#7196&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.308.0&lt;/h2&gt;
+&lt;p&gt;2025-01-21 - MeesN, Fix defaults with &lt;code&gt;limit&lt;/code&gt; and
+&lt;code&gt;offset&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/6938"&gt;#6938&lt;/a&gt;)
+2025-01-21 - renovate[bot], chore(deps): update dependency
+concurrent-ruby to v1.3.5 (ruby) (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7201"&gt;#7201&lt;/a&gt;)&lt;/p&gt;
+&lt;h2&gt;v6.307.0&lt;/h2&gt;
+&lt;p&gt;2025-01-21 - renovate[bot], fix(deps): update all non-major
+dependencies (java) (&lt;a
+href="https://redirect.github.com/nedap/cupido/issues/7202"&gt;#7202&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/nedap/cupido/commits"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.nedap.healthcare:cupido-mappings&amp;package-manager=gradle&amp;previous-version=6.306.0-jakarta&amp;new-version=6.313.0-jakarta)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd67789</div>
+                                        <div class="message">build(deps): Bump org.keycloak:keycloak-admin-client from 26.0.3 to 26.0.4 (#4946)
+
+Bumps org.keycloak:keycloak-admin-client from 26.0.3 to 26.0.4.
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.keycloak:keycloak-admin-client&amp;package-manager=gradle&amp;previous-version=26.0.3&amp;new-version=26.0.4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58f0371</div>
+                                        <div class="message">build(deps): Bump dependabot/fetch-metadata from 2.2.0 to 2.3.0 (#4944)
+
+Bumps
+[dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata)
+from 2.2.0 to 2.3.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/dependabot/fetch-metadata/releases"&gt;dependabot/fetch-metadata's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v2.3.0&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump actions/create-github-app-token from 1.10.2 to 1.10.3 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/pull/537"&gt;dependabot/fetch-metadata#537&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update readme to include an if conditional by &lt;a
+href="https://github.com/Nishnha"&gt;&lt;code&gt;@​Nishnha&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/pull/548"&gt;dependabot/fetch-metadata#548&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Silence audit and funding messages from &lt;code&gt;npm&lt;/code&gt; by &lt;a
+href="https://github.com/jeffwidman"&gt;&lt;code&gt;@​jeffwidman&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/pull/550"&gt;dependabot/fetch-metadata#550&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump actions/create-github-app-token from 1.10.3 to 1.11.0 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/pull/554"&gt;dependabot/fetch-metadata#554&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix readme action example by &lt;a
+href="https://github.com/CloudNStoyan"&gt;&lt;code&gt;@​CloudNStoyan&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/pull/563"&gt;dependabot/fetch-metadata#563&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fixed missing outputs in action.yml by &lt;a
+href="https://github.com/CatChen"&gt;&lt;code&gt;@​CatChen&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/pull/564"&gt;dependabot/fetch-metadata#564&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Handle branch names containing dependency group by &lt;a
+href="https://github.com/CloudNStoyan"&gt;&lt;code&gt;@​CloudNStoyan&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/pull/565"&gt;dependabot/fetch-metadata#565&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;v2.3.0 by &lt;a
+href="https://github.com/fetch-metadata-action-automation"&gt;&lt;code&gt;@​fetch-metadata-action-automation&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/pull/543"&gt;dependabot/fetch-metadata#543&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/CloudNStoyan"&gt;&lt;code&gt;@​CloudNStoyan&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/pull/563"&gt;dependabot/fetch-metadata#563&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/CatChen"&gt;&lt;code&gt;@​CatChen&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/pull/564"&gt;dependabot/fetch-metadata#564&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/dependabot/fetch-metadata/compare/v2...v2.3.0"&gt;https://github.com/dependabot/fetch-metadata/compare/v2...v2.3.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dependabot/fetch-metadata/commit/d7267f607e9d3fb96fc2fbe83e0af444713e90b7"&gt;&lt;code&gt;d7267f6&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/issues/543"&gt;#543&lt;/a&gt;
+from dependabot/bump-to-v2.3.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dependabot/fetch-metadata/commit/e3dd295a04f6eccc15a116fc5cde058f1735c05d"&gt;&lt;code&gt;e3dd295&lt;/code&gt;&lt;/a&gt;
+v2.3.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dependabot/fetch-metadata/commit/3da9521b8c62beab87c4d18ad1e9bd7fd7b9d3bf"&gt;&lt;code&gt;3da9521&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/issues/565"&gt;#565&lt;/a&gt;
+from CloudNStoyan/main&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dependabot/fetch-metadata/commit/de52f600152fa3f48a82e88e06e864cba8421436"&gt;&lt;code&gt;de52f60&lt;/code&gt;&lt;/a&gt;
+update build&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dependabot/fetch-metadata/commit/59d2b1fb73ac123a1953e2ddc99ea8f1b869463a"&gt;&lt;code&gt;59d2b1f&lt;/code&gt;&lt;/a&gt;
+fix incorrect parsing of directory when using dependency-group&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dependabot/fetch-metadata/commit/0d270694949cee4e6c179fc89629d95e0b9fb763"&gt;&lt;code&gt;0d27069&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/issues/564"&gt;#564&lt;/a&gt;
+from CatChen/fixed-missing-outputs-in-action-yml&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dependabot/fetch-metadata/commit/5a7546a6e709997b54d62d4e673a23eaa8621a26"&gt;&lt;code&gt;5a7546a&lt;/code&gt;&lt;/a&gt;
+Fixed missing outputs in action.yml&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dependabot/fetch-metadata/commit/06ea45a2e4582d87b11f03c7ce596ae3261f39f6"&gt;&lt;code&gt;06ea45a&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/issues/563"&gt;#563&lt;/a&gt;
+from CloudNStoyan/main&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dependabot/fetch-metadata/commit/bbfca7ec1c0b06b16cc955f242ebc9f1c8daa4f4"&gt;&lt;code&gt;bbfca7e&lt;/code&gt;&lt;/a&gt;
+fix readme action example&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dependabot/fetch-metadata/commit/b0d0393a82702c1819b5ae7ad6ea780cd8c18aae"&gt;&lt;code&gt;b0d0393&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/dependabot/fetch-metadata/issues/554"&gt;#554&lt;/a&gt;
+from dependabot/dependabot/github_actions/actions/cre...&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/dependabot/fetch-metadata/compare/v2.2.0...v2.3.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=dependabot/fetch-metadata&amp;package-manager=github_actions&amp;previous-version=2.2.0&amp;new-version=2.3.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9b5aca</div>
+                                        <div class="message">feat: Weekly URL verification webhooks (#4816)
+
+https://hc-nedap.atlassian.net/browse/CE-5430</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1f8bff</div>
+                                        <div class="message">refactor: Added EndpointOperationType to endpoint (#4942)
+
+https://hc-nedap.atlassian.net/browse/CE-5533</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3452c0</div>
+                                        <div class="message">refactor: Check for limiting amount of chars in webhooks URL (#4931)
+
+https://hc-nedap.atlassian.net/browse/CE-5405</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2ba921</div>
+                                        <div class="message">fix: Use stage specific keycloak url in frontend (#4938)
+
+Co-authored-by: Ramon Onis &lt;ramon.onis@nedap.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b92d9e6</div>
+                                        <div class="message">build(deps-dev): Bump vite from 5.4.11 to 5.4.14 in /web in the npm_and_yarn group (#4939)
+
+Bumps the npm_and_yarn group in /web with 1 update:
+[vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite).
+
+Updates `vite` from 5.4.11 to 5.4.14
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/vitejs/vite/releases"&gt;vite's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v5.4.14&lt;/h2&gt;
+&lt;p&gt;Please refer to &lt;a
+href="https://github.com/vitejs/vite/blob/v5.4.14/packages/vite/CHANGELOG.md"&gt;CHANGELOG.md&lt;/a&gt;
+for details.&lt;/p&gt;
+&lt;h2&gt;v5.4.13&lt;/h2&gt;
+&lt;p&gt;Please refer to &lt;a
+href="https://github.com/vitejs/vite/blob/v5.4.13/packages/vite/CHANGELOG.md"&gt;CHANGELOG.md&lt;/a&gt;
+for details.&lt;/p&gt;
+&lt;h2&gt;v5.4.12&lt;/h2&gt;
+&lt;p&gt;This version contains a breaking change due to security fixes. See &lt;a
+href="https://github.com/vitejs/vite/security/advisories/GHSA-vg6x-rcgg-rjx6"&gt;https://github.com/vitejs/vite/security/advisories/GHSA-vg6x-rcgg-rjx6&lt;/a&gt;
+for more details.&lt;/p&gt;
+&lt;p&gt;Please refer to &lt;a
+href="https://github.com/vitejs/vite/blob/v5.4.12/packages/vite/CHANGELOG.md"&gt;CHANGELOG.md&lt;/a&gt;
+for details.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/vitejs/vite/blob/v5.4.14/packages/vite/CHANGELOG.md"&gt;vite's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;&lt;!-- raw HTML omitted --&gt;5.4.14 (2025-01-21)&lt;!-- raw HTML omitted
+--&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: &lt;code&gt;preview.allowedHosts&lt;/code&gt; with specific values was not
+respected (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/19246"&gt;#19246&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite/commit/9df6e6beabf0d18988ec13b8b742d2aba29662f9"&gt;9df6e6b&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/19246"&gt;#19246&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix: allow CORS from loopback addresses by default (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/19249"&gt;#19249&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite/commit/7d1699ccf673e2790704756d89d2e1e4ee478fb4"&gt;7d1699c&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/19249"&gt;#19249&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;!-- raw HTML omitted --&gt;5.4.13 (2025-01-20)&lt;!-- raw HTML omitted
+--&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: try parse &lt;code&gt;server.origin&lt;/code&gt; URL (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/19241"&gt;#19241&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite/commit/5946215718e369c34f6cc9415391d2ca84efe327"&gt;5946215&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/19241"&gt;#19241&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;!-- raw HTML omitted --&gt;5.4.12 (2025-01-20)&lt;!-- raw HTML omitted
+--&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix!: check host header to prevent DNS rebinding attacks and
+introduce &lt;code&gt;server.allowedHosts&lt;/code&gt; (&lt;a
+href="https://github.com/vitejs/vite/commit/9da4abc8dde7f032ca1f23f425c2060b9b9ebd34"&gt;9da4abc&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix!: default &lt;code&gt;server.cors: false&lt;/code&gt; to disallow fetching
+from untrusted origins (&lt;a
+href="https://github.com/vitejs/vite/commit/dfea38f1ff9f6fc0f0ca57927c527b0b9ffd2210"&gt;dfea38f&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix: verify token for HMR WebSocket connection (&lt;a
+href="https://github.com/vitejs/vite/commit/b71a5c89a1b4b913813ae665e6e04dd9d18c189c"&gt;b71a5c8&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;chore: add deps update changelog (&lt;a
+href="https://github.com/vitejs/vite/commit/ecd2375460edb4ae258fed4abe6c6f6ed7323b23"&gt;ecd2375&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/e7eb3c5559e6f7ec6f5ca834c2ff4d680f58e81b"&gt;&lt;code&gt;e7eb3c5&lt;/code&gt;&lt;/a&gt;
+release: v5.4.14&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/7d1699ccf673e2790704756d89d2e1e4ee478fb4"&gt;&lt;code&gt;7d1699c&lt;/code&gt;&lt;/a&gt;
+fix: allow CORS from loopback addresses by default (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/19249"&gt;#19249&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/9df6e6beabf0d18988ec13b8b742d2aba29662f9"&gt;&lt;code&gt;9df6e6b&lt;/code&gt;&lt;/a&gt;
+fix: &lt;code&gt;preview.allowedHosts&lt;/code&gt; with specific values was not
+respected (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/19246"&gt;#19246&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/a1824c5ff13578d590176275ac309a0ab48ee5b9"&gt;&lt;code&gt;a1824c5&lt;/code&gt;&lt;/a&gt;
+release: v5.4.13&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/5946215718e369c34f6cc9415391d2ca84efe327"&gt;&lt;code&gt;5946215&lt;/code&gt;&lt;/a&gt;
+fix: try parse &lt;code&gt;server.origin&lt;/code&gt; URL (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/19241"&gt;#19241&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/f428aa9af8534b214abb09fe4456653eb09913e7"&gt;&lt;code&gt;f428aa9&lt;/code&gt;&lt;/a&gt;
+release: v5.4.12&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/9da4abc8dde7f032ca1f23f425c2060b9b9ebd34"&gt;&lt;code&gt;9da4abc&lt;/code&gt;&lt;/a&gt;
+fix!: check host header to prevent DNS rebinding attacks and introduce
+`serve...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/b71a5c89a1b4b913813ae665e6e04dd9d18c189c"&gt;&lt;code&gt;b71a5c8&lt;/code&gt;&lt;/a&gt;
+fix: verify token for HMR WebSocket connection&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/dfea38f1ff9f6fc0f0ca57927c527b0b9ffd2210"&gt;&lt;code&gt;dfea38f&lt;/code&gt;&lt;/a&gt;
+fix!: default &lt;code&gt;server.cors: false&lt;/code&gt; to disallow fetching from
+untrusted origins&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/ecd2375460edb4ae258fed4abe6c6f6ed7323b23"&gt;&lt;code&gt;ecd2375&lt;/code&gt;&lt;/a&gt;
+chore: add deps update changelog&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/vitejs/vite/commits/v5.4.14/packages/vite"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=vite&amp;package-manager=npm_and_yarn&amp;previous-version=5.4.11&amp;new-version=5.4.14)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+You can disable automated security fix PRs for this repo from the
+[Security Alerts
+page](https://github.com/nedap/rapidash/network/alerts).
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df39940</div>
+                                        <div class="message">fix: Remove duplicate key in application yaml (#4937)
+
+There were 2 root `spring` keys</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd63786</div>
+                                        <div class="message">fix: Use correct variable name for jwt issuer-uri (#4936)
+
+Should look the same as the development-config
+```
+spring:
+  security.oauth2.resourceserver.jwt.issuer-uri: https://ons-api-idp-development.ons.io/realms/ons-api-dashboard-realm
+  datasource:
+    url: jdbc:mysql://${DB_MYSQL_HOST}:${DB_MYSQL_PORT}/${DB_MYSQL_DATABASE}?serverTimezone=CET
+    username: ${DB_MYSQL_USERNAME}
+    password: ${DB_MYSQL_PASSWORD}
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ea71d2</div>
+                                        <div class="message">refactor: Remove Topdesk reference in Feedback modal (#4843)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a44c27</div>
+                                        <div class="message">feat: Add Ons API IDP as identity provider (#4780)
+
+Co-authored-by: Ruben Hofsink &lt;73891828+ruben-hofsink@users.noreply.github.com&gt;
+Co-authored-by: Joep Eding &lt;joep.eding@nedap.com&gt;
+Co-authored-by: Timon Klein Gunnewiek &lt;160027088+timonkg@users.noreply.github.com&gt;
+Co-authored-by: Wouter Bos &lt;wouwouwou@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -4239,46 +6422,6 @@ Co-authored-by: timon.kleingunnewiek &lt;timon.kleingunnewiek@nedap.com&gt;</div
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">nedap/rapidash</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ci/migrate-semaphore-to-gha</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ec704d7</div>
-                                        <div class="message">Now focusing on the versionflow test for Firefox concerning CSRs</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">nedap/rapidash</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ci/migrate-semaphore-to-gha</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6dc2150</div>
-                                        <div class="message">Now focusing on the versionflow test for Firefox concerning CSRs</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -4302,7 +6445,7 @@ Co-authored-by: timon.kleingunnewiek &lt;timon.kleingunnewiek@nedap.com&gt;</div
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2025, 19:12:21 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2025, 20:18:14 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
